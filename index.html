@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WIRE DESK — Presidential Mention Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #EDE9DF;
+    --ink-dim: #9B9587;
+    --paper: #14120F;
+    --paper-raised: #1C1915;
+    --rule: #3A362E;
+    --gold: #C89B3C;
+    --gold-dim: #7A6329;
+    --teal: #4E8C87;
+    --teal-dim: #2E4F4C;
+    --red: #B5533C;
+    --green: #6E9B5C;
+    --mono: 'IBM Plex Mono', monospace;
+    --display: 'Barlow Condensed', sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--mono);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--gold); }
+
+  /* ===== TICKER MARQUEE — signature element ===== */
+  .ticker-wrap {
+    background: #0A0908;
+    border-bottom: 1px solid var(--rule);
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 9px 0;
+  }
+  .ticker-track {
+    display: inline-block;
+    animation: scroll 45s linear infinite;
+  }
+  .ticker-track span {
+    font-size: 12.5px;
+    letter-spacing: 0.03em;
+    margin-right: 42px;
+    color: var(--ink-dim);
+  }
+  .ticker-track span.up { color: var(--green); }
+  .ticker-track span.down { color: var(--red); }
+  .ticker-track b { color: var(--ink); font-weight: 600; }
+  @keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 44px 24px 28px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .masthead {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .masthead h1 {
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: 44px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+  .masthead h1 span { color: var(--gold); }
+  .dateline {
+    font-size: 12px;
+    color: var(--ink-dim);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .subhead {
+    margin-top: 10px;
+    font-size: 14px;
+    color: var(--ink-dim);
+    max-width: 640px;
+  }
+
+  /* ===== SECTION LABELS ===== */
+  .section {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 36px 24px;
+  }
+  .section-label {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  .section-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+  .section-label.direct { color: var(--gold); }
+  .section-label.indirect { color: var(--teal); }
+
+  /* ===== FEED GRID ===== */
+  .feed-grid {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 28px;
+  }
+  @media (max-width: 760px) {
+    .feed-grid { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--gold-dim);
+    padding: 16px 18px;
+    margin-bottom: 12px;
+  }
+  .card.indirect { border-left-color: var(--teal-dim); }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+  .card-source {
+    font-size: 10.5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+  }
+  .card.indirect .card-source { color: var(--teal); }
+  .card-time { font-size: 11px; color: var(--ink-dim); }
+
+  .card-headline {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 1.25;
+    margin-bottom: 8px;
+  }
+
+  .card-tags { display: flex; gap: 8px; flex-wrap: wrap; }
+  .tag {
+    font-size: 10.5px;
+    letter-spacing: 0.05em;
+    padding: 2px 8px;
+    border: 1px solid var(--rule);
+    color: var(--ink-dim);
+    text-transform: uppercase;
+  }
+  .tag.ticker { color: var(--ink); border-color: var(--gold-dim); }
+
+  /* ===== TRACKED POSITIONS TABLE ===== */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13.5px;
+  }
+  th {
+    text-align: left;
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    border-bottom: 1px solid var(--rule);
+    padding: 10px 12px;
+  }
+  td {
+    padding: 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+  tr:hover td { background: rgba(200,155,60,0.04); }
+  .ticker-cell { font-weight: 600; color: var(--gold); }
+  .pct.up { color: var(--green); }
+  .pct.down { color: var(--red); }
+  .day-dots { display: flex; gap: 4px; }
+  .day-dots span {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--rule);
+  }
+  .day-dots span.filled { background: var(--gold); }
+
+  /* ===== FOOTER / CAVEAT ===== */
+  footer {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 30px 24px 60px;
+    border-top: 1px solid var(--rule);
+  }
+  .caveat {
+    font-size: 12.5px;
+    color: var(--ink-dim);
+    max-width: 680px;
+    line-height: 1.6;
+  }
+  .caveat b { color: var(--ink); }
+
+  .empty {
+    font-size: 13px;
+    color: var(--ink-dim);
+    font-style: italic;
+    padding: 20px 0;
+  }
+</style>
+</head>
+<body>
+
+  <div class="ticker-wrap">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+
+  <header>
+    <div class="masthead">
+      <h1>WIRE <span>DESK</span></h1>
+      <div class="dateline" id="dateline"></div>
+    </div>
+    <p class="subhead">Tracks direct statements (Truth Social, White House) and indirect news coverage that name a stock on your watchlist, then follows the price for four trading days so you can judge the reaction yourself.</p>
+  </header>
+
+  <div class="section">
+    <div class="section-label direct">Direct — his own channels</div>
+    <div id="directFeed"></div>
+  </div>
+
+  <div class="section">
+    <div class="section-label indirect">Indirect — news coverage</div>
+    <div id="indirectFeed"></div>
+  </div>
+
+  <div class="section">
+    <div class="section-label">Tracked positions — 4 day window</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Ticker</th>
+          <th>Keyword</th>
+          <th>At detection</th>
+          <th>Now</th>
+          <th>Change</th>
+          <th>Days tracked</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <footer>
+    <p class="caveat">
+      <b>What this is:</b> a personal research feed built on top of a script that watches a defined watchlist for mentions, then reports the price before and after. <b>What this isn't:</b> a trading signal. A confirmed multi-day trend has usually already been priced in by the time it shows up here — this exists to save you from checking the news manually, not to predict anything. Data shown is a static demo; connect it to your <code>tracker_v2.py</code> output to make it live.
+    </p>
+  </footer>
+
+<script>
+  // ---- LIVE DATA ----
+  // Fetches mentions.json, written by tracker_v2.py's export_site_json()
+  // on every run. Falls back to small built-in demo data if the file
+  // isn't reachable yet (e.g. first deploy, before the tracker has run).
+
+  const FALLBACK_DATA = {
+    generatedAt: null,
+    directMentions: [
+      {
+        source: "Truth Social",
+        time: "\u2014",
+        headline: "Demo card \u2014 no mentions.json found yet. Deploy tracker_v2.py so this page has real data to fetch.",
+        ticker: null,
+        keyword: "demo",
+        url: "#"
+      }
+    ],
+    indirectMentions: [],
+    tracked: []
+  };
+
+  function renderCard(m, indirect) {
+    return `
+      <div class="card ${indirect ? 'indirect' : ''}">
+        <div class="card-top">
+          <span class="card-source">${m.source}</span>
+          <span class="card-time">${m.time}</span>
+        </div>
+        <div class="card-headline">${m.headline}</div>
+        <div class="card-tags">
+          ${m.ticker ? `<span class="tag ticker">${m.ticker}</span>` : `<span class="tag">no ticker</span>`}
+          <span class="tag">${m.keyword}</span>
+        </div>
+      </div>`;
+  }
+
+  function render(data) {
+    const { directMentions, indirectMentions, tracked } = data;
+
+    document.getElementById('directFeed').innerHTML =
+      directMentions.length ? directMentions.map(m => renderCard(m, false)).join('')
+      : '<div class="empty">No direct mentions in the last cycle.</div>';
+
+    document.getElementById('indirectFeed').innerHTML =
+      indirectMentions.length ? indirectMentions.map(m => renderCard(m, true)).join('')
+      : '<div class="empty">No indirect mentions in the last cycle.</div>';
+
+    document.getElementById('tableBody').innerHTML = tracked.length ? tracked.map(t => {
+      const pct = (t.at && t.now) ? ((t.now - t.at) / t.at * 100).toFixed(2) : null;
+      const dir = pct === null ? '' : (pct >= 0 ? 'up' : 'down');
+      const dots = Array.from({length:4}, (_,i) =>
+        `<span class="${i < t.days ? 'filled' : ''}"></span>`).join('');
+      return `
+        <tr>
+          <td class="ticker-cell">${t.ticker || '\u2014'}</td>
+          <td>${t.keyword}</td>
+          <td>${t.at != null ? t.at.toFixed(2) : '\u2014'}</td>
+          <td>${t.now != null ? t.now.toFixed(2) : '\u2014'}</td>
+          <td class="pct ${dir}">${pct === null ? '\u2014' : (pct >= 0 ? '+' : '') + pct + '%'}</td>
+          <td><div class="day-dots">${dots}</div></td>
+        </tr>`;
+    }).join('') : `<tr><td colspan="6"><div class="empty">Nothing currently in the tracking window.</div></td></tr>`;
+
+    // Ticker tape — build from tracked data, duplicated for seamless loop
+    const withPct = tracked.filter(t => t.at != null && t.now != null);
+    const tapeItems = withPct.length ? withPct.map(t => {
+      const pct = ((t.now - t.at) / t.at * 100).toFixed(2);
+      const dir = pct >= 0 ? 'up' : 'down';
+      return `<span class="${dir}"><b>${t.ticker}</b> ${pct >= 0 ? '+' : ''}${pct}%</span>`;
+    }).join('') : '<span>Waiting on tracked positions to populate the tape\u2026</span>';
+    document.getElementById('tickerTrack').innerHTML = tapeItems + tapeItems;
+
+    document.getElementById('dateline').textContent = data.generatedAt
+      ? 'UPDATED ' + new Date(data.generatedAt).toLocaleString('en-US', {
+          weekday: 'short', year: 'numeric', month: 'short', day: 'numeric',
+          hour: '2-digit', minute: '2-digit'
+        }).toUpperCase()
+      : new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }).toUpperCase();
+  }
+
+  fetch('./mentions.json', { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
+    .then(render)
+    .catch(() => render(FALLBACK_DATA));
+</script>
+</body>
+</html>
