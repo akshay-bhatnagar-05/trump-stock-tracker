@@ -3,9 +3,55 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About — WIRE DESK</title>
+<title>About Wire Desk — How the Trump Stock Mention Tracker Works</title>
+<meta name="description" content="How Wire Desk tracks presidential statements across Truth Social and the White House, classifies them as direct or indirect, and follows stock prices for 4 trading days.">
+<link rel="canonical" href="https://akshay-bhatnagar-05.github.io/trump-stock-tracker/about.html">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Wire Desk",
+  "url": "https://akshay-bhatnagar-05.github.io/trump-stock-tracker/about.html",
+  "isPartOf": {
+    "@type": "WebApplication",
+    "name": "Wire Desk",
+    "url": "https://akshay-bhatnagar-05.github.io/trump-stock-tracker/"
+  },
+  "description": "How Wire Desk monitors Truth Social, White House releases, and news wires for stock mentions, classifies them as direct or indirect, and tracks price movement for four trading days.",
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What sources does Wire Desk monitor?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Truth Social (via an unofficial RSS mirror), official White House press releases, and news wire coverage via NewsAPI."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between a direct and indirect mention?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A direct mention is a statement from the president's own channels, such as Truth Social or the White House. An indirect mention is news coverage reporting on him rather than his own words."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Wire Desk a trading signal or financial advice?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Wire Desk is a research and awareness tool. By the time a mention is detected, it is already public, so a confirmed multi-day price trend has usually already been priced into the stock. Nothing on the site should be treated as investment advice."
+        }
+      }
+    ]
+  }
+}
+</script>
 <style>
   :root {
     --ink: #EDE9DF;
