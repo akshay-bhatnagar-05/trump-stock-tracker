@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — WIRE DESK</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #EDE9DF;
+    --ink-dim: #9B9587;
+    --paper: #14120F;
+    --paper-raised: #1C1915;
+    --rule: #3A362E;
+    --gold: #C89B3C;
+    --gold-dim: #7A6329;
+    --teal: #4E8C87;
+    --teal-dim: #2E4F4C;
+    --red: #B5533C;
+    --green: #6E9B5C;
+    --mono: 'IBM Plex Mono', monospace;
+    --display: 'Barlow Condensed', sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--mono);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--gold); }
+
+  header {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 44px 24px 28px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .masthead-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .masthead a.home {
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .masthead a.home span { color: var(--gold); }
+  .back-link {
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    text-decoration: none;
+    border: 1px solid var(--rule);
+    padding: 6px 12px;
+  }
+  .back-link:hover { border-color: var(--gold-dim); color: var(--gold); }
+
+  .page-title {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 34px;
+    text-transform: uppercase;
+    margin-top: 20px;
+  }
+
+  main {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  .lede {
+    font-size: 16px;
+    color: var(--ink-dim);
+    margin-bottom: 34px;
+    max-width: 640px;
+  }
+
+  .section-label {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 36px 0 14px;
+  }
+  .section-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+
+  p.body-text {
+    font-size: 14.5px;
+    color: var(--ink);
+    margin-bottom: 14px;
+    max-width: 660px;
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 6px;
+  }
+  @media (max-width: 640px) {
+    .split { grid-template-columns: 1fr; }
+  }
+
+  .box {
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    padding: 18px 20px;
+  }
+  .box.is-card { border-left: 3px solid var(--gold-dim); }
+  .box.isnt-card { border-left: 3px solid var(--red); }
+  .box h3 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 8px;
+  }
+  .box.is-card h3 { color: var(--gold); }
+  .box.isnt-card h3 { color: var(--red); }
+  .box p { font-size: 13.5px; color: var(--ink-dim); }
+
+  .source-list {
+    list-style: none;
+    margin-top: 8px;
+  }
+  .source-list li {
+    display: flex;
+    gap: 14px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--rule);
+    font-size: 13.5px;
+  }
+  .source-list li:last-child { border-bottom: none; }
+  .source-tag {
+    flex-shrink: 0;
+    width: 130px;
+    color: var(--gold);
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding-top: 2px;
+  }
+  .source-list li.indirect .source-tag { color: var(--teal); }
+  .source-desc { color: var(--ink-dim); }
+
+  .method-list {
+    counter-reset: step;
+    margin-top: 10px;
+  }
+  .method-list li {
+    list-style: none;
+    counter-increment: step;
+    position: relative;
+    padding: 10px 0 10px 38px;
+    font-size: 13.5px;
+    color: var(--ink-dim);
+    border-bottom: 1px solid var(--rule);
+  }
+  .method-list li:last-child { border-bottom: none; }
+  .method-list li::before {
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 22px;
+    height: 22px;
+    border: 1px solid var(--gold-dim);
+    color: var(--gold);
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+  }
+  .method-list b { color: var(--ink); }
+
+  .caveat-box {
+    background: rgba(181, 83, 60, 0.08);
+    border: 1px solid var(--red);
+    padding: 18px 20px;
+    margin-top: 8px;
+    font-size: 13.5px;
+    color: var(--ink);
+  }
+  .caveat-box b { color: var(--red); }
+
+  footer {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 30px 24px 60px;
+    border-top: 1px solid var(--rule);
+    font-size: 12px;
+    color: var(--ink-dim);
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <div class="masthead-row">
+      <a href="./index.html" class="home">WIRE <span>DESK</span></a>
+      <a href="./index.html" class="back-link">&larr; Back to feed</a>
+    </div>
+    <div class="page-title">About</div>
+  </header>
+
+  <main>
+    <p class="lede">
+      A personal research tool that watches for statements from the US president
+      referencing specific companies, sectors, or investing keywords — then
+      tracks how the mentioned stock actually moves over the following four
+      trading days.
+    </p>
+
+    <div class="section-label">What this is / isn't</div>
+    <div class="split">
+      <div class="box is-card">
+        <h3>What this is</h3>
+        <p>A way to catch market-relevant statements faster than checking the news manually, with real before-and-after price data attached to every mention.</p>
+      </div>
+      <div class="box isnt-card">
+        <h3>What this isn't</h3>
+        <p>A trading signal, a prediction engine, or financial advice. It reports what already happened — it doesn't forecast what happens next.</p>
+      </div>
+    </div>
+
+    <div class="section-label">Sources monitored</div>
+    <ul class="source-list">
+      <li>
+        <span class="source-tag">Truth Social</span>
+        <span class="source-desc">His own posts, via an unofficial third-party RSS mirror. Direct evidence — but the mirror can go down or change format without notice.</span>
+      </li>
+      <li>
+        <span class="source-tag">White House</span>
+        <span class="source-desc">Official whitehouse.gov press release feed. Direct evidence, reliable source.</span>
+      </li>
+      <li class="indirect">
+        <span class="source-tag">News wires</span>
+        <span class="source-desc">Coverage pulled via NewsAPI. Indirect — someone reporting on him, not him speaking directly. Weighted lower.</span>
+      </li>
+    </ul>
+
+    <div class="section-label">How it works</div>
+    <ol class="method-list">
+      <li>Scans all three sources once a day for anything matching a defined <b>watchlist</b> of companies and keywords.</li>
+      <li>Every match is tagged <b>direct</b> or <b>indirect</b> — that distinction matters more than the headline itself.</li>
+      <li>New mentions get their <b>current price logged</b> via Yahoo Finance data.</li>
+      <li>The stock is <b>tracked for 4 trading days</b>, recomputing % change on every run.</li>
+      <li>Results are emailed as a <b>daily digest</b> and published to this site.</li>
+    </ol>
+
+    <div class="section-label">Read before trusting this</div>
+    <div class="caveat-box">
+      <b>Reactive, not predictive.</b> By the time a mention is caught here, it's
+      already public — other market participants are seeing the same information
+      at the same time. Keyword matching is simple substring search, not true
+      language understanding, and will occasionally misfire on coincidental word
+      matches. A confirmed multi-day trend has usually already been priced into
+      the stock by the time it's "confirmed." Nothing on this site should be
+      treated as investment advice.
+    </div>
+  </main>
+
+  <footer>
+    Personal project, provided as-is with no warranty. Not financial advice.
+  </footer>
+
+</body>
+</html>
