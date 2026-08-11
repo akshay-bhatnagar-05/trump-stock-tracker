@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-08-11T04:35:10.412565",
-  "directMentions": [],
-  "indirectMentions": [],
-  "tracked": []
+  "generatedAt": "2026-08-11T14:00:00",
+  "directMentions": [
+    {
+      "source": "Truth Social",
+      "time": "2h ago",
+      "headline": "Go out and buy a Dell computer — great American company, tremendous quality.",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://example.com"
+    },
+    {
+      "source": "White House",
+      "time": "6h ago",
+      "headline": "Remarks on critical minerals independence at manufacturing roundtable",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://example.com"
+    }
+  ],
+  "indirectMentions": [
+    {
+      "source": "Reuters",
+      "time": "3h ago",
+      "headline": "MP Materials shares climb after White House reiterates rare earth push",
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "url": "https://example.com"
+    },
+    {
+      "source": "Bloomberg",
+      "time": "5h ago",
+      "headline": "USA Rare Earth eyes Serra Verde close as Commerce funding advances",
+      "ticker": "USAR",
+      "keyword": "usa rare earth",
+      "url": "https://example.com"
+    }
+  ],
+  "tracked": [
+    { "ticker": "DELL", "keyword": "dell", "at": 118.40, "now": 127.90, "days": 1 },
+    { "ticker": "MP", "keyword": "mp materials", "at": 48.48, "now": 46.10, "days": 2 },
+    { "ticker": "USAR", "keyword": "usa rare earth", "at": 17.66, "now": 19.02, "days": 2 }
+  ]
 }
