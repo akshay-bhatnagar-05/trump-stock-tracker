@@ -1,3 +1,54 @@
 {
-  "mentions": []
+  "mentions": [
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-08-11T16:14:35.494436",
+      "price_at_detection": 442.55,
+      "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
+      "url": "https://trumpstruth.org/statuses/40730",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-11T16:14:47.860317",
+      "price_at_detection": 97.3901,
+      "headline": "SEC Exempts Data-Center Bonds From Key Securitization Rules",
+      "url": "https://financialpost.com/pmn/business-pmn/sec-exempts-data-center-bonds-from-key-securitization-rules",
+      "source": "Financial Post",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-11T16:14:47.860393",
+      "price_at_detection": null,
+      "headline": "1 Super Streaming Stock Down 37% You'll Regret Not Buying on the Dip, According to Wall Street",
+      "url": "https://biztoc.com/x/b6b6fef9e473b019",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-08-11T16:14:59.256190",
+      "price_at_detection": 174.24,
+      "headline": "Palantir (PLTR) Turning AI Demand\u00a0into\u00a0Profitable Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-11T16:15:04.854011",
+      "price_at_detection": 218.47,
+      "headline": "Why This Investor Just Bought Nvidia (NVDA)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investor-just-bought-nvidia-130948131.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    }
+  ]
 }

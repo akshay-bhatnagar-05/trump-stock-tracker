@@ -1,44 +1,77 @@
 {
-  "generatedAt": "2026-08-11T14:00:00",
+  "generatedAt": "2026-08-11T16:15:08.726325",
   "directMentions": [
     {
-      "source": "Truth Social",
-      "time": "2h ago",
-      "headline": "Go out and buy a Dell computer — great American company, tremendous quality.",
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
       "ticker": "DELL",
       "keyword": "dell",
-      "url": "https://example.com"
-    },
-    {
-      "source": "White House",
-      "time": "6h ago",
-      "headline": "Remarks on critical minerals independence at manufacturing roundtable",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://example.com"
+      "url": "https://trumpstruth.org/statuses/40730"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Reuters",
-      "time": "3h ago",
-      "headline": "MP Materials shares climb after White House reiterates rare earth push",
-      "ticker": "MP",
-      "keyword": "mp materials",
-      "url": "https://example.com"
+      "source": "Financial Post",
+      "time": "just now",
+      "headline": "SEC Exempts Data-Center Bonds From Key Securitization Rules",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://financialpost.com/pmn/business-pmn/sec-exempts-data-center-bonds-from-key-securitization-rules"
     },
     {
-      "source": "Bloomberg",
-      "time": "5h ago",
-      "headline": "USA Rare Earth eyes Serra Verde close as Commerce funding advances",
-      "ticker": "USAR",
-      "keyword": "usa rare earth",
-      "url": "https://example.com"
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "1 Super Streaming Stock Down 37% You'll Regret Not Buying on the Dip, According to Wall Street",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://biztoc.com/x/b6b6fef9e473b019"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Palantir (PLTR) Turning AI Demand\u00a0into\u00a0Profitable Growth",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Why This Investor Just Bought Nvidia (NVDA)",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investor-just-bought-nvidia-130948131.html"
     }
   ],
   "tracked": [
-    { "ticker": "DELL", "keyword": "dell", "at": 118.40, "now": 127.90, "days": 1 },
-    { "ticker": "MP", "keyword": "mp materials", "at": 48.48, "now": 46.10, "days": 2 },
-    { "ticker": "USAR", "keyword": "usa rare earth", "at": 17.66, "now": 19.02, "days": 2 }
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 442.55,
+      "now": 441.53,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 97.3901,
+      "now": 97.3299,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 174.24,
+      "now": 174.255,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 218.47,
+      "now": 218.47,
+      "days": 0
+    }
   ]
 }
