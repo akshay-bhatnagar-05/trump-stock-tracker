@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:15:08.726325",
+  "generatedAt": "2026-08-12T16:14:05.246830",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,36 +12,36 @@
   ],
   "indirectMentions": [
     {
-      "source": "Financial Post",
+      "source": "Theregister.com",
       "time": "just now",
-      "headline": "SEC Exempts Data-Center Bonds From Key Securitization Rules",
+      "headline": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://financialpost.com/pmn/business-pmn/sec-exempts-data-center-bonds-from-key-securitization-rules"
+      "url": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Benzinga",
       "time": "just now",
-      "headline": "1 Super Streaming Stock Down 37% You'll Regret Not Buying on the Dip, According to Wall Street",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://biztoc.com/x/b6b6fef9e473b019"
-    },
-    {
-      "source": "Yahoo Entertainment",
-      "time": "just now",
-      "headline": "Palantir (PLTR) Turning AI Demand\u00a0into\u00a0Profitable Growth",
+      "headline": "EXCLUSIVE: CPI Lands Tomorrow and Could Send PLTR, TSLA Surging\u2014But Only if It's A 'Serious Shock,' Cato Economist Says",
       "ticker": "PLTR",
       "keyword": "palantir",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html"
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61112578/july-cpi-high-beta-stocks?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral"
     },
     {
-      "source": "Yahoo Entertainment",
+      "source": "CNN",
       "time": "just now",
-      "headline": "Why This Investor Just Bought Nvidia (NVDA)",
+      "headline": "Trump Media says Wall Street firms paying up to $100K for early access to Trump Truth Social posts",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://www.cnn.com/2026/08/11/business/wall-street-trump-truth-social"
+    },
+    {
+      "source": "Quartz India",
+      "time": "just now",
+      "headline": "S&P 500 opens higher as Nvidia rallies on AI infrastructure deal",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investor-just-bought-nvidia-130948131.html"
+      "url": "https://qz.com/sp500-nvidia-ai-infrastructure-oil-markets-081126"
     }
   ],
   "tracked": [
@@ -49,28 +49,63 @@
       "ticker": "DELL",
       "keyword": "dell",
       "at": 442.55,
-      "now": 441.53,
+      "now": 465.4,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 97.3901,
-      "now": 97.3299,
+      "now": 100.885,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 174.24,
-      "now": 174.255,
+      "now": 170.64,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.47,
-      "now": 218.47,
+      "now": 223.66,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 465.4,
+      "now": 465.4,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 100.885,
+      "now": 100.885,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 170.64,
+      "now": 170.64,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 8.365,
+      "now": 8.365,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 223.66,
+      "now": 223.66,
       "days": 0
     }
   ]

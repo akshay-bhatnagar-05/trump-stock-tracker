@@ -49,6 +49,56 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-investor-just-bought-nvidia-130948131.html",
       "source": "Yahoo Entertainment",
       "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-08-12T16:14:04.619488",
+      "price_at_detection": 465.4,
+      "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
+      "url": "https://trumpstruth.org/statuses/40730",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-12T16:14:04.801443",
+      "price_at_detection": 100.885,
+      "headline": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
+      "url": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313",
+      "source": "Theregister.com",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-08-12T16:14:04.880082",
+      "price_at_detection": 170.64,
+      "headline": "EXCLUSIVE: CPI Lands Tomorrow and Could Send PLTR, TSLA Surging\u2014But Only if It's A 'Serious Shock,' Cato Economist Says",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61112578/july-cpi-high-beta-stocks?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+      "source": "Benzinga",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-08-12T16:14:04.983204",
+      "price_at_detection": 8.365,
+      "headline": "Trump Media says Wall Street firms paying up to $100K for early access to Trump Truth Social posts",
+      "url": "https://www.cnn.com/2026/08/11/business/wall-street-trump-truth-social",
+      "source": "CNN",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-12T16:14:05.132630",
+      "price_at_detection": 223.66,
+      "headline": "S&P 500 opens higher as Nvidia rallies on AI infrastructure deal",
+      "url": "https://qz.com/sp500-nvidia-ai-infrastructure-oil-markets-081126",
+      "source": "Quartz India",
+      "direct": false
     }
   ]
 }
