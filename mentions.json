@@ -1,47 +1,30 @@
 {
-  "generatedAt": "2026-08-12T16:14:05.246830",
-  "directMentions": [
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://trumpstruth.org/statuses/40730"
-    }
-  ],
+  "generatedAt": "2026-08-13T16:13:52.930912",
+  "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Theregister.com",
+      "source": "Crypto Briefing",
       "time": "just now",
-      "headline": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313"
-    },
-    {
-      "source": "Benzinga",
-      "time": "just now",
-      "headline": "EXCLUSIVE: CPI Lands Tomorrow and Could Send PLTR, TSLA Surging\u2014But Only if It's A 'Serious Shock,' Cato Economist Says",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61112578/july-cpi-high-beta-stocks?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral"
-    },
-    {
-      "source": "CNN",
-      "time": "just now",
-      "headline": "Trump Media says Wall Street firms paying up to $100K for early access to Trump Truth Social posts",
+      "headline": "Trump Media sued over Truth API\u2019s paywall for presidential posts",
       "ticker": "DJT",
       "keyword": "trump media",
-      "url": "https://www.cnn.com/2026/08/11/business/wall-street-trump-truth-social"
+      "url": "https://cryptobriefing.com/trump-media-sued-truth-api-paywall/"
     },
     {
-      "source": "Quartz India",
+      "source": "Insurance Journal",
       "time": "just now",
-      "headline": "S&P 500 opens higher as Nvidia rallies on AI infrastructure deal",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://qz.com/sp500-nvidia-ai-infrastructure-oil-markets-081126"
+      "headline": "AI Giants Are Quiet on Climate in Sign of Post-ESG Wall Street",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/12/881245.htm"
+    },
+    {
+      "source": "The New Republic",
+      "time": "just now",
+      "headline": "Trump-Backed Candidate Crashes Out After Losing Primary Race",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://newrepublic.com/post/214224/donald-trump-mike-lindell-mypillow-governor-primary-conspiracies"
     }
   ],
   "tracked": [
@@ -49,63 +32,84 @@
       "ticker": "DELL",
       "keyword": "dell",
       "at": 442.55,
-      "now": 465.4,
-      "days": 0
+      "now": 496.96,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 97.3901,
-      "now": 100.885,
-      "days": 0
+      "now": 105.62,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 174.24,
-      "now": 170.64,
-      "days": 0
+      "now": 175.145,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.47,
-      "now": 223.66,
-      "days": 0
+      "now": 224.8178,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 465.4,
-      "now": 465.4,
+      "now": 496.96,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 100.885,
-      "now": 100.885,
+      "now": 105.62,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 170.64,
-      "now": 170.64,
+      "now": 175.145,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.365,
-      "now": 8.365,
+      "now": 8.2501,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 223.66,
-      "now": 223.66,
+      "now": 224.8178,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 8.2501,
+      "now": 8.2501,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 105.62,
+      "now": 105.62,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 496.96,
+      "now": 496.96,
       "days": 0
     }
   ]

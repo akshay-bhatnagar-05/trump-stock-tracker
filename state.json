@@ -99,6 +99,36 @@
       "url": "https://qz.com/sp500-nvidia-ai-infrastructure-oil-markets-081126",
       "source": "Quartz India",
       "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-08-13T16:13:51.214480",
+      "price_at_detection": 8.2501,
+      "headline": "Trump Media sued over Truth API\u2019s paywall for presidential posts",
+      "url": "https://cryptobriefing.com/trump-media-sued-truth-api-paywall/",
+      "source": "Crypto Briefing",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-13T16:13:51.588186",
+      "price_at_detection": 105.62,
+      "headline": "AI Giants Are Quiet on Climate in Sign of Post-ESG Wall Street",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/12/881245.htm",
+      "source": "Insurance Journal",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-08-13T16:13:51.911419",
+      "price_at_detection": 496.96,
+      "headline": "Trump-Backed Candidate Crashes Out After Losing Primary Race",
+      "url": "https://newrepublic.com/post/214224/donald-trump-mike-lindell-mypillow-governor-primary-conspiracies",
+      "source": "The New Republic",
+      "direct": false
     }
   ]
 }
