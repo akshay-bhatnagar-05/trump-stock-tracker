@@ -129,6 +129,46 @@
       "url": "https://newrepublic.com/post/214224/donald-trump-mike-lindell-mypillow-governor-primary-conspiracies",
       "source": "The New Republic",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-14T16:07:20.535497",
+      "price_at_detection": null,
+      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
+      "url": "https://trumpstruth.org/statuses/40816",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-08-14T16:07:20.877254",
+      "price_at_detection": 492.25,
+      "headline": "Is a Trump Endorsement Becoming a Liability?",
+      "url": "https://www.thenation.com/article/politics/mike-lindell-trump-endorsement/",
+      "source": "Thenation.com",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-08-14T16:07:21.021722",
+      "price_at_detection": 8.3401,
+      "headline": "Trump Media sued over paid service offering early access to President\u2019s Truth Social posts",
+      "url": "https://biztoc.com/x/357ed70fcb053bf6",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-14T16:07:21.268980",
+      "price_at_detection": 225.3599,
+      "headline": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
     }
   ]
 }

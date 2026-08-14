@@ -1,30 +1,39 @@
 {
-  "generatedAt": "2026-08-13T16:13:52.930912",
-  "directMentions": [],
+  "generatedAt": "2026-08-14T16:07:22.417909",
+  "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://trumpstruth.org/statuses/40816"
+    }
+  ],
   "indirectMentions": [
     {
-      "source": "Crypto Briefing",
+      "source": "Thenation.com",
       "time": "just now",
-      "headline": "Trump Media sued over Truth API\u2019s paywall for presidential posts",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://cryptobriefing.com/trump-media-sued-truth-api-paywall/"
-    },
-    {
-      "source": "Insurance Journal",
-      "time": "just now",
-      "headline": "AI Giants Are Quiet on Climate in Sign of Post-ESG Wall Street",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.insurancejournal.com/news/national/2026/08/12/881245.htm"
-    },
-    {
-      "source": "The New Republic",
-      "time": "just now",
-      "headline": "Trump-Backed Candidate Crashes Out After Losing Primary Race",
+      "headline": "Is a Trump Endorsement Becoming a Liability?",
       "ticker": "DELL",
       "keyword": "dell",
-      "url": "https://newrepublic.com/post/214224/donald-trump-mike-lindell-mypillow-governor-primary-conspiracies"
+      "url": "https://www.thenation.com/article/politics/mike-lindell-trump-endorsement/"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media sued over paid service offering early access to President\u2019s Truth Social posts",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/357ed70fcb053bf6"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html"
     }
   ],
   "tracked": [
@@ -32,84 +41,105 @@
       "ticker": "DELL",
       "keyword": "dell",
       "at": 442.55,
-      "now": 496.96,
-      "days": 1
+      "now": 492.25,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 97.3901,
-      "now": 105.62,
-      "days": 1
+      "now": 103.105,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 174.24,
-      "now": 175.145,
-      "days": 1
+      "now": 177.53,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.47,
-      "now": 224.8178,
-      "days": 1
+      "now": 225.3599,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 465.4,
-      "now": 496.96,
-      "days": 0
+      "now": 492.25,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 100.885,
-      "now": 105.62,
-      "days": 0
+      "now": 103.105,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 170.64,
-      "now": 175.145,
-      "days": 0
+      "now": 177.53,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.365,
-      "now": 8.2501,
-      "days": 0
+      "now": 8.3401,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 223.66,
-      "now": 224.8178,
-      "days": 0
+      "now": 225.3599,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.2501,
-      "now": 8.2501,
+      "now": 8.3401,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 105.62,
-      "now": 105.62,
+      "now": 103.105,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 496.96,
-      "now": 496.96,
+      "now": 492.25,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 492.25,
+      "now": 492.25,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 8.3401,
+      "now": 8.3401,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 225.3599,
+      "now": 225.3599,
       "days": 0
     }
   ]
