@@ -169,6 +169,26 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html",
       "source": "Yahoo Entertainment",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-15T13:55:56.884418",
+      "price_at_detection": null,
+      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
+      "url": "https://trumpstruth.org/statuses/40869",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-15T13:55:57.582458",
+      "price_at_detection": 102.5,
+      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
+      "url": "https://trumpstruth.org/statuses/40865",
+      "source": "truth_social",
+      "direct": true
     }
   ]
 }
