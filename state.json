@@ -3,56 +3,6 @@
     {
       "keyword": "dell",
       "ticker": "DELL",
-      "date_detected": "2026-08-11T16:14:35.494436",
-      "price_at_detection": 442.55,
-      "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
-      "url": "https://trumpstruth.org/statuses/40730",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-11T16:14:47.860317",
-      "price_at_detection": 97.3901,
-      "headline": "SEC Exempts Data-Center Bonds From Key Securitization Rules",
-      "url": "https://financialpost.com/pmn/business-pmn/sec-exempts-data-center-bonds-from-key-securitization-rules",
-      "source": "Financial Post",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-11T16:14:47.860393",
-      "price_at_detection": null,
-      "headline": "1 Super Streaming Stock Down 37% You'll Regret Not Buying on the Dip, According to Wall Street",
-      "url": "https://biztoc.com/x/b6b6fef9e473b019",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-08-11T16:14:59.256190",
-      "price_at_detection": 174.24,
-      "headline": "Palantir (PLTR) Turning AI Demand\u00a0into\u00a0Profitable Growth",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-turning-ai-demand-134658026.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-11T16:15:04.854011",
-      "price_at_detection": 218.47,
-      "headline": "Why This Investor Just Bought Nvidia (NVDA)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investor-just-bought-nvidia-130948131.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
       "date_detected": "2026-08-12T16:14:04.619488",
       "price_at_detection": 465.4,
       "headline": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
@@ -189,6 +139,36 @@
       "url": "https://trumpstruth.org/statuses/40865",
       "source": "truth_social",
       "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-16T13:56:14.222184",
+      "price_at_detection": null,
+      "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
+      "url": "https://trumpstruth.org/statuses/40902",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-16T13:56:14.528450",
+      "price_at_detection": 102.5,
+      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
+      "url": "https://trumpstruth.org/statuses/40865",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-16T13:56:14.666660",
+      "price_at_detection": 225.16,
+      "headline": "AMD, Intel and NVIDIA All Rally as Super Micro\u2019s Blowout Numbers Reignite the AI Trade",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
     }
   ]
 }

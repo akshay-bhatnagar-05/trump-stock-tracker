@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T13:55:58.718154",
+  "generatedAt": "2026-08-16T13:56:15.155378",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
+      "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/40869"
+      "url": "https://trumpstruth.org/statuses/40902"
     },
     {
       "source": "truth_social",
@@ -18,118 +18,113 @@
       "url": "https://trumpstruth.org/statuses/40865"
     }
   ],
-  "indirectMentions": [],
-  "tracked": [
+  "indirectMentions": [
     {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 442.55,
-      "now": 490.81,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 97.3901,
-      "now": 102.5,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 174.24,
-      "now": 174.04,
-      "days": 3
-    },
-    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "AMD, Intel and NVIDIA All Rally as Super Micro\u2019s Blowout Numbers Reignite the AI Trade",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "at": 218.47,
-      "now": 225.16,
-      "days": 3
-    },
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html"
+    }
+  ],
+  "tracked": [
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 465.4,
       "now": 490.81,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 100.885,
       "now": 102.5,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 170.64,
       "now": 174.04,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.365,
       "now": 8.27,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 223.66,
       "now": 225.16,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.2501,
       "now": 8.27,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 105.62,
       "now": 102.5,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 496.96,
       "now": 490.81,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 492.25,
       "now": 490.81,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.3401,
       "now": 8.27,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.3599,
       "now": 225.16,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.5,
       "now": 102.5,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 102.5,
+      "now": 102.5,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 225.16,
+      "now": 225.16,
       "days": 0
     }
   ]
