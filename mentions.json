@@ -1,109 +1,87 @@
 {
-  "generatedAt": "2026-08-17T14:05:36.462688",
+  "generatedAt": "2026-08-18T14:57:14.506890",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/40902"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://trumpstruth.org/statuses/40865"
+      "url": "https://trumpstruth.org/statuses/40960"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Wccftech",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA\u2019s $500 Billion AI Financing Plan A \u2018Dark GPU\u2019 Glut",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/"
+      "headline": "Canadian auto billionaire\u2019s fortune doubles even with US tariffs",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://fortune.com/2026/08/17/canadian-auto-billionaire-tariffs/"
     }
   ],
   "tracked": [
     {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 8.2501,
-      "now": 7.91,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 105.62,
-      "now": 103.24,
-      "days": 3
-    },
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 496.96,
-      "now": 472.99,
-      "days": 3
-    },
-    {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 492.25,
-      "now": 472.99,
-      "days": 2
+      "now": 464.67,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.3401,
-      "now": 7.91,
-      "days": 2
+      "now": 8.105,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.3599,
-      "now": 225.56,
-      "days": 2
+      "now": 219.155,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.5,
-      "now": 103.24,
-      "days": 2
+      "now": 95.97,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.5,
-      "now": 103.24,
-      "days": 1
+      "now": 95.97,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.16,
-      "now": 225.56,
-      "days": 1
+      "now": 219.155,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 103.24,
-      "now": 103.24,
-      "days": 0
+      "now": 95.97,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.56,
-      "now": 225.56,
+      "now": 219.155,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 95.97,
+      "now": 95.97,
       "days": 0
     }
   ]

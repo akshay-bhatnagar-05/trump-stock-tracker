@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-08-13T16:13:51.214480",
-      "price_at_detection": 8.2501,
-      "headline": "Trump Media sued over Truth API\u2019s paywall for presidential posts",
-      "url": "https://cryptobriefing.com/trump-media-sued-truth-api-paywall/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-13T16:13:51.588186",
-      "price_at_detection": 105.62,
-      "headline": "AI Giants Are Quiet on Climate in Sign of Post-ESG Wall Street",
-      "url": "https://www.insurancejournal.com/news/national/2026/08/12/881245.htm",
-      "source": "Insurance Journal",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-08-13T16:13:51.911419",
-      "price_at_detection": 496.96,
-      "headline": "Trump-Backed Candidate Crashes Out After Losing Primary Race",
-      "url": "https://newrepublic.com/post/214224/donald-trump-mike-lindell-mypillow-governor-primary-conspiracies",
-      "source": "The New Republic",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-08-14T16:07:20.535497",
@@ -148,6 +118,26 @@
       "headline": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA\u2019s $500 Billion AI Financing Plan A \u2018Dark GPU\u2019 Glut",
       "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/",
       "source": "Wccftech",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-18T14:57:14.121004",
+      "price_at_detection": 95.97,
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "url": "https://trumpstruth.org/statuses/40960",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-18T14:57:14.122777",
+      "price_at_detection": null,
+      "headline": "Canadian auto billionaire\u2019s fortune doubles even with US tariffs",
+      "url": "https://fortune.com/2026/08/17/canadian-auto-billionaire-tariffs/",
+      "source": "Fortune",
       "direct": false
     }
   ]
