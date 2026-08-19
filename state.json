@@ -3,66 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-14T16:07:20.535497",
-      "price_at_detection": null,
-      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
-      "url": "https://trumpstruth.org/statuses/40816",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-08-14T16:07:20.877254",
-      "price_at_detection": 492.25,
-      "headline": "Is a Trump Endorsement Becoming a Liability?",
-      "url": "https://www.thenation.com/article/politics/mike-lindell-trump-endorsement/",
-      "source": "Thenation.com",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-08-14T16:07:21.021722",
-      "price_at_detection": 8.3401,
-      "headline": "Trump Media sued over paid service offering early access to President\u2019s Truth Social posts",
-      "url": "https://biztoc.com/x/357ed70fcb053bf6",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-14T16:07:21.268980",
-      "price_at_detection": 225.3599,
-      "headline": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-15T13:55:56.884418",
-      "price_at_detection": null,
-      "headline": "White House report details \u2018Great Transshipment Scam\u2019 costing tens of billions in tariff evasion:",
-      "url": "https://trumpstruth.org/statuses/40869",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-15T13:55:57.582458",
-      "price_at_detection": 102.5,
-      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
-      "url": "https://trumpstruth.org/statuses/40865",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-16T13:56:14.222184",
       "price_at_detection": null,
       "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
@@ -138,6 +78,36 @@
       "headline": "Canadian auto billionaire\u2019s fortune doubles even with US tariffs",
       "url": "https://fortune.com/2026/08/17/canadian-auto-billionaire-tariffs/",
       "source": "Fortune",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-19T14:58:21.118215",
+      "price_at_detection": null,
+      "headline": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41006",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-19T14:58:21.623340",
+      "price_at_detection": 93.12,
+      "headline": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+      "source": "FDA.gov",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-08-19T14:58:21.761847",
+      "price_at_detection": 437.6599,
+      "headline": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html",
+      "source": "Yahoo Entertainment",
       "direct": false
     }
   ]

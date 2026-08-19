@@ -1,87 +1,81 @@
 {
-  "generatedAt": "2026-08-18T14:57:14.506890",
+  "generatedAt": "2026-08-19T14:58:22.100122",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://trumpstruth.org/statuses/40960"
+      "headline": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://trumpstruth.org/statuses/41006"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Fortune",
+      "source": "FDA.gov",
       "time": "just now",
-      "headline": "Canadian auto billionaire\u2019s fortune doubles even with US tariffs",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://fortune.com/2026/08/17/canadian-auto-billionaire-tariffs/"
+      "headline": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html"
     }
   ],
   "tracked": [
     {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 492.25,
-      "now": 464.67,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 8.3401,
-      "now": 8.105,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 225.3599,
-      "now": 219.155,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.5,
-      "now": 95.97,
+      "now": 93.12,
       "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 102.5,
-      "now": 95.97,
-      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.16,
-      "now": 219.155,
-      "days": 2
+      "now": 219.45,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 103.24,
-      "now": 95.97,
-      "days": 1
+      "now": 93.12,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.56,
-      "now": 219.155,
-      "days": 1
+      "now": 219.45,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.97,
-      "now": 95.97,
+      "now": 93.12,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 93.12,
+      "now": 93.12,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 437.6599,
+      "now": 437.6599,
       "days": 0
     }
   ]
