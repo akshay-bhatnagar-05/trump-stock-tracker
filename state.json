@@ -3,36 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-16T13:56:14.222184",
-      "price_at_detection": null,
-      "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
-      "url": "https://trumpstruth.org/statuses/40902",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-16T13:56:14.528450",
-      "price_at_detection": 102.5,
-      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
-      "url": "https://trumpstruth.org/statuses/40865",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-16T13:56:14.666660",
-      "price_at_detection": 225.16,
-      "headline": "AMD, Intel and NVIDIA All Rally as Super Micro\u2019s Blowout Numbers Reignite the AI Trade",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-17T14:05:35.263137",
       "price_at_detection": null,
       "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
@@ -107,6 +77,36 @@
       "price_at_detection": 437.6599,
       "headline": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-20T15:05:05.800799",
+      "price_at_detection": null,
+      "headline": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41006",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-20T15:05:06.231092",
+      "price_at_detection": 92.03,
+      "headline": "U.S. senators: Feds \u2018misclassified\u2019 documents to hide Biden family \u2018crimes\u2019",
+      "url": "https://www.wnd.com/2026/08/u-s-senators-feds-misclassified-documents-hide-biden/",
+      "source": "Wnd.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-20T15:05:06.415450",
+      "price_at_detection": 218.1337,
+      "headline": "Nvidia\u2019s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
       "source": "Yahoo Entertainment",
       "direct": false
     }

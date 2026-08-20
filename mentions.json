@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:58:22.100122",
+  "generatedAt": "2026-08-20T15:05:06.641436",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,70 +12,70 @@
   ],
   "indirectMentions": [
     {
-      "source": "FDA.gov",
+      "source": "Wnd.com",
       "time": "just now",
-      "headline": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
+      "headline": "U.S. senators: Feds \u2018misclassified\u2019 documents to hide Biden family \u2018crimes\u2019",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices"
+      "url": "https://www.wnd.com/2026/08/u-s-senators-feds-misclassified-documents-hide-biden/"
     },
     {
       "source": "Yahoo Entertainment",
       "time": "just now",
-      "headline": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html"
+      "headline": "Nvidia\u2019s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 102.5,
-      "now": 93.12,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 225.16,
-      "now": 219.45,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 103.24,
-      "now": 93.12,
-      "days": 2
+      "now": 92.03,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.56,
-      "now": 219.45,
-      "days": 2
+      "now": 218.1337,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.97,
-      "now": 93.12,
-      "days": 1
+      "now": 92.03,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.12,
-      "now": 93.12,
-      "days": 0
+      "now": 92.03,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 437.6599,
-      "now": 437.6599,
+      "now": 438.055,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 92.03,
+      "now": 92.03,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 218.1337,
+      "now": 218.1337,
       "days": 0
     }
   ]
