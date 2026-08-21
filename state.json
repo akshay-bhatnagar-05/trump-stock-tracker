@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-17T14:05:35.263137",
-      "price_at_detection": null,
-      "headline": "Peter Navarro: It Was a Great Scam While It Lasted:",
-      "url": "https://trumpstruth.org/statuses/40902",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-17T14:05:35.740916",
-      "price_at_detection": 103.24,
-      "headline": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: \u201cThe Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.\u201d",
-      "url": "https://trumpstruth.org/statuses/40865",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-17T14:05:35.992383",
-      "price_at_detection": 225.56,
-      "headline": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA\u2019s $500 Billion AI Financing Plan A \u2018Dark GPU\u2019 Glut",
-      "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/",
-      "source": "Wccftech",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-08-18T14:57:14.121004",
@@ -108,6 +78,26 @@
       "headline": "Nvidia\u2019s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
       "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-21T15:02:10.461710",
+      "price_at_detection": null,
+      "headline": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41042",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-21T15:02:10.782646",
+      "price_at_detection": 90.28,
+      "headline": "Don\u2019t Call This Flying Camera a Drone Unless You Want It to Get Banned",
+      "url": "https://gizmodo.com/dont-call-this-flying-camera-a-drone-unless-you-want-it-to-get-banned-2000800904",
+      "source": "Gizmodo.com",
       "direct": false
     }
   ]
