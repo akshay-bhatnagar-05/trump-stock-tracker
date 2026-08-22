@@ -99,6 +99,46 @@
       "url": "https://gizmodo.com/dont-call-this-flying-camera-a-drone-unless-you-want-it-to-get-banned-2000800904",
       "source": "Gizmodo.com",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-22T13:55:32.140002",
+      "price_at_detection": 90.07,
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "url": "https://trumpstruth.org/statuses/41077",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-22T13:55:32.140160",
+      "price_at_detection": null,
+      "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+      "source": "CNBC",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-22T13:55:32.365672",
+      "price_at_detection": 214.72,
+      "headline": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia \u2014 homemade chips corner the China market as country seeks semiconductor independence",
+      "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
+      "source": "Tom's Hardware UK",
+      "direct": false
+    },
+    {
+      "keyword": "coinbase",
+      "ticker": "COIN",
+      "date_detected": "2026-08-22T13:55:32.579791",
+      "price_at_detection": 186.49,
+      "headline": "Coinbase shares surge as crypto optimism and regulatory momentum build",
+      "url": "https://investorshub.advfn.com/market-news/article/34780/coinbase-shares-surge-as-crypto-optimism-and-regulatory-momentum-build",
+      "source": "Advfn.com",
+      "direct": false
     }
   ]
 }

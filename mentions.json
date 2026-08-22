@@ -1,23 +1,39 @@
 {
-  "generatedAt": "2026-08-21T15:02:11.193879",
+  "generatedAt": "2026-08-22T13:55:33.061588",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41042"
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://trumpstruth.org/statuses/41077"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Gizmodo.com",
+      "source": "CNBC",
       "time": "just now",
-      "headline": "Don\u2019t Call This Flying Camera a Drone Unless You Want It to Get Banned",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://gizmodo.com/dont-call-this-flying-camera-a-drone-unless-you-want-it-to-get-banned-2000800904"
+      "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
+    },
+    {
+      "source": "Tom's Hardware UK",
+      "time": "just now",
+      "headline": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia \u2014 homemade chips corner the China market as country seeks semiconductor independence",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses"
+    },
+    {
+      "source": "Advfn.com",
+      "time": "just now",
+      "headline": "Coinbase shares surge as crypto optimism and regulatory momentum build",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://investorshub.advfn.com/market-news/article/34780/coinbase-shares-surge-as-crypto-optimism-and-regulatory-momentum-build"
     }
   ],
   "tracked": [
@@ -25,42 +41,63 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.97,
-      "now": 90.28,
+      "now": 90.07,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.12,
-      "now": 90.28,
+      "now": 90.07,
       "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 437.6599,
-      "now": 433.76,
+      "now": 442.08,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.03,
-      "now": 90.28,
-      "days": 0
+      "now": 90.07,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.1337,
-      "now": 215.05,
-      "days": 0
+      "now": 214.72,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.28,
-      "now": 90.28,
+      "now": 90.07,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 90.07,
+      "now": 90.07,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 214.72,
+      "now": 214.72,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 186.49,
+      "now": 186.49,
       "days": 0
     }
   ]
