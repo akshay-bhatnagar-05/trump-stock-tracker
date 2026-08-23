@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-18T14:57:14.121004",
-      "price_at_detection": 95.97,
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
-      "url": "https://trumpstruth.org/statuses/40960",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-18T14:57:14.122777",
-      "price_at_detection": null,
-      "headline": "Canadian auto billionaire\u2019s fortune doubles even with US tariffs",
-      "url": "https://fortune.com/2026/08/17/canadian-auto-billionaire-tariffs/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-08-19T14:58:21.118215",
@@ -139,6 +119,26 @@
       "url": "https://investorshub.advfn.com/market-news/article/34780/coinbase-shares-surge-as-crypto-optimism-and-regulatory-momentum-build",
       "source": "Advfn.com",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-23T13:57:07.698927",
+      "price_at_detection": null,
+      "headline": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+      "url": "https://trumpstruth.org/statuses/41129",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-23T13:57:08.004353",
+      "price_at_detection": 90.07,
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "url": "https://trumpstruth.org/statuses/41077",
+      "source": "truth_social",
+      "direct": true
     }
   ]
 }

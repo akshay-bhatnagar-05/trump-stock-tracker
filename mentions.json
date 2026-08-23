@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-22T13:55:33.061588",
+  "generatedAt": "2026-08-23T13:57:08.441811",
   "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://trumpstruth.org/statuses/41129"
+    },
     {
       "source": "truth_social",
       "time": "just now",
@@ -10,94 +18,69 @@
       "url": "https://trumpstruth.org/statuses/41077"
     }
   ],
-  "indirectMentions": [
-    {
-      "source": "CNBC",
-      "time": "just now",
-      "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html"
-    },
-    {
-      "source": "Tom's Hardware UK",
-      "time": "just now",
-      "headline": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia \u2014 homemade chips corner the China market as country seeks semiconductor independence",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses"
-    },
-    {
-      "source": "Advfn.com",
-      "time": "just now",
-      "headline": "Coinbase shares surge as crypto optimism and regulatory momentum build",
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "url": "https://investorshub.advfn.com/market-news/article/34780/coinbase-shares-surge-as-crypto-optimism-and-regulatory-momentum-build"
-    }
-  ],
+  "indirectMentions": [],
   "tracked": [
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 95.97,
-      "now": 90.07,
-      "days": 3
-    },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.12,
       "now": 90.07,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 437.6599,
       "now": 442.08,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.03,
       "now": 90.07,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.1337,
       "now": 214.72,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.28,
       "now": 90.07,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.07,
       "now": 90.07,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 214.72,
       "now": 214.72,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 186.49,
       "now": 186.49,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 90.07,
+      "now": 90.07,
       "days": 0
     }
   ]
