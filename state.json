@@ -3,66 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-19T14:58:21.118215",
-      "price_at_detection": null,
-      "headline": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41006",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-19T14:58:21.623340",
-      "price_at_detection": 93.12,
-      "headline": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
-      "source": "FDA.gov",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-08-19T14:58:21.761847",
-      "price_at_detection": 437.6599,
-      "headline": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-20T15:05:05.800799",
-      "price_at_detection": null,
-      "headline": "I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41006",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-20T15:05:06.231092",
-      "price_at_detection": 92.03,
-      "headline": "U.S. senators: Feds \u2018misclassified\u2019 documents to hide Biden family \u2018crimes\u2019",
-      "url": "https://www.wnd.com/2026/08/u-s-senators-feds-misclassified-documents-hide-biden/",
-      "source": "Wnd.com",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-20T15:05:06.415450",
-      "price_at_detection": 218.1337,
-      "headline": "Nvidia\u2019s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-21T15:02:10.461710",
       "price_at_detection": null,
       "headline": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -139,6 +79,36 @@
       "url": "https://trumpstruth.org/statuses/41077",
       "source": "truth_social",
       "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-24T15:21:39.139032",
+      "price_at_detection": null,
+      "headline": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life impossible for these great American Patriots, and has long created a 60 Billion Dollar Deficit between our two Countries. Not sustainable, and NOT ANYMORE! On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50%. Build in the U.S. and there are ZERO TARIFFS. Canada will be treated like a State no longer! On Trade, and in other ways, also, they are among the worst Nations in the World to deal with. They feel entitled, and yet, WE DON\u2019T NEED CANADA, THEY NEED US! They do 95% of their business with the U.S., with us, the exact opposite! Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41154",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-24T15:21:40.252799",
+      "price_at_detection": 86.12,
+      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "url": "https://trumpstruth.org/statuses/41138",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-24T15:21:40.451130",
+      "price_at_detection": 208.9101,
+      "headline": "Nvidia earnings and Jackson Hole: What to watch this week",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T13:57:08.441811",
+  "generatedAt": "2026-08-24T15:21:40.844081",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+      "headline": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life impossible for these great American Patriots, and has long created a 60 Billion Dollar Deficit between our two Countries. Not sustainable, and NOT ANYMORE! On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50%. Build in the U.S. and there are ZERO TARIFFS. Canada will be treated like a State no longer! On Trade, and in other ways, also, they are among the worst Nations in the World to deal with. They feel entitled, and yet, WE DON\u2019T NEED CANADA, THEY NEED US! They do 95% of their business with the U.S., with us, the exact opposite! Thank you for your attention to this matter! President DONALD J. TRUMP",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41129"
+      "url": "https://trumpstruth.org/statuses/41154"
     },
     {
       "source": "truth_social",
@@ -15,72 +15,67 @@
       "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://trumpstruth.org/statuses/41077"
+      "url": "https://trumpstruth.org/statuses/41138"
     }
   ],
-  "indirectMentions": [],
+  "indirectMentions": [
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Nvidia earnings and Jackson Hole: What to watch this week",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html"
+    }
+  ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 93.12,
-      "now": 90.07,
-      "days": 3
-    },
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 437.6599,
-      "now": 442.08,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 92.03,
-      "now": 90.07,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 218.1337,
-      "now": 214.72,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 90.28,
-      "now": 90.07,
-      "days": 1
+      "now": 86.12,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.07,
-      "now": 90.07,
-      "days": 1
+      "now": 86.12,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 214.72,
-      "now": 214.72,
-      "days": 1
+      "now": 208.9101,
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 186.49,
-      "now": 186.49,
-      "days": 1
+      "now": 186.97,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.07,
-      "now": 90.07,
+      "now": 86.12,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 86.12,
+      "now": 86.12,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 208.9101,
+      "now": 208.9101,
       "days": 0
     }
   ]
