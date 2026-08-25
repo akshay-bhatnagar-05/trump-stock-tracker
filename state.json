@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-21T15:02:10.461710",
-      "price_at_detection": null,
-      "headline": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41042",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-21T15:02:10.782646",
-      "price_at_detection": 90.28,
-      "headline": "Don\u2019t Call This Flying Camera a Drone Unless You Want It to Get Banned",
-      "url": "https://gizmodo.com/dont-call-this-flying-camera-a-drone-unless-you-want-it-to-get-banned-2000800904",
-      "source": "Gizmodo.com",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-08-22T13:55:32.140002",
@@ -108,6 +88,66 @@
       "headline": "Nvidia earnings and Jackson Hole: What to watch this week",
       "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
       "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-25T15:28:24.935321",
+      "price_at_detection": null,
+      "headline": "Canada has been \u201cRipping Off\u201d the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn\u2019t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream\u2019s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
+      "url": "https://trumpstruth.org/statuses/41187",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-25T15:28:25.592490",
+      "price_at_detection": 88.56,
+      "headline": "Lots of \u201cbluster\u201d from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying Canada for decades, but no longer! The U.S.A. will always be far bigger, richer, and stronger than Canada. Without the United States, Canada couldn\u2019t survive \u2014 It\u2019s where they get all of their money and, because of their current bad leadership, primarily Governor Carney, and his Flunky, Ford, they will not be allowed to keep taking advantage of the United States \u2014 Their key to survival. Remember, much of the Electricity, Oil, and Gas that Canada gets is transported through the U.S.A. Someone should get these clowns to \u201cfall in line\u201d or, the consequences for Canada will be far WORSE! Canada\u2019s Unemployment Rate is now at 10%, and rapidly rising. Their businesses are fleeing for the United States, and it\u2019s all because of their failed policies, and inept leadership! The days of ripping off our Farmers, and other Businesses, are OVER! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41175",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "mp materials",
+      "ticker": "MP",
+      "date_detected": "2026-08-25T15:28:25.735891",
+      "price_at_detection": 59.585,
+      "headline": "Is MP Materials Stock a Buy After Earnings?",
+      "url": "https://biztoc.com/x/16c4852a4ffb08dc",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "critical minerals",
+      "ticker": null,
+      "date_detected": "2026-08-25T15:28:25.735949",
+      "price_at_detection": null,
+      "headline": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
+      "url": "https://abcnews.com/Business/wireStory/ontarios-premier-canada-ready-cut-electricity-critical-minerals-135905793",
+      "source": "Abcnews.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-25T15:28:25.948121",
+      "price_at_detection": 211.1201,
+      "headline": "Dow Rises as Wall Street Braces for Nvidia Earnings, Jackson Hole Amid New Canada Tariffs and Iran Sanctions",
+      "url": "https://www.ibtimes.com.au/dow-jones-rises-nvidia-earnings-iran-sanctions-fed-symposium-1874480",
+      "source": "Ibtimes.com.au",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-08-25T15:28:26.122890",
+      "price_at_detection": 9.215,
+      "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
+      "url": "https://biztoc.com/x/540ad14cd86cd140",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]

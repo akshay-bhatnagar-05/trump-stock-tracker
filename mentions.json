@@ -1,81 +1,126 @@
 {
-  "generatedAt": "2026-08-24T15:21:40.844081",
+  "generatedAt": "2026-08-25T15:28:26.500665",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life impossible for these great American Patriots, and has long created a 60 Billion Dollar Deficit between our two Countries. Not sustainable, and NOT ANYMORE! On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50%. Build in the U.S. and there are ZERO TARIFFS. Canada will be treated like a State no longer! On Trade, and in other ways, also, they are among the worst Nations in the World to deal with. They feel entitled, and yet, WE DON\u2019T NEED CANADA, THEY NEED US! They do 95% of their business with the U.S., with us, the exact opposite! Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "headline": "Canada has been \u201cRipping Off\u201d the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn\u2019t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream\u2019s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41154"
+      "url": "https://trumpstruth.org/statuses/41187"
     },
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
+      "headline": "Lots of \u201cbluster\u201d from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying Canada for decades, but no longer! The U.S.A. will always be far bigger, richer, and stronger than Canada. Without the United States, Canada couldn\u2019t survive \u2014 It\u2019s where they get all of their money and, because of their current bad leadership, primarily Governor Carney, and his Flunky, Ford, they will not be allowed to keep taking advantage of the United States \u2014 Their key to survival. Remember, much of the Electricity, Oil, and Gas that Canada gets is transported through the U.S.A. Someone should get these clowns to \u201cfall in line\u201d or, the consequences for Canada will be far WORSE! Canada\u2019s Unemployment Rate is now at 10%, and rapidly rising. Their businesses are fleeing for the United States, and it\u2019s all because of their failed policies, and inept leadership! The days of ripping off our Farmers, and other Businesses, are OVER! Thank you for your attention to this matter. President DONALD J. TRUMP",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://trumpstruth.org/statuses/41138"
+      "url": "https://trumpstruth.org/statuses/41175"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Yahoo Entertainment",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Nvidia earnings and Jackson Hole: What to watch this week",
+      "headline": "Is MP Materials Stock a Buy After Earnings?",
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "url": "https://biztoc.com/x/16c4852a4ffb08dc"
+    },
+    {
+      "source": "Abcnews.com",
+      "time": "just now",
+      "headline": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://abcnews.com/Business/wireStory/ontarios-premier-canada-ready-cut-electricity-critical-minerals-135905793"
+    },
+    {
+      "source": "Ibtimes.com.au",
+      "time": "just now",
+      "headline": "Dow Rises as Wall Street Braces for Nvidia Earnings, Jackson Hole Amid New Canada Tariffs and Iran Sanctions",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html"
+      "url": "https://www.ibtimes.com.au/dow-jones-rises-nvidia-earnings-iran-sanctions-fed-symposium-1874480"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/540ad14cd86cd140"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 90.28,
-      "now": 86.12,
+      "at": 90.07,
+      "now": 88.56,
+      "days": 3
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 214.72,
+      "now": 211.1201,
+      "days": 3
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 186.49,
+      "now": 184.805,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.07,
-      "now": 86.12,
+      "now": 88.56,
       "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 214.72,
-      "now": 208.9101,
-      "days": 2
-    },
-    {
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "at": 186.49,
-      "now": 186.97,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 90.07,
-      "now": 86.12,
-      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.12,
-      "now": 86.12,
-      "days": 0
+      "now": 88.56,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 208.9101,
-      "now": 208.9101,
+      "now": 211.1201,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 88.56,
+      "now": 88.56,
+      "days": 0
+    },
+    {
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "at": 59.585,
+      "now": 59.585,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 211.1201,
+      "now": 211.1201,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 9.215,
+      "now": 9.215,
       "days": 0
     }
   ]
