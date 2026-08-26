@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:28:26.500665",
+  "generatedAt": "2026-08-26T16:37:26.824468",
   "directMentions": [
     {
       "source": "truth_social",
@@ -20,36 +20,28 @@
   ],
   "indirectMentions": [
     {
-      "source": "Biztoc.com",
+      "source": "24/7 Wall St.",
       "time": "just now",
-      "headline": "Is MP Materials Stock a Buy After Earnings?",
-      "ticker": "MP",
-      "keyword": "mp materials",
-      "url": "https://biztoc.com/x/16c4852a4ffb08dc"
-    },
-    {
-      "source": "Abcnews.com",
-      "time": "just now",
-      "headline": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://abcnews.com/Business/wireStory/ontarios-premier-canada-ready-cut-electricity-critical-minerals-135905793"
-    },
-    {
-      "source": "Ibtimes.com.au",
-      "time": "just now",
-      "headline": "Dow Rises as Wall Street Braces for Nvidia Earnings, Jackson Hole Amid New Canada Tariffs and Iran Sanctions",
+      "headline": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.ibtimes.com.au/dow-jones-rises-nvidia-earnings-iran-sanctions-fed-symposium-1874480"
+      "url": "https://247wallst.com/investing/2026/08/25/spacex-rises-3-as-musk-pulls-the-nvidia-orbital-data-center-into-2027-jpmorgan-sees-75-upside/"
     },
     {
       "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
+      "headline": "Trump Media CEO touts customers, defends selling special access to president\u2019s posts",
       "ticker": "DJT",
       "keyword": "trump media",
-      "url": "https://biztoc.com/x/540ad14cd86cd140"
+      "url": "https://biztoc.com/x/4aeafb45dba79dc5"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Coinbase (COIN) Gains as Bitcoin Reclaimed $68,000. Can Washington Turn Sentiment Into Earnings?",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-gains-bitcoin-reclaimed-141451931.html"
     }
   ],
   "tracked": [
@@ -57,70 +49,77 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.07,
-      "now": 88.56,
+      "now": 86.935,
       "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 214.72,
-      "now": 211.1201,
-      "days": 3
-    },
-    {
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "at": 186.49,
-      "now": 184.805,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 90.07,
-      "now": 88.56,
-      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.12,
-      "now": 88.56,
-      "days": 1
+      "now": 86.935,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 208.9101,
-      "now": 211.1201,
-      "days": 1
+      "now": 209.9092,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 88.56,
-      "now": 88.56,
-      "days": 0
+      "now": 86.935,
+      "days": 1
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 59.585,
-      "now": 59.585,
-      "days": 0
+      "now": 59.3,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 211.1201,
-      "now": 211.1201,
-      "days": 0
+      "now": 209.9092,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.215,
-      "now": 9.215,
+      "now": 9.245,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 86.935,
+      "now": 86.935,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 209.9092,
+      "now": 209.9092,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 9.245,
+      "now": 9.245,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 179.885,
+      "now": 179.885,
       "days": 0
     }
   ]

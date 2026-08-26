@@ -1,46 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-22T13:55:32.140002",
-      "price_at_detection": 90.07,
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
-      "url": "https://trumpstruth.org/statuses/41077",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-22T13:55:32.140160",
-      "price_at_detection": null,
-      "headline": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-      "source": "CNBC",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-22T13:55:32.365672",
-      "price_at_detection": 214.72,
-      "headline": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia \u2014 homemade chips corner the China market as country seeks semiconductor independence",
-      "url": "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses",
-      "source": "Tom's Hardware UK",
-      "direct": false
-    },
-    {
-      "keyword": "coinbase",
-      "ticker": "COIN",
-      "date_detected": "2026-08-22T13:55:32.579791",
-      "price_at_detection": 186.49,
-      "headline": "Coinbase shares surge as crypto optimism and regulatory momentum build",
-      "url": "https://investorshub.advfn.com/market-news/article/34780/coinbase-shares-surge-as-crypto-optimism-and-regulatory-momentum-build",
-      "source": "Advfn.com",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-08-23T13:57:07.698927",
@@ -148,6 +108,56 @@
       "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
       "url": "https://biztoc.com/x/540ad14cd86cd140",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-26T16:37:24.781857",
+      "price_at_detection": null,
+      "headline": "Canada has been \u201cRipping Off\u201d the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn\u2019t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream\u2019s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
+      "url": "https://trumpstruth.org/statuses/41187",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-26T16:37:25.379931",
+      "price_at_detection": 86.935,
+      "headline": "Lots of \u201cbluster\u201d from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying Canada for decades, but no longer! The U.S.A. will always be far bigger, richer, and stronger than Canada. Without the United States, Canada couldn\u2019t survive \u2014 It\u2019s where they get all of their money and, because of their current bad leadership, primarily Governor Carney, and his Flunky, Ford, they will not be allowed to keep taking advantage of the United States \u2014 Their key to survival. Remember, much of the Electricity, Oil, and Gas that Canada gets is transported through the U.S.A. Someone should get these clowns to \u201cfall in line\u201d or, the consequences for Canada will be far WORSE! Canada\u2019s Unemployment Rate is now at 10%, and rapidly rising. Their businesses are fleeing for the United States, and it\u2019s all because of their failed policies, and inept leadership! The days of ripping off our Farmers, and other Businesses, are OVER! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41175",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-26T16:37:25.658102",
+      "price_at_detection": 209.9092,
+      "headline": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
+      "url": "https://247wallst.com/investing/2026/08/25/spacex-rises-3-as-musk-pulls-the-nvidia-orbital-data-center-into-2027-jpmorgan-sees-75-upside/",
+      "source": "24/7 Wall St.",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-08-26T16:37:25.997985",
+      "price_at_detection": 9.245,
+      "headline": "Trump Media CEO touts customers, defends selling special access to president\u2019s posts",
+      "url": "https://biztoc.com/x/4aeafb45dba79dc5",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "coinbase",
+      "ticker": "COIN",
+      "date_detected": "2026-08-26T16:37:26.278451",
+      "price_at_detection": 179.885,
+      "headline": "Coinbase (COIN) Gains as Bitcoin Reclaimed $68,000. Can Washington Turn Sentiment Into Earnings?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-gains-bitcoin-reclaimed-141451931.html",
+      "source": "Yahoo Entertainment",
       "direct": false
     }
   ]
