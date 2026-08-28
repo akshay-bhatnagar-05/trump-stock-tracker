@@ -1,125 +1,102 @@
 {
-  "generatedAt": "2026-08-26T16:37:26.824468",
+  "generatedAt": "2026-08-28T21:50:51.161752",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Canada has been \u201cRipping Off\u201d the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn\u2019t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream\u2019s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
+      "headline": "Laura Ingraham: \u201cYear-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent. Where are all the experts who claimed that the tariffs would kill our exports? GOOD NEWS TUESDAY\u2026IN ADDITION TO THE DOW AND OIL DOWN....The trade deficit is going down, and exports are up for the year so far.\"",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41187"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "Lots of \u201cbluster\u201d from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying Canada for decades, but no longer! The U.S.A. will always be far bigger, richer, and stronger than Canada. Without the United States, Canada couldn\u2019t survive \u2014 It\u2019s where they get all of their money and, because of their current bad leadership, primarily Governor Carney, and his Flunky, Ford, they will not be allowed to keep taking advantage of the United States \u2014 Their key to survival. Remember, much of the Electricity, Oil, and Gas that Canada gets is transported through the U.S.A. Someone should get these clowns to \u201cfall in line\u201d or, the consequences for Canada will be far WORSE! Canada\u2019s Unemployment Rate is now at 10%, and rapidly rising. Their businesses are fleeing for the United States, and it\u2019s all because of their failed policies, and inept leadership! The days of ripping off our Farmers, and other Businesses, are OVER! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://trumpstruth.org/statuses/41175"
+      "url": "https://trumpstruth.org/statuses/41336"
     }
   ],
   "indirectMentions": [
     {
-      "source": "24/7 Wall St.",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
+      "headline": "US stocks today: Nasdaq, S&P 500 rise as Nvidia revives AI rally; Fed outlook in focus",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://247wallst.com/investing/2026/08/25/spacex-rises-3-as-musk-pulls-the-nvidia-orbital-data-center-into-2027-jpmorgan-sees-75-upside/"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Globalresearch.ca",
       "time": "just now",
-      "headline": "Trump Media CEO touts customers, defends selling special access to president\u2019s posts",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/4aeafb45dba79dc5"
-    },
-    {
-      "source": "Yahoo Entertainment",
-      "time": "just now",
-      "headline": "Coinbase (COIN) Gains as Bitcoin Reclaimed $68,000. Can Washington Turn Sentiment Into Earnings?",
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-gains-bitcoin-reclaimed-141451931.html"
+      "headline": "Artificial Intelligence: Conversation with AI: Trump Engineers Chaos on Stock Markets. Chossudovsky",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.globalresearch.ca/artificial-intelligence-conversation-with-ai-trump-engineers-chaos-on-stock-markets-chossudovsky/5938242"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 90.07,
-      "now": 86.935,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 86.12,
-      "now": 86.935,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 208.9101,
-      "now": 209.9092,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 88.56,
-      "now": 86.935,
-      "days": 1
+      "now": 89.47,
+      "days": 3
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 59.585,
-      "now": 59.3,
-      "days": 1
+      "now": 56.13,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 211.1201,
-      "now": 209.9092,
-      "days": 1
+      "now": 217.55,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.215,
-      "now": 9.245,
-      "days": 1
+      "now": 9.635,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.935,
-      "now": 86.935,
-      "days": 0
+      "now": 89.47,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 209.9092,
-      "now": 209.9092,
-      "days": 0
+      "now": 217.55,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.245,
-      "now": 9.245,
-      "days": 0
+      "now": 9.635,
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 179.885,
-      "now": 179.885,
+      "now": 178.64,
+      "days": 2
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 217.55,
+      "now": 217.55,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.47,
+      "now": 89.47,
       "days": 0
     }
   ]

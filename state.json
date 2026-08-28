@@ -3,56 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-23T13:57:07.698927",
-      "price_at_detection": null,
-      "headline": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
-      "url": "https://trumpstruth.org/statuses/41129",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-23T13:57:08.004353",
-      "price_at_detection": 90.07,
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
-      "url": "https://trumpstruth.org/statuses/41077",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-24T15:21:39.139032",
-      "price_at_detection": null,
-      "headline": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life impossible for these great American Patriots, and has long created a 60 Billion Dollar Deficit between our two Countries. Not sustainable, and NOT ANYMORE! On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50%. Build in the U.S. and there are ZERO TARIFFS. Canada will be treated like a State no longer! On Trade, and in other ways, also, they are among the worst Nations in the World to deal with. They feel entitled, and yet, WE DON\u2019T NEED CANADA, THEY NEED US! They do 95% of their business with the U.S., with us, the exact opposite! Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41154",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-24T15:21:40.252799",
-      "price_at_detection": 86.12,
-      "headline": "Intel Politics: NSA sat on election threat reporting over Trump \u2018deep state\u2019 label, memo shows:",
-      "url": "https://trumpstruth.org/statuses/41138",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-24T15:21:40.451130",
-      "price_at_detection": 208.9101,
-      "headline": "Nvidia earnings and Jackson Hole: What to watch this week",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-25T15:28:24.935321",
       "price_at_detection": null,
       "headline": "Canada has been \u201cRipping Off\u201d the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn\u2019t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream\u2019s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT",
@@ -158,6 +108,36 @@
       "headline": "Coinbase (COIN) Gains as Bitcoin Reclaimed $68,000. Can Washington Turn Sentiment Into Earnings?",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-gains-bitcoin-reclaimed-141451931.html",
       "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-28T21:50:50.119909",
+      "price_at_detection": null,
+      "headline": "Laura Ingraham: \u201cYear-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent. Where are all the experts who claimed that the tariffs would kill our exports? GOOD NEWS TUESDAY\u2026IN ADDITION TO THE DOW AND OIL DOWN....The trade deficit is going down, and exports are up for the year so far.\"",
+      "url": "https://trumpstruth.org/statuses/41336",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-28T21:50:50.481217",
+      "price_at_detection": 217.55,
+      "headline": "US stocks today: Nasdaq, S&P 500 rise as Nvidia revives AI rally; Fed outlook in focus",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-28T21:50:50.661545",
+      "price_at_detection": 89.47,
+      "headline": "Artificial Intelligence: Conversation with AI: Trump Engineers Chaos on Stock Markets. Chossudovsky",
+      "url": "https://www.globalresearch.ca/artificial-intelligence-conversation-with-ai-trump-engineers-chaos-on-stock-markets-chossudovsky/5938242",
+      "source": "Globalresearch.ca",
       "direct": false
     }
   ]
