@@ -139,6 +139,36 @@
       "url": "https://www.globalresearch.ca/artificial-intelligence-conversation-with-ai-trump-engineers-chaos-on-stock-markets-chossudovsky/5938242",
       "source": "Globalresearch.ca",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-08-29T13:08:51.926888",
+      "price_at_detection": null,
+      "headline": "Stupid Governor Kathy Hochul, who doesn\u2019t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They\u2019re aiming at her because they consider her Weak and Ineffective \u2014 Not nice! She doesn\u2019t want us to use the name, \u201cLake America,\u201d she\u2019d rather have Canada get a win. That\u2019s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like \u201cgarbage.\u201d They laugh at us up and down what was once called, \u201cLake Ontario,\u201d what is now called \u201cLake America.\u201d That is why Bruce Blakeman is going to be your next Governor. He\u2019s an \u201canimal,\u201d he fights like hell, he doesn\u2019t let anyone else win. He\u2019s for the people. He\u2019s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/41355",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-08-29T13:08:52.335786",
+      "price_at_detection": 89.47,
+      "headline": "Judge rules Trump administration illegally punished AI firm Anthropic",
+      "url": "https://biztoc.com/x/0e9b5bb3d7b73190",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-08-29T13:08:52.513840",
+      "price_at_detection": 217.55,
+      "headline": "Nvidia\u2019s massive future spending commitments \u2018make the company\u2019s risk profile more complex,\u2019 Saxo says",
+      "url": "https://fortune.com/2026/08/28/nvidia-cash-spending-commitments-risk-profile-more-complex-saxo/",
+      "source": "Fortune",
+      "direct": false
     }
   ]
 }
