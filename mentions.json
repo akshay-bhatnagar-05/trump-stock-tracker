@@ -1,53 +1,37 @@
 {
-  "generatedAt": "2026-08-30T13:08:50.071085",
+  "generatedAt": "2026-08-31T13:08:51.844392",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Stupid Governor Kathy Hochul, who doesn\u2019t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They\u2019re aiming at her because they consider her Weak and Ineffective \u2014 Not nice! She doesn\u2019t want us to use the name, \u201cLake America,\u201d she\u2019d rather have Canada get a win. That\u2019s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like \u201cgarbage.\u201d They laugh at us up and down what was once called, \u201cLake Ontario,\u201d what is now called \u201cLake America.\u201d That is why Bruce Blakeman is going to be your next Governor. He\u2019s an \u201canimal,\u201d he fights like hell, he doesn\u2019t let anyone else win. He\u2019s for the people. He\u2019s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
+      "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41355"
+      "url": "https://www.trumpstruth.org/statuses/41405"
     }
   ],
-  "indirectMentions": [
-    {
-      "source": "Raw Story",
-      "time": "just now",
-      "headline": "America mourns its legends like family \u2014 but Trump will get a very different send-off",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.rawstory.com/raw-investigates/dolly-parton-2677790817/"
-    }
-  ],
+  "indirectMentions": [],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 86.935,
-      "now": 89.47,
-      "days": 3
-    },
-    {
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "at": 209.9092,
+      "at": 217.55,
       "now": 217.55,
-      "days": 3
+      "days": 2
     },
     {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 9.245,
-      "now": 9.635,
-      "days": 3
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.47,
+      "now": 89.47,
+      "days": 2
     },
     {
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "at": 179.885,
-      "now": 178.64,
-      "days": 3
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.47,
+      "now": 89.47,
+      "days": 1
     },
     {
       "ticker": "NVDA",
@@ -62,27 +46,6 @@
       "at": 89.47,
       "now": 89.47,
       "days": 1
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.47,
-      "now": 89.47,
-      "days": 0
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 217.55,
-      "now": 217.55,
-      "days": 0
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.47,
-      "now": 89.47,
-      "days": 0
     }
   ]
 }
