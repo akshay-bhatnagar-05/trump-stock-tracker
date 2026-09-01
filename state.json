@@ -89,6 +89,36 @@
       "url": "https://www.trumpstruth.org/statuses/41405",
       "source": "truth_social",
       "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-01T13:16:59.954971",
+      "price_at_detection": null,
+      "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
+      "url": "https://trumpstruth.org/statuses/41405",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-01T13:17:00.261398",
+      "price_at_detection": 220.78,
+      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-praises-nvidia-ceo-jensen-110113841.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-01T13:17:00.420000",
+      "price_at_detection": 89.51,
+      "headline": "10 Monday AM Reads",
+      "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/",
+      "source": "Ritholtz.com",
+      "direct": false
     }
   ]
 }

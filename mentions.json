@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:08:51.844392",
+  "generatedAt": "2026-09-01T13:17:00.538532",
   "directMentions": [
     {
       "source": "truth_social",
@@ -7,45 +7,76 @@
       "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.trumpstruth.org/statuses/41405"
+      "url": "https://trumpstruth.org/statuses/41405"
     }
   ],
-  "indirectMentions": [],
+  "indirectMentions": [
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-praises-nvidia-ceo-jensen-110113841.html"
+    },
+    {
+      "source": "Ritholtz.com",
+      "time": "just now",
+      "headline": "10 Monday AM Reads",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/"
+    }
+  ],
   "tracked": [
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 217.55,
-      "now": 217.55,
-      "days": 2
+      "now": 220.78,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.47,
-      "now": 89.47,
-      "days": 2
+      "now": 89.51,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.47,
-      "now": 89.47,
-      "days": 1
+      "now": 89.51,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 217.55,
-      "now": 217.55,
-      "days": 1
+      "now": 220.78,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.47,
-      "now": 89.47,
-      "days": 1
+      "now": 89.51,
+      "days": 2
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 220.78,
+      "now": 220.78,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.51,
+      "now": 89.51,
+      "days": 0
     }
   ]
 }
