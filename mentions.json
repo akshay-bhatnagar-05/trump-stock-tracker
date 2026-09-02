@@ -1,81 +1,67 @@
 {
-  "generatedAt": "2026-09-01T13:17:00.538532",
+  "generatedAt": "2026-09-02T13:17:56.224215",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41405"
+      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.trumpstruth.org/statuses/41459"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Yahoo Entertainment",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/trump-praises-nvidia-ceo-jensen-110113841.html"
-    },
-    {
-      "source": "Ritholtz.com",
-      "time": "just now",
-      "headline": "10 Monday AM Reads",
+      "headline": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/"
+      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms"
+    },
+    {
+      "source": "Business Insider",
+      "time": "just now",
+      "headline": "Apple's new CEO faces an early test",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.businessinsider.com/john-ternus-apple-ceo-ai-siri-challenges-tim-cook-2026-9#article"
     }
   ],
   "tracked": [
     {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 217.55,
-      "now": 220.78,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.47,
-      "now": 89.51,
+      "now": 88.97,
       "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.47,
-      "now": 89.51,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 217.55,
-      "now": 220.78,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.47,
-      "now": 89.51,
-      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.78,
-      "now": 220.78,
-      "days": 0
+      "now": 217.44,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.51,
-      "now": 89.51,
+      "now": 88.97,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 217.44,
+      "now": 217.44,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 88.97,
+      "now": 88.97,
       "days": 0
     }
   ]

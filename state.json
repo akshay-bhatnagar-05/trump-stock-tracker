@@ -3,66 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-28T21:50:50.119909",
-      "price_at_detection": null,
-      "headline": "Laura Ingraham: \u201cYear-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent. Where are all the experts who claimed that the tariffs would kill our exports? GOOD NEWS TUESDAY\u2026IN ADDITION TO THE DOW AND OIL DOWN....The trade deficit is going down, and exports are up for the year so far.\"",
-      "url": "https://trumpstruth.org/statuses/41336",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-28T21:50:50.481217",
-      "price_at_detection": 217.55,
-      "headline": "US stocks today: Nasdaq, S&P 500 rise as Nvidia revives AI rally; Fed outlook in focus",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-28T21:50:50.661545",
-      "price_at_detection": 89.47,
-      "headline": "Artificial Intelligence: Conversation with AI: Trump Engineers Chaos on Stock Markets. Chossudovsky",
-      "url": "https://www.globalresearch.ca/artificial-intelligence-conversation-with-ai-trump-engineers-chaos-on-stock-markets-chossudovsky/5938242",
-      "source": "Globalresearch.ca",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-08-29T13:08:51.926888",
-      "price_at_detection": null,
-      "headline": "Stupid Governor Kathy Hochul, who doesn\u2019t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They\u2019re aiming at her because they consider her Weak and Ineffective \u2014 Not nice! She doesn\u2019t want us to use the name, \u201cLake America,\u201d she\u2019d rather have Canada get a win. That\u2019s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like \u201cgarbage.\u201d They laugh at us up and down what was once called, \u201cLake Ontario,\u201d what is now called \u201cLake America.\u201d That is why Bruce Blakeman is going to be your next Governor. He\u2019s an \u201canimal,\u201d he fights like hell, he doesn\u2019t let anyone else win. He\u2019s for the people. He\u2019s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/41355",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-29T13:08:52.335786",
-      "price_at_detection": 89.47,
-      "headline": "Judge rules Trump administration illegally punished AI firm Anthropic",
-      "url": "https://biztoc.com/x/0e9b5bb3d7b73190",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-08-29T13:08:52.513840",
-      "price_at_detection": 217.55,
-      "headline": "Nvidia\u2019s massive future spending commitments \u2018make the company\u2019s risk profile more complex,\u2019 Saxo says",
-      "url": "https://fortune.com/2026/08/28/nvidia-cash-spending-commitments-risk-profile-more-complex-saxo/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-30T13:08:48.654723",
       "price_at_detection": null,
       "headline": "Stupid Governor Kathy Hochul, who doesn\u2019t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They\u2019re aiming at her because they consider her Weak and Ineffective \u2014 Not nice! She doesn\u2019t want us to use the name, \u201cLake America,\u201d she\u2019d rather have Canada get a win. That\u2019s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like \u201cgarbage.\u201d They laugh at us up and down what was once called, \u201cLake Ontario,\u201d what is now called \u201cLake America.\u201d That is why Bruce Blakeman is going to be your next Governor. He\u2019s an \u201canimal,\u201d he fights like hell, he doesn\u2019t let anyone else win. He\u2019s for the people. He\u2019s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
@@ -118,6 +58,36 @@
       "headline": "10 Monday AM Reads",
       "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/",
       "source": "Ritholtz.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-02T13:17:55.645669",
+      "price_at_detection": 217.44,
+      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
+      "url": "https://www.trumpstruth.org/statuses/41459",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-02T13:17:56.013941",
+      "price_at_detection": 88.97,
+      "headline": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-02T13:17:56.014210",
+      "price_at_detection": null,
+      "headline": "Apple's new CEO faces an early test",
+      "url": "https://www.businessinsider.com/john-ternus-apple-ceo-ai-siri-challenges-tim-cook-2026-9#article",
+      "source": "Business Insider",
       "direct": false
     }
   ]
