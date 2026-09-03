@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:17:56.224215",
+  "generatedAt": "2026-09-03T13:18:13.110219",
   "directMentions": [
     {
       "source": "truth_social",
@@ -7,61 +7,83 @@
       "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.trumpstruth.org/statuses/41459"
+      "url": "https://trumpstruth.org/statuses/41459"
     }
   ],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms"
-    },
-    {
-      "source": "Business Insider",
-      "time": "just now",
-      "headline": "Apple's new CEO faces an early test",
+      "headline": "Scott Bessent says 19 of the G20 finance ministers agreed to address \u2018cheap imports\u2019 but \u2018China was the dissenter\u2019",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.businessinsider.com/john-ternus-apple-ceo-ai-siri-challenges-tim-cook-2026-9#article"
+      "url": "https://fortune.com/2026/09/02/china-bessent-g20-trade/"
+    },
+    {
+      "source": "CNBC",
+      "time": "just now",
+      "headline": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Meta and Google\u2019s AI Returns Slide, Piper Sandler Says Amazon\u2019s Capital Discipline Sets It Apart",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html"
     }
   ],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.47,
-      "now": 88.97,
-      "days": 3
-    },
-    {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.78,
-      "now": 217.44,
-      "days": 1
+      "now": 224.41,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.51,
-      "now": 88.97,
-      "days": 1
+      "now": 90.05,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 217.44,
-      "now": 217.44,
-      "days": 0
+      "now": 224.41,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 88.97,
-      "now": 88.97,
+      "now": 90.05,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 224.41,
+      "now": 224.41,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 492.2,
+      "now": 492.2,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 90.05,
+      "now": 90.05,
       "days": 0
     }
   ]

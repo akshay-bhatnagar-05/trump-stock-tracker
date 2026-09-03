@@ -3,26 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-30T13:08:48.654723",
-      "price_at_detection": null,
-      "headline": "Stupid Governor Kathy Hochul, who doesn\u2019t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They\u2019re aiming at her because they consider her Weak and Ineffective \u2014 Not nice! She doesn\u2019t want us to use the name, \u201cLake America,\u201d she\u2019d rather have Canada get a win. That\u2019s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like \u201cgarbage.\u201d They laugh at us up and down what was once called, \u201cLake Ontario,\u201d what is now called \u201cLake America.\u201d That is why Bruce Blakeman is going to be your next Governor. He\u2019s an \u201canimal,\u201d he fights like hell, he doesn\u2019t let anyone else win. He\u2019s for the people. He\u2019s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41355",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-08-30T13:08:49.414999",
-      "price_at_detection": 89.47,
-      "headline": "America mourns its legends like family \u2014 but Trump will get a very different send-off",
-      "url": "https://www.rawstory.com/raw-investigates/dolly-parton-2677790817/",
-      "source": "Raw Story",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-08-31T13:08:51.358530",
       "price_at_detection": null,
       "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
@@ -88,6 +68,46 @@
       "headline": "Apple's new CEO faces an early test",
       "url": "https://www.businessinsider.com/john-ternus-apple-ceo-ai-siri-challenges-tim-cook-2026-9#article",
       "source": "Business Insider",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-03T13:18:12.760266",
+      "price_at_detection": 224.41,
+      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
+      "url": "https://trumpstruth.org/statuses/41459",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-03T13:18:12.760906",
+      "price_at_detection": null,
+      "headline": "Scott Bessent says 19 of the G20 finance ministers agreed to address \u2018cheap imports\u2019 but \u2018China was the dissenter\u2019",
+      "url": "https://fortune.com/2026/09/02/china-bessent-g20-trade/",
+      "source": "Fortune",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-09-03T13:18:12.861622",
+      "price_at_detection": 492.2,
+      "headline": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
+      "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html",
+      "source": "CNBC",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-03T13:18:12.995247",
+      "price_at_detection": 90.05,
+      "headline": "Meta and Google\u2019s AI Returns Slide, Piper Sandler Says Amazon\u2019s Capital Discipline Sets It Apart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html",
+      "source": "Yahoo Entertainment",
       "direct": false
     }
   ]
