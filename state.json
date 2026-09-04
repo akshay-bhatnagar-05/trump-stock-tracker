@@ -3,16 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-08-31T13:08:51.358530",
-      "price_at_detection": null,
-      "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-      "url": "https://www.trumpstruth.org/statuses/41405",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-09-01T13:16:59.954971",
       "price_at_detection": null,
       "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
@@ -108,6 +98,46 @@
       "headline": "Meta and Google\u2019s AI Returns Slide, Piper Sandler Says Amazon\u2019s Capital Discipline Sets It Apart",
       "url": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html",
       "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-04T13:17:24.697283",
+      "price_at_detection": 228.45,
+      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
+      "url": "https://trumpstruth.org/statuses/41459",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-04T13:17:24.697589",
+      "price_at_detection": null,
+      "headline": "PlayStation And Xbox Hit Back At Gamer Lawsuits Demanding Tariff Refunds: \u2018There Is Nothing Unjust About Plaintiff Purchasing An Xbox At An Advertised Price And Getting Exactly What He Paid For\u2019",
+      "url": "https://kotaku.com/playstation-and-xbox-hit-back-at-gamer-lawsuits-demanding-tariff-refunds-there-is-nothing-unjust-about-plaintiff-purchasing-an-xbox-at-an-advertised-price-and-getting-exactly-what-he-paid-for-2000730838",
+      "source": "Kotaku",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-09-04T13:17:24.976970",
+      "price_at_detection": 182.53,
+      "headline": "Ukrainian ex-defense minister launches Palantir-backed military tech firm",
+      "url": "https://biztoc.com/x/25cbd85b545af2e6",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-04T13:17:25.286156",
+      "price_at_detection": 91.67,
+      "headline": "Texas Ventures, Plus enter business combination agreement, values Plus at $800M",
+      "url": "https://www.thefly.com/tva",
+      "source": "Thefly.com",
       "direct": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:18:13.110219",
+  "generatedAt": "2026-09-04T13:17:25.968795",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,28 +12,28 @@
   ],
   "indirectMentions": [
     {
-      "source": "Fortune",
+      "source": "Kotaku",
       "time": "just now",
-      "headline": "Scott Bessent says 19 of the G20 finance ministers agreed to address \u2018cheap imports\u2019 but \u2018China was the dissenter\u2019",
+      "headline": "PlayStation And Xbox Hit Back At Gamer Lawsuits Demanding Tariff Refunds: \u2018There Is Nothing Unjust About Plaintiff Purchasing An Xbox At An Advertised Price And Getting Exactly What He Paid For\u2019",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://fortune.com/2026/09/02/china-bessent-g20-trade/"
+      "url": "https://kotaku.com/playstation-and-xbox-hit-back-at-gamer-lawsuits-demanding-tariff-refunds-there-is-nothing-unjust-about-plaintiff-purchasing-an-xbox-at-an-advertised-price-and-getting-exactly-what-he-paid-for-2000730838"
     },
     {
-      "source": "CNBC",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html"
+      "headline": "Ukrainian ex-defense minister launches Palantir-backed military tech firm",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://biztoc.com/x/25cbd85b545af2e6"
     },
     {
-      "source": "Yahoo Entertainment",
+      "source": "Thefly.com",
       "time": "just now",
-      "headline": "Meta and Google\u2019s AI Returns Slide, Piper Sandler Says Amazon\u2019s Capital Discipline Sets It Apart",
+      "headline": "Texas Ventures, Plus enter business combination agreement, values Plus at $800M",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html"
+      "url": "https://www.thefly.com/tva"
     }
   ],
   "tracked": [
@@ -41,49 +41,70 @@
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.78,
-      "now": 224.41,
-      "days": 2
+      "now": 228.45,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.51,
-      "now": 90.05,
-      "days": 2
+      "now": 91.67,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 217.44,
-      "now": 224.41,
+      "now": 228.45,
       "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 88.97,
-      "now": 90.05,
+      "now": 91.67,
       "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.41,
-      "now": 224.41,
+      "now": 228.45,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 492.2,
-      "now": 492.2,
+      "now": 516.39,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.05,
-      "now": 90.05,
+      "now": 91.67,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 228.45,
+      "now": 228.45,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 182.53,
+      "now": 182.53,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 91.67,
+      "now": 91.67,
       "days": 0
     }
   ]
