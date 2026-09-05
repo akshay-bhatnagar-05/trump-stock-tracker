@@ -139,6 +139,26 @@
       "url": "https://www.thefly.com/tva",
       "source": "Thefly.com",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-05T13:14:58.969633",
+      "price_at_detection": null,
+      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41521",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-05T13:14:59.320066",
+      "price_at_detection": 95.8,
+      "headline": "Immuron to launch Proibs in the U.S.",
+      "url": "https://www.thefly.com/imrn",
+      "source": "Thefly.com",
+      "direct": false
     }
   ]
 }

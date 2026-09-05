@@ -1,39 +1,23 @@
 {
-  "generatedAt": "2026-09-04T13:17:25.968795",
+  "generatedAt": "2026-09-05T13:14:59.686533",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://trumpstruth.org/statuses/41459"
+      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://trumpstruth.org/statuses/41521"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Kotaku",
-      "time": "just now",
-      "headline": "PlayStation And Xbox Hit Back At Gamer Lawsuits Demanding Tariff Refunds: \u2018There Is Nothing Unjust About Plaintiff Purchasing An Xbox At An Advertised Price And Getting Exactly What He Paid For\u2019",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://kotaku.com/playstation-and-xbox-hit-back-at-gamer-lawsuits-demanding-tariff-refunds-there-is-nothing-unjust-about-plaintiff-purchasing-an-xbox-at-an-advertised-price-and-getting-exactly-what-he-paid-for-2000730838"
-    },
-    {
-      "source": "Biztoc.com",
-      "time": "just now",
-      "headline": "Ukrainian ex-defense minister launches Palantir-backed military tech firm",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://biztoc.com/x/25cbd85b545af2e6"
-    },
-    {
       "source": "Thefly.com",
       "time": "just now",
-      "headline": "Texas Ventures, Plus enter business combination agreement, values Plus at $800M",
+      "headline": "Immuron to launch Proibs in the U.S.",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.thefly.com/tva"
+      "url": "https://www.thefly.com/imrn"
     }
   ],
   "tracked": [
@@ -41,70 +25,77 @@
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.78,
-      "now": 228.45,
+      "now": 230.36,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.51,
-      "now": 91.67,
+      "now": 95.8,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 217.44,
-      "now": 228.45,
-      "days": 1
+      "now": 230.36,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 88.97,
-      "now": 91.67,
-      "days": 1
+      "now": 95.8,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.41,
-      "now": 228.45,
-      "days": 0
+      "now": 230.36,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 492.2,
-      "now": 516.39,
-      "days": 0
+      "now": 524.14,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.05,
-      "now": 91.67,
-      "days": 0
+      "now": 95.8,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 228.45,
-      "now": 228.45,
+      "now": 230.36,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 182.53,
-      "now": 182.53,
+      "now": 174.33,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 91.67,
-      "now": 91.67,
+      "now": 95.8,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 95.8,
+      "now": 95.8,
       "days": 0
     }
   ]
