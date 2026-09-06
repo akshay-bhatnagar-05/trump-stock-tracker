@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-01T13:16:59.954971",
-      "price_at_detection": null,
-      "headline": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-      "url": "https://trumpstruth.org/statuses/41405",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-09-01T13:17:00.261398",
-      "price_at_detection": 220.78,
-      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies",
-      "url": "https://finance.yahoo.com/technology/ai/articles/trump-praises-nvidia-ceo-jensen-110113841.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-01T13:17:00.420000",
-      "price_at_detection": 89.51,
-      "headline": "10 Monday AM Reads",
-      "url": "https://ritholtz.com/2026/08/10-monday-am-reads-490/",
-      "source": "Ritholtz.com",
-      "direct": false
-    },
-    {
       "keyword": "nvidia",
       "ticker": "NVDA",
       "date_detected": "2026-09-02T13:17:55.645669",
@@ -159,6 +129,16 @@
       "url": "https://www.thefly.com/imrn",
       "source": "Thefly.com",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-06T13:15:26.302227",
+      "price_at_detection": null,
+      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+      "url": "https://trumpstruth.org/statuses/41521",
+      "source": "truth_social",
+      "direct": true
     }
   ]
 }
