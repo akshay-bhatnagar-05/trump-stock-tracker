@@ -3,76 +3,6 @@
     {
       "keyword": "nvidia",
       "ticker": "NVDA",
-      "date_detected": "2026-09-02T13:17:55.645669",
-      "price_at_detection": 217.44,
-      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
-      "url": "https://www.trumpstruth.org/statuses/41459",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-02T13:17:56.013941",
-      "price_at_detection": 88.97,
-      "headline": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
-      "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-takes-over-from-tim-cook-after-15-years/articleshow/133682165.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-02T13:17:56.014210",
-      "price_at_detection": null,
-      "headline": "Apple's new CEO faces an early test",
-      "url": "https://www.businessinsider.com/john-ternus-apple-ceo-ai-siri-challenges-tim-cook-2026-9#article",
-      "source": "Business Insider",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-09-03T13:18:12.760266",
-      "price_at_detection": 224.41,
-      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
-      "url": "https://trumpstruth.org/statuses/41459",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-03T13:18:12.760906",
-      "price_at_detection": null,
-      "headline": "Scott Bessent says 19 of the G20 finance ministers agreed to address \u2018cheap imports\u2019 but \u2018China was the dissenter\u2019",
-      "url": "https://fortune.com/2026/09/02/china-bessent-g20-trade/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-09-03T13:18:12.861622",
-      "price_at_detection": 492.2,
-      "headline": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
-      "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html",
-      "source": "CNBC",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-03T13:18:12.995247",
-      "price_at_detection": 90.05,
-      "headline": "Meta and Google\u2019s AI Returns Slide, Piper Sandler Says Amazon\u2019s Capital Discipline Sets It Apart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-google-ai-returns-slide-102019503.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
       "date_detected": "2026-09-04T13:17:24.697283",
       "price_at_detection": 228.45,
       "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
@@ -139,6 +69,26 @@
       "url": "https://trumpstruth.org/statuses/41521",
       "source": "truth_social",
       "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-07T13:19:02.271724",
+      "price_at_detection": 95.8,
+      "headline": "Hormuz Oil Exports Recovering But Remain Below Pre-War Levels, Shipping Tracker Says",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260906-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-07T13:19:02.271844",
+      "price_at_detection": null,
+      "headline": "Video game makers really don't want to give their customers tariff refunds",
+      "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9#article",
+      "source": "Business Insider",
+      "direct": false
     }
   ]
 }

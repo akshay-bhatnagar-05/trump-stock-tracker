@@ -1,79 +1,59 @@
 {
-  "generatedAt": "2026-09-06T13:15:27.097318",
-  "directMentions": [
+  "generatedAt": "2026-09-07T13:19:02.985557",
+  "directMentions": [],
+  "indirectMentions": [
     {
-      "source": "truth_social",
+      "source": "Globalsecurity.org",
       "time": "just now",
-      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+      "headline": "Hormuz Oil Exports Recovering But Remain Below Pre-War Levels, Shipping Tracker Says",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260906-rferl03.htm"
+    },
+    {
+      "source": "Business Insider",
+      "time": "just now",
+      "headline": "Video game makers really don't want to give their customers tariff refunds",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://trumpstruth.org/statuses/41521"
+      "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9#article"
     }
   ],
-  "indirectMentions": [],
   "tracked": [
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 217.44,
-      "now": 230.36,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 88.97,
-      "now": 95.8,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 224.41,
-      "now": 230.36,
-      "days": 2
-    },
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 492.2,
-      "now": 524.14,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 90.05,
-      "now": 95.8,
-      "days": 2
-    },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 228.45,
       "now": 230.36,
-      "days": 1
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 182.53,
       "now": 174.33,
-      "days": 1
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 91.67,
       "now": 95.8,
-      "days": 1
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
       "now": 95.8,
-      "days": 1
+      "days": 2
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 95.8,
+      "now": 95.8,
+      "days": 0
     }
   ]
 }
