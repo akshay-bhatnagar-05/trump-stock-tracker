@@ -1,46 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-09-04T13:17:24.697283",
-      "price_at_detection": 228.45,
-      "headline": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion:",
-      "url": "https://trumpstruth.org/statuses/41459",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-04T13:17:24.697589",
-      "price_at_detection": null,
-      "headline": "PlayStation And Xbox Hit Back At Gamer Lawsuits Demanding Tariff Refunds: \u2018There Is Nothing Unjust About Plaintiff Purchasing An Xbox At An Advertised Price And Getting Exactly What He Paid For\u2019",
-      "url": "https://kotaku.com/playstation-and-xbox-hit-back-at-gamer-lawsuits-demanding-tariff-refunds-there-is-nothing-unjust-about-plaintiff-purchasing-an-xbox-at-an-advertised-price-and-getting-exactly-what-he-paid-for-2000730838",
-      "source": "Kotaku",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-09-04T13:17:24.976970",
-      "price_at_detection": 182.53,
-      "headline": "Ukrainian ex-defense minister launches Palantir-backed military tech firm",
-      "url": "https://biztoc.com/x/25cbd85b545af2e6",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-04T13:17:25.286156",
-      "price_at_detection": 91.67,
-      "headline": "Texas Ventures, Plus enter business combination agreement, values Plus at $800M",
-      "url": "https://www.thefly.com/tva",
-      "source": "Thefly.com",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-09-05T13:14:58.969633",
@@ -88,6 +48,26 @@
       "headline": "Video game makers really don't want to give their customers tariff refunds",
       "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9#article",
       "source": "Business Insider",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-08T13:20:02.098526",
+      "price_at_detection": 95.8,
+      "headline": "Scientists challenge 70-year-old \u2018Lizard brain\u2019 theory of human intelligence",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/what-if-your-lizard-brain-never-existed-scientists-challenge-a-70-year-old-theory-and-uncover-the-wiring-battle-that-may-have-shaped-human-intelligence/articleshow/133848619.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-08T13:20:02.098756",
+      "price_at_detection": null,
+      "headline": "Sask. print-art studio among small businesses facing loss of U.S. customers",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-print-art-studio-among-businesses-facing-loss-of-u-s-customers-9.7333354",
+      "source": "CBC News",
       "direct": false
     }
   ]

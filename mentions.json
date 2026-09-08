@@ -1,43 +1,29 @@
 {
-  "generatedAt": "2026-09-07T13:19:02.985557",
+  "generatedAt": "2026-09-08T13:20:02.214314",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Globalsecurity.org",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Hormuz Oil Exports Recovering But Remain Below Pre-War Levels, Shipping Tracker Says",
+      "headline": "Scientists challenge 70-year-old \u2018Lizard brain\u2019 theory of human intelligence",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260906-rferl03.htm"
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/what-if-your-lizard-brain-never-existed-scientists-challenge-a-70-year-old-theory-and-uncover-the-wiring-battle-that-may-have-shaped-human-intelligence/articleshow/133848619.cms"
     },
     {
-      "source": "Business Insider",
+      "source": "CBC News",
       "time": "just now",
-      "headline": "Video game makers really don't want to give their customers tariff refunds",
+      "headline": "Sask. print-art studio among small businesses facing loss of U.S. customers",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9#article"
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-print-art-studio-among-businesses-facing-loss-of-u-s-customers-9.7333354"
     }
   ],
   "tracked": [
     {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 228.45,
-      "now": 230.36,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 182.53,
-      "now": 174.33,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 91.67,
+      "at": 95.8,
       "now": 95.8,
       "days": 3
     },
@@ -46,7 +32,7 @@
       "keyword": "intel",
       "at": 95.8,
       "now": 95.8,
-      "days": 2
+      "days": 1
     },
     {
       "ticker": "INTC",
