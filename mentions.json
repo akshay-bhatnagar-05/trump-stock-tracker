@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-08T13:20:02.214314",
+  "generatedAt": "2026-09-09T13:18:27.545287",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Slashdot.org",
       "time": "just now",
-      "headline": "Scientists challenge 70-year-old \u2018Lizard brain\u2019 theory of human intelligence",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/what-if-your-lizard-brain-never-existed-scientists-challenge-a-70-year-old-theory-and-uncover-the-wiring-battle-that-may-have-shaped-human-intelligence/articleshow/133848619.cms"
-    },
-    {
-      "source": "CBC News",
-      "time": "just now",
-      "headline": "Sask. print-art studio among small businesses facing loss of U.S. customers",
+      "headline": "Trump's 100% tariff on drones will be disaster for the US, critics warn",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-print-art-studio-among-businesses-facing-loss-of-u-s-customers-9.7333354"
+      "url": "https://slashdot.org/submission/17350574/trumps-100-tariff-on-drones-will-be-disaster-for-the-us-critics-warn"
+    },
+    {
+      "source": "The Intercept",
+      "time": "just now",
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/"
     }
   ],
   "tracked": [
@@ -24,21 +24,21 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
-      "now": 95.8,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 95.8,
-      "now": 95.8,
+      "now": 104.47,
       "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
-      "now": 95.8,
+      "now": 104.47,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 104.47,
+      "now": 104.47,
       "days": 0
     }
   ]

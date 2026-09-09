@@ -3,26 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-09-05T13:14:58.969633",
-      "price_at_detection": null,
-      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41521",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-05T13:14:59.320066",
-      "price_at_detection": 95.8,
-      "headline": "Immuron to launch Proibs in the U.S.",
-      "url": "https://www.thefly.com/imrn",
-      "source": "Thefly.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-09-06T13:15:26.302227",
       "price_at_detection": null,
       "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
@@ -68,6 +48,26 @@
       "headline": "Sask. print-art studio among small businesses facing loss of U.S. customers",
       "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-print-art-studio-among-businesses-facing-loss-of-u-s-customers-9.7333354",
       "source": "CBC News",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-09T13:18:27.207050",
+      "price_at_detection": null,
+      "headline": "Trump's 100% tariff on drones will be disaster for the US, critics warn",
+      "url": "https://slashdot.org/submission/17350574/trumps-100-tariff-on-drones-will-be-disaster-for-the-us-critics-warn",
+      "source": "Slashdot.org",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-09T13:18:27.487728",
+      "price_at_detection": 104.47,
+      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
+      "source": "The Intercept",
       "direct": false
     }
   ]
