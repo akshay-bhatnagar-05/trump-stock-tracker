@@ -1,16 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-06T13:15:26.302227",
-      "price_at_detection": null,
-      "headline": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries.\u00a0My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING \u2014 One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
-      "url": "https://trumpstruth.org/statuses/41521",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-09-07T13:19:02.271724",
@@ -68,6 +58,26 @@
       "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
       "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
       "source": "The Intercept",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-10T13:17:19.231083",
+      "price_at_detection": null,
+      "headline": "Copper prices likely to remain elevated till US President Donald Trump decides on tariffs",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/copper-prices-likely-to-remain-elevated-till-us-president-donald-trump-decides-on-tariffs/article71447123.ece",
+      "source": "BusinessLine",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-09-10T13:17:19.976039",
+      "price_at_detection": 535.25,
+      "headline": "White House Removes Tetris-Inspired 'Build the Wall' Game Amid Legal Threat",
+      "url": "https://biztoc.com/x/bd31c1c19332ba3e",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]

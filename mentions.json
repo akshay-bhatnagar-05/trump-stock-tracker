@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-09T13:18:27.545287",
+  "generatedAt": "2026-09-10T13:17:20.335684",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Slashdot.org",
+      "source": "BusinessLine",
       "time": "just now",
-      "headline": "Trump's 100% tariff on drones will be disaster for the US, critics warn",
+      "headline": "Copper prices likely to remain elevated till US President Donald Trump decides on tariffs",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://slashdot.org/submission/17350574/trumps-100-tariff-on-drones-will-be-disaster-for-the-us-critics-warn"
+      "url": "https://www.thehindubusinessline.com/markets/commodities/copper-prices-likely-to-remain-elevated-till-us-president-donald-trump-decides-on-tariffs/article71447123.ece"
     },
     {
-      "source": "The Intercept",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/"
+      "headline": "White House Removes Tetris-Inspired 'Build the Wall' Game Amid Legal Threat",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://biztoc.com/x/bd31c1c19332ba3e"
     }
   ],
   "tracked": [
@@ -24,21 +24,28 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
-      "now": 104.47,
-      "days": 1
+      "now": 106.24,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
-      "now": 104.47,
-      "days": 0
+      "now": 106.24,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 104.47,
-      "now": 104.47,
+      "now": 106.24,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 535.25,
+      "now": 535.25,
       "days": 0
     }
   ]
