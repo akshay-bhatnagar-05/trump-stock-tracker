@@ -3,26 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-09-07T13:19:02.271724",
-      "price_at_detection": 95.8,
-      "headline": "Hormuz Oil Exports Recovering But Remain Below Pre-War Levels, Shipping Tracker Says",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260906-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-07T13:19:02.271844",
-      "price_at_detection": null,
-      "headline": "Video game makers really don't want to give their customers tariff refunds",
-      "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9#article",
-      "source": "Business Insider",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-09-08T13:20:02.098526",
       "price_at_detection": 95.8,
       "headline": "Scientists challenge 70-year-old \u2018Lizard brain\u2019 theory of human intelligence",
@@ -78,6 +58,36 @@
       "headline": "White House Removes Tetris-Inspired 'Build the Wall' Game Amid Legal Threat",
       "url": "https://biztoc.com/x/bd31c1c19332ba3e",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-11T16:59:27.320198",
+      "price_at_detection": null,
+      "headline": "Copper Stocks Hammered As White House Tariff Doubts Rattle Metals Trade",
+      "url": "https://biztoc.com/x/82b126676fe665a2",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-11T16:59:28.317056",
+      "price_at_detection": 102.82,
+      "headline": "Will Putin\u2019s Decade-Long War on US Elections Hit the Midterms?",
+      "url": "https://www.motherjones.com/politics/2026/09/how-russia-won-donald-trump-vladimir-putin-midterm-elections/",
+      "source": "Mother Jones",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-11T16:59:28.498631",
+      "price_at_detection": 219.11,
+      "headline": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth \u2014 US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
+      "source": "Tom's Hardware UK",
       "direct": false
     }
   ]

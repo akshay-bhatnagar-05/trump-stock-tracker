@@ -1,22 +1,30 @@
 {
-  "generatedAt": "2026-09-10T13:17:20.335684",
+  "generatedAt": "2026-09-11T16:59:28.885071",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "BusinessLine",
-      "time": "just now",
-      "headline": "Copper prices likely to remain elevated till US President Donald Trump decides on tariffs",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/copper-prices-likely-to-remain-elevated-till-us-president-donald-trump-decides-on-tariffs/article71447123.ece"
-    },
-    {
       "source": "Biztoc.com",
       "time": "just now",
-      "headline": "White House Removes Tetris-Inspired 'Build the Wall' Game Amid Legal Threat",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://biztoc.com/x/bd31c1c19332ba3e"
+      "headline": "Copper Stocks Hammered As White House Tariff Doubts Rattle Metals Trade",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://biztoc.com/x/82b126676fe665a2"
+    },
+    {
+      "source": "Mother Jones",
+      "time": "just now",
+      "headline": "Will Putin\u2019s Decade-Long War on US Elections Hit the Midterms?",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.motherjones.com/politics/2026/09/how-russia-won-donald-trump-vladimir-putin-midterm-elections/"
+    },
+    {
+      "source": "Tom's Hardware UK",
+      "time": "just now",
+      "headline": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth \u2014 US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market"
     }
   ],
   "tracked": [
@@ -24,28 +32,35 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 95.8,
-      "now": 106.24,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 95.8,
-      "now": 106.24,
-      "days": 1
+      "now": 102.82,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 104.47,
-      "now": 106.24,
-      "days": 0
+      "now": 102.82,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 535.25,
-      "now": 535.25,
+      "now": 558.9834,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 102.82,
+      "now": 102.82,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 219.11,
+      "now": 219.11,
       "days": 0
     }
   ]
