@@ -1,66 +1,110 @@
 {
-  "generatedAt": "2026-09-11T16:59:28.885071",
+  "generatedAt": "2026-09-12T16:10:17.361014",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Biztoc.com",
+      "source": "Yahoo Entertainment",
       "time": "just now",
-      "headline": "Copper Stocks Hammered As White House Tariff Doubts Rattle Metals Trade",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://biztoc.com/x/82b126676fe665a2"
-    },
-    {
-      "source": "Mother Jones",
-      "time": "just now",
-      "headline": "Will Putin\u2019s Decade-Long War on US Elections Hit the Midterms?",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.motherjones.com/politics/2026/09/how-russia-won-donald-trump-vladimir-putin-midterm-elections/"
-    },
-    {
-      "source": "Tom's Hardware UK",
-      "time": "just now",
-      "headline": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth \u2014 US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "headline": "Qualcomm\u2019s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market"
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html"
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "time": "just now",
+      "headline": "Positive Lung Cancer Data Lifts the Case for Amgen and AstraZeneca",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://finance.yahoo.com/healthcare/articles/positive-lung-cancer-data-lifts-151923653.html"
+    },
+    {
+      "source": "Truthout",
+      "time": "just now",
+      "headline": "Nurses Across US Demand Hospitals Cut Ties With Palantir, Citing ICE and Gaza",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://truthout.org/articles/nurses-across-us-demand-hospitals-cut-ties-with-palantir-citing-ice-and-gaza/"
+    },
+    {
+      "source": "Crypto Briefing",
+      "time": "just now",
+      "headline": "Coinbase CEO: CLARITY Act nearing 60 Senate votes for digital asset regulation",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://cryptobriefing.com/coinbase-ceo-clarity-act-nearing-60-senate-votes-for-digital-asset-regulation/"
+    },
+    {
+      "source": "PCMag.com",
+      "time": "just now",
+      "headline": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://uk.pcmag.com/ai/167271/anthropic-blocked-5-possible-attempts-to-research-bioweapons-with-claude"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 95.8,
-      "now": 102.82,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 104.47,
-      "now": 102.82,
-      "days": 2
+      "now": 102.94,
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 535.25,
-      "now": 558.9834,
-      "days": 1
+      "now": 567.29,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.82,
-      "now": 102.82,
+      "now": 102.94,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 219.11,
-      "now": 219.11,
+      "now": 218.29,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 218.29,
+      "now": 218.29,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 567.29,
+      "now": 567.29,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 167.23,
+      "now": 167.23,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 175.26,
+      "now": 175.26,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 102.94,
+      "now": 102.94,
       "days": 0
     }
   ]

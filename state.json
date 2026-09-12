@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-08T13:20:02.098526",
-      "price_at_detection": 95.8,
-      "headline": "Scientists challenge 70-year-old \u2018Lizard brain\u2019 theory of human intelligence",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/what-if-your-lizard-brain-never-existed-scientists-challenge-a-70-year-old-theory-and-uncover-the-wiring-battle-that-may-have-shaped-human-intelligence/articleshow/133848619.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-08T13:20:02.098756",
-      "price_at_detection": null,
-      "headline": "Sask. print-art studio among small businesses facing loss of U.S. customers",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-print-art-studio-among-businesses-facing-loss-of-u-s-customers-9.7333354",
-      "source": "CBC News",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-09-09T13:18:27.207050",
@@ -88,6 +68,56 @@
       "headline": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth \u2014 US export controls benefit homegrown chips as Nvidia and AMD exit market",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market",
       "source": "Tom's Hardware UK",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-12T16:10:16.744085",
+      "price_at_detection": 218.29,
+      "headline": "Qualcomm\u2019s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-09-12T16:10:16.828762",
+      "price_at_detection": 567.29,
+      "headline": "Positive Lung Cancer Data Lifts the Case for Amgen and AstraZeneca",
+      "url": "https://finance.yahoo.com/healthcare/articles/positive-lung-cancer-data-lifts-151923653.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-09-12T16:10:16.913393",
+      "price_at_detection": 167.23,
+      "headline": "Nurses Across US Demand Hospitals Cut Ties With Palantir, Citing ICE and Gaza",
+      "url": "https://truthout.org/articles/nurses-across-us-demand-hospitals-cut-ties-with-palantir-citing-ice-and-gaza/",
+      "source": "Truthout",
+      "direct": false
+    },
+    {
+      "keyword": "coinbase",
+      "ticker": "COIN",
+      "date_detected": "2026-09-12T16:10:17.084944",
+      "price_at_detection": 175.26,
+      "headline": "Coinbase CEO: CLARITY Act nearing 60 Senate votes for digital asset regulation",
+      "url": "https://cryptobriefing.com/coinbase-ceo-clarity-act-nearing-60-senate-votes-for-digital-asset-regulation/",
+      "source": "Crypto Briefing",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-12T16:10:17.214875",
+      "price_at_detection": 102.94,
+      "headline": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
+      "url": "https://uk.pcmag.com/ai/167271/anthropic-blocked-5-possible-attempts-to-research-bioweapons-with-claude",
+      "source": "PCMag.com",
       "direct": false
     }
   ]
