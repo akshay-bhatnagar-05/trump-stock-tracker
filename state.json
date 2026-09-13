@@ -3,26 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-09-09T13:18:27.207050",
-      "price_at_detection": null,
-      "headline": "Trump's 100% tariff on drones will be disaster for the US, critics warn",
-      "url": "https://slashdot.org/submission/17350574/trumps-100-tariff-on-drones-will-be-disaster-for-the-us-critics-warn",
-      "source": "Slashdot.org",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-09T13:18:27.487728",
-      "price_at_detection": 104.47,
-      "headline": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-      "source": "The Intercept",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-09-10T13:17:19.231083",
       "price_at_detection": null,
       "headline": "Copper prices likely to remain elevated till US President Donald Trump decides on tariffs",
@@ -118,6 +98,36 @@
       "headline": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
       "url": "https://uk.pcmag.com/ai/167271/anthropic-blocked-5-possible-attempts-to-research-bioweapons-with-claude",
       "source": "PCMag.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-13T16:55:53.314023",
+      "price_at_detection": null,
+      "headline": "US companies are getting billions back from invalidated Trump tariffs, and they\u2019re being creative about it",
+      "url": "https://cryptobriefing.com/us-companies-utilize-supreme-court-tariff-refunds/",
+      "source": "Crypto Briefing",
+      "direct": false
+    },
+    {
+      "keyword": "nucor",
+      "ticker": "NUE",
+      "date_detected": "2026-09-13T16:55:53.778850",
+      "price_at_detection": 259.43,
+      "headline": "Jim Cramer Prefers Nucor (NUE) Over Reliance (RS)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-nucor-nue-111230650.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-09-13T16:55:53.883484",
+      "price_at_detection": 567.29,
+      "headline": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-dell-dell-105814659.html",
+      "source": "Yahoo Entertainment",
       "direct": false
     }
   ]
