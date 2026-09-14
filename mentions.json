@@ -1,101 +1,108 @@
 {
-  "generatedAt": "2026-09-13T16:55:54.588277",
+  "generatedAt": "2026-09-14T18:30:53.830377",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Crypto Briefing",
+      "source": "Abcnews.com",
       "time": "just now",
-      "headline": "US companies are getting billions back from invalidated Trump tariffs, and they\u2019re being creative about it",
+      "headline": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://abcnews.com/Technology/wireStory/trump-downplays-check-ai-development-cede-edge-china-136406999"
+    },
+    {
+      "source": "Business Insider",
+      "time": "just now",
+      "headline": "Really? Palantir cofounder on AI's threat: 'We\u2019re on top of it\u2019",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9#article"
+    },
+    {
+      "source": "CBC News",
+      "time": "just now",
+      "headline": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://cryptobriefing.com/us-companies-utilize-supreme-court-tariff-refunds/"
-    },
-    {
-      "source": "Yahoo Entertainment",
-      "time": "just now",
-      "headline": "Jim Cramer Prefers Nucor (NUE) Over Reliance (RS)",
-      "ticker": "NUE",
-      "keyword": "nucor",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-nucor-nue-111230650.html"
-    },
-    {
-      "source": "Yahoo Entertainment",
-      "time": "just now",
-      "headline": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-dell-dell-105814659.html"
+      "url": "https://www.cbc.ca/news/politics/us-midterms-trump-canada-trade-war-democrats-9.7342260"
     }
   ],
   "tracked": [
     {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 535.25,
-      "now": 567.29,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.82,
-      "now": 102.94,
-      "days": 1
+      "now": 98.64,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 219.11,
-      "now": 218.29,
-      "days": 1
+      "now": 212.105,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.29,
-      "now": 218.29,
-      "days": 1
+      "now": 212.105,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 567.29,
-      "now": 567.29,
-      "days": 1
+      "now": 544.74,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.23,
-      "now": 167.23,
-      "days": 1
+      "now": 172.725,
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 175.26,
-      "now": 175.26,
-      "days": 1
+      "now": 190.33,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.94,
-      "now": 102.94,
-      "days": 1
+      "now": 98.64,
+      "days": 2
     },
     {
       "ticker": "NUE",
       "keyword": "nucor",
       "at": 259.43,
-      "now": 259.43,
-      "days": 0
+      "now": 254.625,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 567.29,
-      "now": 567.29,
+      "now": 544.74,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 98.64,
+      "now": 98.64,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 172.725,
+      "now": 172.725,
       "days": 0
     }
   ]

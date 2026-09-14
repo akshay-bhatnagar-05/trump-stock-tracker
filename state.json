@@ -3,26 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-09-10T13:17:19.231083",
-      "price_at_detection": null,
-      "headline": "Copper prices likely to remain elevated till US President Donald Trump decides on tariffs",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/copper-prices-likely-to-remain-elevated-till-us-president-donald-trump-decides-on-tariffs/article71447123.ece",
-      "source": "BusinessLine",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-09-10T13:17:19.976039",
-      "price_at_detection": 535.25,
-      "headline": "White House Removes Tetris-Inspired 'Build the Wall' Game Amid Legal Threat",
-      "url": "https://biztoc.com/x/bd31c1c19332ba3e",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-09-11T16:59:27.320198",
       "price_at_detection": null,
       "headline": "Copper Stocks Hammered As White House Tariff Doubts Rattle Metals Trade",
@@ -128,6 +108,36 @@
       "headline": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-dell-dell-105814659.html",
       "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-14T18:30:53.317890",
+      "price_at_detection": 98.64,
+      "headline": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+      "url": "https://abcnews.com/Technology/wireStory/trump-downplays-check-ai-development-cede-edge-china-136406999",
+      "source": "Abcnews.com",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-09-14T18:30:53.376767",
+      "price_at_detection": 172.725,
+      "headline": "Really? Palantir cofounder on AI's threat: 'We\u2019re on top of it\u2019",
+      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9#article",
+      "source": "Business Insider",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-14T18:30:53.376823",
+      "price_at_detection": null,
+      "headline": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes",
+      "url": "https://www.cbc.ca/news/politics/us-midterms-trump-canada-trade-war-democrats-9.7342260",
+      "source": "CBC News",
       "direct": false
     }
   ]
