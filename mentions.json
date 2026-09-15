@@ -1,108 +1,132 @@
 {
-  "generatedAt": "2026-09-14T18:30:53.830377",
-  "directMentions": [],
-  "indirectMentions": [
+  "generatedAt": "2026-09-15T17:38:01.941084",
+  "directMentions": [
     {
-      "source": "Abcnews.com",
+      "source": "truth_social",
       "time": "just now",
-      "headline": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://abcnews.com/Technology/wireStory/trump-downplays-check-ai-development-cede-edge-china-136406999"
-    },
-    {
-      "source": "Business Insider",
-      "time": "just now",
-      "headline": "Really? Palantir cofounder on AI's threat: 'We\u2019re on top of it\u2019",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9#article"
-    },
-    {
-      "source": "CBC News",
-      "time": "just now",
-      "headline": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes",
+      "headline": "Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally CORRUPT and out of control Mail-In voting \u201cdisaster,\u201d which is a laughing stock all over the World, and where we are the only country that has to endure such a Nation Destroying SCAM. Justices Alito and Thomas, legends both, strongly disagreed with this horrible, highly political, ruling. It is a big loss for Republicans, and America itself, and makes cheating by the Radical Left \u201cDumocrats,\u201d on Mail-In Ballots, a much easier thing to do - And now they have an open field to do so! The Supreme Court has really let our Country down! Certain Justices are petrified of these crazed and depraved Democrats, and are totally unable to show the courage necessary to save our America. Their horrible decision on Tariffs will be costing the U.S.A., for many years to come, Trillions and Trillions of Dollars. They didn\u2019t even state, \u201cmoney paid does not have to be paid back,\u201d much to the benefit of entities that truly hate our Country, and have been RIPPING IT OFF FOR YEARS, unnecessarily costing us, immediately, Billions of Dollars. Likewise, the Supreme Court\u2019s Decision on Birthright Citizenship is a complete and total disaster for America, and has already led to massive corruption with respect to \u201ccitizenship\u201d in our Country. The damage done to America is incalculable, and they know this, just as everyone else does - It is an irreparable and unrecoverable harm! The Court\u2019s inability and unwillingness to do the right thing for our Country will go down, in a very negative way, in the annals of History. This Supreme Court is bullied and cajoled by the Radical Left into making decisions that have set America back at least a hundred years. These are not the people I interviewed to serve on the United States Supreme Court, they are merely a shell of their original selves, a Court that is costing the United  States Trillions of Dollars with shockingly bad rulings that are of such magnitude that it won\u2019t be easily possible for our Country to recover or heal. It is a Court that will go down as having  rendered some of the most destructive, hurtful, and damaging decisions in our Country\u2019s history. It is not easy for me to write this criticism of the United States Supreme Court - it will likely cost me dearly for years to come - but I feel it my obligation and duty, as President, to do so for the America we love! Thank you for your attention to this very important matter. God bless the U.S.A. President DONALD J. TRUMP",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.cbc.ca/news/politics/us-midterms-trump-canada-trade-war-democrats-9.7342260"
+      "url": "https://www.trumpstruth.org/statuses/41740"
+    }
+  ],
+  "indirectMentions": [
+    {
+      "source": "Breitbart News",
+      "time": "just now",
+      "headline": "Barack Obama Reemerges to Lead Democrats\u2019 Midterm Efforts with Focus on Artificial Intelligence Global Governance Plot",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.breitbart.com/politics/2026/09/14/barack-obama-reemerges-to-lead-democrats-midterm-efforts-with-focus-on-artificial-intelligence-global-governance-plot/"
+    },
+    {
+      "source": "The Next Web",
+      "time": "just now",
+      "headline": "Hugging Face volunteers to audit the AI labs, and Nvidia is buying it",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://thenextweb.com/news/hugging-face-open-alignment-initiative-embedded-evaluators"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "time": "just now",
+      "headline": "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://247wallst.com/investing/2026/09/14/coinbase-jumps-6-on-compass-point-upgrade-ahead-of-senate-clarity-act-vote-strategy-climbs-3-mara-slips/"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Carney pitches Canada to global investors amid trade war with Trump",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://biztoc.com/x/c34d7d473a14dfba"
     }
   ],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 102.82,
-      "now": 98.64,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 219.11,
-      "now": 212.105,
-      "days": 3
-    },
-    {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 218.29,
-      "now": 212.105,
-      "days": 2
+      "now": 211.75,
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 567.29,
-      "now": 544.74,
-      "days": 2
+      "now": 548.815,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.23,
-      "now": 172.725,
-      "days": 2
+      "now": 175.57,
+      "days": 3
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 175.26,
-      "now": 190.33,
-      "days": 2
+      "now": 180.0493,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.94,
-      "now": 98.64,
-      "days": 2
+      "now": 97.91,
+      "days": 3
     },
     {
       "ticker": "NUE",
       "keyword": "nucor",
       "at": 259.43,
-      "now": 254.625,
-      "days": 1
+      "now": 257.84,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 567.29,
-      "now": 544.74,
-      "days": 1
+      "now": 548.815,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.64,
-      "now": 98.64,
+      "now": 97.91,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.725,
-      "now": 172.725,
+      "now": 175.57,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 97.91,
+      "now": 97.91,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 211.75,
+      "now": 211.75,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 180.0493,
+      "now": 180.0493,
       "days": 0
     }
   ]
