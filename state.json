@@ -1,56 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-09-12T16:10:16.744085",
-      "price_at_detection": 218.29,
-      "headline": "Qualcomm\u2019s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-aws-deal-takes-aim-154005241.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-09-12T16:10:16.828762",
-      "price_at_detection": 567.29,
-      "headline": "Positive Lung Cancer Data Lifts the Case for Amgen and AstraZeneca",
-      "url": "https://finance.yahoo.com/healthcare/articles/positive-lung-cancer-data-lifts-151923653.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-09-12T16:10:16.913393",
-      "price_at_detection": 167.23,
-      "headline": "Nurses Across US Demand Hospitals Cut Ties With Palantir, Citing ICE and Gaza",
-      "url": "https://truthout.org/articles/nurses-across-us-demand-hospitals-cut-ties-with-palantir-citing-ice-and-gaza/",
-      "source": "Truthout",
-      "direct": false
-    },
-    {
-      "keyword": "coinbase",
-      "ticker": "COIN",
-      "date_detected": "2026-09-12T16:10:17.084944",
-      "price_at_detection": 175.26,
-      "headline": "Coinbase CEO: CLARITY Act nearing 60 Senate votes for digital asset regulation",
-      "url": "https://cryptobriefing.com/coinbase-ceo-clarity-act-nearing-60-senate-votes-for-digital-asset-regulation/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-12T16:10:17.214875",
-      "price_at_detection": 102.94,
-      "headline": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
-      "url": "https://uk.pcmag.com/ai/167271/anthropic-blocked-5-possible-attempts-to-research-bioweapons-with-claude",
-      "source": "PCMag.com",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-09-13T16:55:53.314023",
@@ -158,6 +108,46 @@
       "headline": "Carney pitches Canada to global investors amid trade war with Trump",
       "url": "https://biztoc.com/x/c34d7d473a14dfba",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-16T17:35:30.341107",
+      "price_at_detection": null,
+      "headline": "It was my Honor to write the Foreword for Brian Pannebecker\u2019s incredible new Book, \u201cBlue Collar Conservative: From Reagan to Trump.\u201d As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. \u201cForgotten\u201d America is forgotten no longer \u2014 Get your copy today:",
+      "url": "https://www.trumpstruth.org/statuses/41746",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-16T17:35:30.626599",
+      "price_at_detection": 215.345,
+      "headline": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 \u2014 OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up",
+      "source": "Tom's Hardware UK",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-09-16T17:35:30.727038",
+      "price_at_detection": 565.1099,
+      "headline": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-rallies-bullish-165722821.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-16T17:35:30.877081",
+      "price_at_detection": 101.4999,
+      "headline": "Facebook co-founder Dustin Moskovitz's 'effective altruism' network tied to AI regulation push",
+      "url": "https://www.foxnews.com/politics/facebook-cofounder-dustin-moskovitz-effective-altruism-network-tied-ai-regulation-push",
+      "source": "Fox News",
       "direct": false
     }
   ]
