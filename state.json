@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-13T16:55:53.314023",
-      "price_at_detection": null,
-      "headline": "US companies are getting billions back from invalidated Trump tariffs, and they\u2019re being creative about it",
-      "url": "https://cryptobriefing.com/us-companies-utilize-supreme-court-tariff-refunds/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
-      "keyword": "nucor",
-      "ticker": "NUE",
-      "date_detected": "2026-09-13T16:55:53.778850",
-      "price_at_detection": 259.43,
-      "headline": "Jim Cramer Prefers Nucor (NUE) Over Reliance (RS)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-nucor-nue-111230650.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-09-13T16:55:53.883484",
-      "price_at_detection": 567.29,
-      "headline": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-dell-dell-105814659.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-09-14T18:30:53.317890",
@@ -148,6 +118,46 @@
       "headline": "Facebook co-founder Dustin Moskovitz's 'effective altruism' network tied to AI regulation push",
       "url": "https://www.foxnews.com/politics/facebook-cofounder-dustin-moskovitz-effective-altruism-network-tied-ai-regulation-push",
       "source": "Fox News",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-17T17:35:16.579649",
+      "price_at_detection": null,
+      "headline": "It was my Honor to write the Foreword for Brian Pannebecker\u2019s incredible new Book, \u201cBlue Collar Conservative: From Reagan to Trump.\u201d As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. \u201cForgotten\u201d America is forgotten no longer \u2014 Get your copy today:",
+      "url": "https://www.trumpstruth.org/statuses/41746",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-17T17:35:16.888181",
+      "price_at_detection": 219.25,
+      "headline": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+      "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can",
+      "source": "Slashdot.org",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-17T17:35:17.002318",
+      "price_at_detection": 111.1499,
+      "headline": "Why You Shouldn\u2019t Worry About the Latest AI Panic",
+      "url": "https://freerepublic.com/focus/f-bloggers/4395755/posts",
+      "source": "Freerepublic.com",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-09-17T17:35:17.061637",
+      "price_at_detection": 174.835,
+      "headline": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
+      "source": "Wired",
       "direct": false
     }
   ]

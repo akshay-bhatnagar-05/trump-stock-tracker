@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:35:31.398437",
+  "generatedAt": "2026-09-17T17:35:17.352832",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,99 +12,106 @@
   ],
   "indirectMentions": [
     {
-      "source": "Tom's Hardware UK",
+      "source": "Slashdot.org",
       "time": "just now",
-      "headline": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 \u2014 OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'",
+      "headline": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up"
+      "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can"
     },
     {
-      "source": "Yahoo Entertainment",
+      "source": "Freerepublic.com",
       "time": "just now",
-      "headline": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-rallies-bullish-165722821.html"
-    },
-    {
-      "source": "Fox News",
-      "time": "just now",
-      "headline": "Facebook co-founder Dustin Moskovitz's 'effective altruism' network tied to AI regulation push",
+      "headline": "Why You Shouldn\u2019t Worry About the Latest AI Panic",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.foxnews.com/politics/facebook-cofounder-dustin-moskovitz-effective-altruism-network-tied-ai-regulation-push"
+      "url": "https://freerepublic.com/focus/f-bloggers/4395755/posts"
+    },
+    {
+      "source": "Wired",
+      "time": "just now",
+      "headline": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/"
     }
   ],
   "tracked": [
     {
-      "ticker": "NUE",
-      "keyword": "nucor",
-      "at": 259.43,
-      "now": 263.58,
-      "days": 3
-    },
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 567.29,
-      "now": 565.1099,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.64,
-      "now": 101.4999,
-      "days": 1
+      "now": 111.1499,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.725,
-      "now": 173.08,
-      "days": 1
+      "now": 174.835,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 97.91,
-      "now": 101.4999,
-      "days": 0
+      "now": 111.1499,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 211.75,
-      "now": 215.345,
-      "days": 0
+      "now": 219.25,
+      "days": 1
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 180.0493,
-      "now": 165.2,
-      "days": 0
+      "now": 172.555,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 215.345,
-      "now": 215.345,
+      "now": 219.25,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 565.1099,
-      "now": 565.1099,
+      "now": 585.7221,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 101.4999,
-      "now": 101.4999,
+      "now": 111.1499,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 219.25,
+      "now": 219.25,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 111.1499,
+      "now": 111.1499,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 174.835,
+      "now": 174.835,
       "days": 0
     }
   ]
