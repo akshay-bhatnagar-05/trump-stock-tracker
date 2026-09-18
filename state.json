@@ -159,6 +159,36 @@
       "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
       "source": "Wired",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-18T17:02:34.646599",
+      "price_at_detection": null,
+      "headline": "It was my Honor to write the Foreword for Brian Pannebecker\u2019s incredible new Book, \u201cBlue Collar Conservative: From Reagan to Trump.\u201d As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. \u201cForgotten\u201d America is forgotten no longer \u2014 Get your copy today:",
+      "url": "https://www.trumpstruth.org/statuses/41746",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-18T17:02:35.345305",
+      "price_at_detection": 107.035,
+      "headline": "Fox News AI Newsletter: Trump shreds AI doomer 'hoax'",
+      "url": "https://www.foxnews.com/tech/ai-newsletter-trump-shreds-ai-doomer-hoax",
+      "source": "Fox News",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-18T17:02:35.597854",
+      "price_at_detection": 219.71,
+      "headline": "Rackspace\u2019s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
+      "source": "Yahoo Entertainment",
+      "direct": false
     }
   ]
 }

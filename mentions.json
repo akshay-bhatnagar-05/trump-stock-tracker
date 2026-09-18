@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:35:17.352832",
+  "generatedAt": "2026-09-18T17:02:36.534494",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,28 +12,20 @@
   ],
   "indirectMentions": [
     {
-      "source": "Slashdot.org",
+      "source": "Fox News",
       "time": "just now",
-      "headline": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can"
-    },
-    {
-      "source": "Freerepublic.com",
-      "time": "just now",
-      "headline": "Why You Shouldn\u2019t Worry About the Latest AI Panic",
+      "headline": "Fox News AI Newsletter: Trump shreds AI doomer 'hoax'",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://freerepublic.com/focus/f-bloggers/4395755/posts"
+      "url": "https://www.foxnews.com/tech/ai-newsletter-trump-shreds-ai-doomer-hoax"
     },
     {
-      "source": "Wired",
+      "source": "Yahoo Entertainment",
       "time": "just now",
-      "headline": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/"
+      "headline": "Rackspace\u2019s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html"
     }
   ],
   "tracked": [
@@ -41,77 +33,91 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.64,
-      "now": 111.1499,
-      "days": 2
+      "now": 107.035,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.725,
-      "now": 174.835,
-      "days": 2
+      "now": 175.51,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 97.91,
-      "now": 111.1499,
-      "days": 1
+      "now": 107.035,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 211.75,
-      "now": 219.25,
-      "days": 1
+      "now": 219.71,
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 180.0493,
-      "now": 172.555,
-      "days": 1
+      "now": 194.36,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 215.345,
-      "now": 219.25,
-      "days": 0
+      "now": 219.71,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 565.1099,
-      "now": 585.7221,
-      "days": 0
+      "now": 579.5113,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 101.4999,
-      "now": 111.1499,
-      "days": 0
+      "now": 107.035,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 219.25,
-      "now": 219.25,
+      "now": 219.71,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 111.1499,
-      "now": 111.1499,
+      "now": 107.035,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 174.835,
-      "now": 174.835,
+      "now": 175.51,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 107.035,
+      "now": 107.035,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 219.71,
+      "now": 219.71,
       "days": 0
     }
   ]
