@@ -1,137 +1,107 @@
 {
-  "generatedAt": "2026-09-19T16:21:34.125223",
-  "directMentions": [],
-  "indirectMentions": [
+  "generatedAt": "2026-09-20T16:44:56.495728",
+  "directMentions": [
     {
-      "source": "Livemint",
+      "source": "truth_social",
       "time": "just now",
-      "headline": "Indian refiners plan to keep buying Russian oil despite risk of US tariffs",
+      "headline": "\u201cSupreme Intelligence,\u201d probably because of its relationship to the Supreme Court, is losing badly to both \u201cSuperior\u201d and \u201cExtreme Intelligence.\u201d Therefore, we are going to take \u201cSupreme Intelligence\u201d OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.trumpstruth.org/statuses/41812"
+    },
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.livemint.com/industry/energy/indian-refiners-to-keep-buying-russian-oil-despite-us-tariff-risks-11789736744121.html"
-    },
-    {
-      "source": "Wccftech",
-      "time": "just now",
-      "headline": "Intel\u2019s 14A Process Is Currently Being Evaluated By Amazon, Apple, AMD, Google, Tesla, Microsoft, NVIDIA, And Qualcomm, According To Piper Sandler",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://wccftech.com/intels-14a-process-is-currently-being-evaluated-by-amazon-apple-amd-google-tesla-microsoft-nvidia-and-qualcomm-according-to-piper-sandler/"
-    },
-    {
-      "source": "Wccftech",
-      "time": "just now",
-      "headline": "Intel\u2019s 14A Process Is Currently Being Evaluated By Amazon, Apple, AMD, Google, Tesla, Microsoft, NVIDIA, And Qualcomm, According To Piper Sandler",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://wccftech.com/intels-14a-process-is-currently-being-evaluated-by-amazon-apple-amd-google-tesla-microsoft-nvidia-and-qualcomm-according-to-piper-sandler/"
-    },
-    {
-      "source": "Yahoo Entertainment",
-      "time": "just now",
-      "headline": "Weather-Related Production Disruptions Weigh on Cameco (CCJ)",
-      "ticker": "CCJ",
-      "keyword": "cameco",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/weather-related-production-disruptions-weigh-124845469.html"
+      "url": "https://www.trumpstruth.org/statuses/41807"
     }
   ],
+  "indirectMentions": [],
   "tracked": [
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 97.91,
-      "now": 108.6,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 211.75,
-      "now": 222.27,
-      "days": 3
-    },
-    {
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "at": 180.0493,
-      "now": 194.25,
-      "days": 3
-    },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 215.345,
       "now": 222.27,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 565.1099,
       "now": 568.06,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 101.4999,
       "now": 108.6,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 219.25,
       "now": 222.27,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 111.1499,
       "now": 108.6,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 174.835,
       "now": 177.64,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 107.035,
       "now": 108.6,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 219.71,
       "now": 222.27,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 108.6,
       "now": 108.6,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 222.27,
       "now": 222.27,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "CCJ",
       "keyword": "cameco",
       "at": 91.62,
       "now": 91.62,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 108.6,
+      "now": 108.6,
       "days": 0
     }
   ]
