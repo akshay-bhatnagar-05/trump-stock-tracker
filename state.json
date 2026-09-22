@@ -3,36 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-09-18T17:02:34.646599",
-      "price_at_detection": null,
-      "headline": "It was my Honor to write the Foreword for Brian Pannebecker\u2019s incredible new Book, \u201cBlue Collar Conservative: From Reagan to Trump.\u201d As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. \u201cForgotten\u201d America is forgotten no longer \u2014 Get your copy today:",
-      "url": "https://www.trumpstruth.org/statuses/41746",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-18T17:02:35.345305",
-      "price_at_detection": 107.035,
-      "headline": "Fox News AI Newsletter: Trump shreds AI doomer 'hoax'",
-      "url": "https://www.foxnews.com/tech/ai-newsletter-trump-shreds-ai-doomer-hoax",
-      "source": "Fox News",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-09-18T17:02:35.597854",
-      "price_at_detection": 219.71,
-      "headline": "Rackspace\u2019s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
-      "source": "Yahoo Entertainment",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-09-19T16:21:32.081253",
       "price_at_detection": null,
       "headline": "Indian refiners plan to keep buying Russian oil despite risk of US tariffs",
@@ -128,6 +98,36 @@
       "headline": "Peter Thiel: Power, Palantir, and the antichrist",
       "url": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426",
       "source": "DW (English)",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-22T17:36:26.848455",
+      "price_at_detection": 121.6401,
+      "headline": "The same people that said, \u201cWe\u2019ll all be dead in twelve years because of Global Warming,\u201d a name since \u201creborn\u201d to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are going to attack us, and everything is a DISASTER. This is more of a Hoax than even that of RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, UKRAINE, and Climate Change! Whoever wins AI, WINS! We are leading now over China, and everyone else, and I\u2019m going to keep it that way! I\u2019m not going to stifle Growth, of something that will be bigger than the Industrial Revolution, or the Internet, itself. We will be careful, and that\u2019s why we have the Department of Justice, and other Law Enforcement bodies, that will rein things in if we have to, but I will only encourage AI or, SI (SUPER INTELLIGENCE)! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/41830",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-22T17:36:26.848687",
+      "price_at_detection": null,
+      "headline": "Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/41807",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-22T17:36:27.020271",
+      "price_at_detection": 229.24,
+      "headline": "Nvidia's Jensen Huang: '0% Chance' of Humanity Ending by 2030, AI Doomers Are 'Irresponsible'",
+      "url": "https://www.breitbart.com/tech/2026/09/21/nvidias-jensen-huang-0-chance-of-humanity-ending-by-2030-ai-doomers-are-irresponsible/",
+      "source": "Breitbart News",
       "direct": false
     }
   ]

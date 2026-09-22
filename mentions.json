@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T18:35:59.333966",
+  "generatedAt": "2026-09-22T17:36:27.349614",
   "directMentions": [
     {
       "source": "truth_social",
@@ -20,84 +20,76 @@
   ],
   "indirectMentions": [
     {
-      "source": "TheStreet",
+      "source": "Breitbart News",
       "time": "just now",
-      "headline": "Nvidia CEO has a blunt message for Americans fearing AI",
+      "headline": "Nvidia's Jensen Huang: '0% Chance' of Humanity Ending by 2030, AI Doomers Are 'Irresponsible'",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.thestreet.com/technology/nvidia-jensen-huang-ai-apocalypse-warnings"
-    },
-    {
-      "source": "DW (English)",
-      "time": "just now",
-      "headline": "Peter Thiel: Power, Palantir, and the antichrist",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426"
+      "url": "https://www.breitbart.com/tech/2026/09/21/nvidias-jensen-huang-0-chance-of-humanity-ending-by-2030-ai-doomers-are-irresponsible/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 107.035,
-      "now": 121.21,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 219.71,
-      "now": 227.455,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 108.6,
-      "now": 121.21,
-      "days": 2
+      "now": 121.6401,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 222.27,
-      "now": 227.455,
-      "days": 2
+      "now": 229.24,
+      "days": 3
     },
     {
       "ticker": "CCJ",
       "keyword": "cameco",
       "at": 91.62,
-      "now": 93.455,
-      "days": 2
+      "now": 93.985,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 108.6,
-      "now": 121.21,
-      "days": 1
+      "now": 121.6401,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 121.21,
-      "now": 121.21,
+      "now": 121.6401,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.455,
-      "now": 227.455,
+      "now": 229.24,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 181.485,
-      "now": 181.485,
+      "now": 184.58,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 121.6401,
+      "now": 121.6401,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 229.24,
+      "now": 229.24,
       "days": 0
     }
   ]
