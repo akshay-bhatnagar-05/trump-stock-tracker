@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:36:27.349614",
+  "generatedAt": "2026-09-23T17:48:28.067609",
   "directMentions": [
     {
       "source": "truth_social",
@@ -20,12 +20,36 @@
   ],
   "indirectMentions": [
     {
-      "source": "Breitbart News",
+      "source": "The Verge",
       "time": "just now",
-      "headline": "Nvidia's Jensen Huang: '0% Chance' of Humanity Ending by 2030, AI Doomers Are 'Irresponsible'",
+      "headline": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco"
+    },
+    {
+      "source": "CNBC",
+      "time": "just now",
+      "headline": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.breitbart.com/tech/2026/09/21/nvidias-jensen-huang-0-chance-of-humanity-ending-by-2030-ai-doomers-are-irresponsible/"
+      "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "time": "just now",
+      "headline": "Critical Metals Drops 6% as Greenland Surge Meets Profit Taking; USA Rare Earth Slips, MP Materials Eases",
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "url": "https://247wallst.com/investing/2026/09/22/critical-metals-drops-6-as-greenland-surge-meets-profit-taking-usa-rare-earth-slips-mp-materials-eases/"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "time": "just now",
+      "headline": "Critical Metals Drops 6% as Greenland Surge Meets Profit Taking; USA Rare Earth Slips, MP Materials Eases",
+      "ticker": "USAR",
+      "keyword": "usa rare earth",
+      "url": "https://247wallst.com/investing/2026/09/22/critical-metals-drops-6-as-greenland-surge-meets-profit-taking-usa-rare-earth-slips-mp-materials-eases/"
     }
   ],
   "tracked": [
@@ -33,63 +57,77 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 108.6,
-      "now": 121.6401,
+      "now": 120.57,
       "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 222.27,
-      "now": 229.24,
-      "days": 3
-    },
-    {
-      "ticker": "CCJ",
-      "keyword": "cameco",
-      "at": 91.62,
-      "now": 93.985,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 108.6,
-      "now": 121.6401,
-      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 121.21,
-      "now": 121.6401,
-      "days": 0
+      "now": 120.57,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.455,
-      "now": 229.24,
-      "days": 0
+      "now": 225.1486,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 181.485,
-      "now": 184.58,
-      "days": 0
+      "now": 191.0806,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 121.6401,
-      "now": 121.6401,
-      "days": 0
+      "now": 120.57,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 229.24,
-      "now": 229.24,
+      "now": 225.1486,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 120.57,
+      "now": 120.57,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 9.045,
+      "now": 9.045,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 225.1486,
+      "now": 225.1486,
+      "days": 0
+    },
+    {
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "at": 49.0772,
+      "now": 49.0772,
+      "days": 0
+    },
+    {
+      "ticker": "USAR",
+      "keyword": "usa rare earth",
+      "at": 16.075,
+      "now": 16.075,
       "days": 0
     }
   ]
