@@ -169,6 +169,36 @@
       "url": "https://247wallst.com/investing/2026/09/23/rumble-sinks-5-trump-media-drops-3-is-the-diesel-export-ban-really-the-driver/",
       "source": "24/7 Wall St.",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-09-25T17:53:25.767826",
+      "price_at_detection": 124.32,
+      "headline": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be \u201cSUPER!\u201d Everyone last night agreed, also. President DJT",
+      "url": "https://www.trumpstruth.org/statuses/41885",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-09-25T17:53:25.768105",
+      "price_at_detection": null,
+      "headline": "This is a survey of people in business \u2014 the S&amp;P Flash Survey \u2014 of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth.\u00a0Composite Index \u2014 Services + Manufacturing, 62 month high!\u00a0Manufacturing \u2014 53 month high!\u00a0Services \u2014 52 month high!\u00a0This is the \u201cHOTTEST\u201d Economy in the World \u2014 and the Media is working overtime for the Democrats to convince Voters that the opposite is true. \u00a0\u00a0For working people, a \u201cHOT\u201d Economy is good because it gives them more wage leverage, and more flexibility to get better jobs.\u00a0The Media is trying to cover up how well things are going before the Midterms, just to help Democrats. The truth is something everyone should be celebrating. The Economy IS putting Americans back to work. Real median incomes are the highest on record!\u00a0Let's not forget: Biden inflation in August 2022 was over 8 percent.\u00a0If you ignore the (predictable) boomerang \u2018growth\u2019 Biden got immediately after the COVID period, Trump's Second Term would be the fastest Growth since 2015. \u00a0\u00a0We\u2019re supposed to stop all of this momentum, halt all this progress, to turn things over to the bozos who will simply launch investigations, and try to reverse it all?\u00a0Americans are getting richer. Businesses are investing and growing.Democrat and NeverTrump Predictions that turned out to be WRONG:\u00a0\u00a0\u2014 Businesses are NOT abandoning the U.S.\u00a0\u2014 Deporting illegals did NOT tank the Economy.\u00a0\u2014 Tariffs didn\u2019t slow down the Economy.\u00a0\u2014 Cutting the Federal workforce didn\u2019t hurt us either.\u00a0\u00a0\u2014 Other countries didn\u2019t \u201cleave us behind.\u201d\u00a0\u2014 Oil didn\u2019t go to $200 a barrel.\u00a0Gas prices will be coming down and, if you stick with us, America will continue to be the strongest, freest Country on God\u2019s Green Earth!",
+      "url": "https://www.trumpstruth.org/statuses/41871",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-09-25T17:53:25.870005",
+      "price_at_detection": 224.75,
+      "headline": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
+      "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/",
+      "source": "Fortune",
+      "direct": false
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T17:50:05.918145",
+  "generatedAt": "2026-09-25T17:53:26.421107",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "RT @realDonaldTrumpA big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China\u2019s position also. Our guardrail is the DOJ! President DJT",
+      "headline": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be \u201cSUPER!\u201d Everyone last night agreed, also. President DJT",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/41866"
+      "url": "https://www.trumpstruth.org/statuses/41885"
     },
     {
       "source": "truth_social",
@@ -20,20 +20,12 @@
   ],
   "indirectMentions": [
     {
-      "source": "Biztoc.com",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus",
+      "headline": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://biztoc.com/x/6d48e5207c4d07c4"
-    },
-    {
-      "source": "24/7 Wall St.",
-      "time": "just now",
-      "headline": "Rumble Sinks 5%, Trump Media Drops 3%: Is the Diesel Export Ban Really the Driver?",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://247wallst.com/investing/2026/09/23/rumble-sinks-5-trump-media-drops-3-is-the-diesel-export-ban-really-the-driver/"
+      "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/"
     }
   ],
   "tracked": [
@@ -41,91 +33,105 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 121.21,
-      "now": 125.43,
-      "days": 2
+      "now": 124.32,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.455,
-      "now": 224.15,
-      "days": 2
+      "now": 224.75,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 181.485,
-      "now": 192.64,
-      "days": 2
+      "now": 191.74,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 121.6401,
-      "now": 125.43,
-      "days": 2
+      "now": 124.32,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 229.24,
-      "now": 224.15,
-      "days": 2
+      "now": 224.75,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 120.57,
-      "now": 125.43,
-      "days": 1
+      "now": 124.32,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.045,
-      "now": 9.04,
-      "days": 1
+      "now": 9.085,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.1486,
-      "now": 224.15,
-      "days": 1
+      "now": 224.75,
+      "days": 2
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 49.0772,
-      "now": 49.445,
-      "days": 1
+      "now": 49.06,
+      "days": 2
     },
     {
       "ticker": "USAR",
       "keyword": "usa rare earth",
       "at": 16.075,
-      "now": 15.395,
-      "days": 1
+      "now": 15.322,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 125.43,
-      "now": 125.43,
-      "days": 0
+      "now": 124.32,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.15,
-      "now": 224.15,
-      "days": 0
+      "now": 224.75,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.04,
-      "now": 9.04,
+      "now": 9.085,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 124.32,
+      "now": 124.32,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 224.75,
+      "now": 224.75,
       "days": 0
     }
   ]
