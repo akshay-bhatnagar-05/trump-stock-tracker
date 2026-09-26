@@ -1,137 +1,129 @@
 {
-  "generatedAt": "2026-09-25T17:53:26.421107",
-  "directMentions": [
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be \u201cSUPER!\u201d Everyone last night agreed, also. President DJT",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/41885"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "This is a survey of people in business \u2014 the S&amp;P Flash Survey \u2014 of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth.\u00a0Composite Index \u2014 Services + Manufacturing, 62 month high!\u00a0Manufacturing \u2014 53 month high!\u00a0Services \u2014 52 month high!\u00a0This is the \u201cHOTTEST\u201d Economy in the World \u2014 and the Media is working overtime for the Democrats to convince Voters that the opposite is true. \u00a0\u00a0For working people, a \u201cHOT\u201d Economy is good because it gives them more wage leverage, and more flexibility to get better jobs.\u00a0The Media is trying to cover up how well things are going before the Midterms, just to help Democrats. The truth is something everyone should be celebrating. The Economy IS putting Americans back to work. Real median incomes are the highest on record!\u00a0Let's not forget: Biden inflation in August 2022 was over 8 percent.\u00a0If you ignore the (predictable) boomerang \u2018growth\u2019 Biden got immediately after the COVID period, Trump's Second Term would be the fastest Growth since 2015. \u00a0\u00a0We\u2019re supposed to stop all of this momentum, halt all this progress, to turn things over to the bozos who will simply launch investigations, and try to reverse it all?\u00a0Americans are getting richer. Businesses are investing and growing.Democrat and NeverTrump Predictions that turned out to be WRONG:\u00a0\u00a0\u2014 Businesses are NOT abandoning the U.S.\u00a0\u2014 Deporting illegals did NOT tank the Economy.\u00a0\u2014 Tariffs didn\u2019t slow down the Economy.\u00a0\u2014 Cutting the Federal workforce didn\u2019t hurt us either.\u00a0\u00a0\u2014 Other countries didn\u2019t \u201cleave us behind.\u201d\u00a0\u2014 Oil didn\u2019t go to $200 a barrel.\u00a0Gas prices will be coming down and, if you stick with us, America will continue to be the strongest, freest Country on God\u2019s Green Earth!",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.trumpstruth.org/statuses/41871"
-    }
-  ],
+  "generatedAt": "2026-09-26T17:02:11.186979",
+  "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Fortune",
+      "source": "Fox News",
       "time": "just now",
-      "headline": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
+      "headline": "Fox News AI Newsletter: Tech company says scientific discovery could change medicine",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine"
+    },
+    {
+      "source": "The Times of India",
+      "time": "just now",
+      "headline": "India left more exposed to Trump's 100% oil threat as China gets tariff breather",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-trump-100-percent-russian-oil-tariff-threat-china-busan-truce-gtri-trade-deal/articleshow/134483464.cms"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Nvidia CEO Doesn't Care That Kids Are Forgetting Basic Math Because Of AI: 'I Actually Don't Know My Address'",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/"
+      "url": "https://biztoc.com/x/b3fcaebf083fd4b8"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 121.21,
-      "now": 124.32,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 227.455,
-      "now": 224.75,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 181.485,
-      "now": 191.74,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 121.6401,
-      "now": 124.32,
+      "now": 123.0,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 229.24,
-      "now": 224.75,
+      "now": 225.07,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 120.57,
-      "now": 124.32,
+      "now": 123.0,
       "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.045,
-      "now": 9.085,
+      "now": 9.14,
       "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.1486,
-      "now": 224.75,
+      "now": 225.07,
       "days": 2
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 49.0772,
-      "now": 49.06,
+      "now": 48.83,
       "days": 2
     },
     {
       "ticker": "USAR",
       "keyword": "usa rare earth",
       "at": 16.075,
-      "now": 15.322,
+      "now": 15.18,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 125.43,
-      "now": 124.32,
+      "now": 123.0,
       "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.15,
-      "now": 224.75,
+      "now": 225.07,
       "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 9.04,
-      "now": 9.085,
+      "now": 9.14,
       "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 124.32,
-      "now": 124.32,
+      "now": 123.0,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.75,
-      "now": 224.75,
+      "now": 225.07,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 123.0,
+      "now": 123.0,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 225.07,
+      "now": 225.07,
       "days": 0
     }
   ]
