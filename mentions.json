@@ -1,114 +1,65 @@
 {
-  "generatedAt": "2026-09-27T17:39:07.941208",
+  "generatedAt": "2026-09-28T20:04:51.942840",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Livemint",
       "time": "just now",
-      "headline": "Donald Trump says he does not want to 'integrate' with China on Artificial Intelligence",
+      "headline": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-says-he-does-not-want-to-integrate-with-china-on-artificial-intelligence/articleshow/134506839.cms"
+      "url": "https://www.livemint.com/companies/anthropic-ceo-amodei-to-meet-trump-with-ai-safety-concern-rising-11790536308195.html"
     },
     {
-      "source": "The Irish Times",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "\u2018Our customers are taking the full value of the tariff \u2013 as a business we just couldn\u2019t absorb it\u2019",
+      "headline": "There wasn\u2019t much to Xi: A red carpet, a fragile truce and the search for US-China stability",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.irishtimes.com/business/2026/09/26/our-customers-are-taking-the-full-value-of-the-tariff-as-a-business-we-just-couldnt-absorb-it/"
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability/articleshow/134523880.cms"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 120.57,
-      "now": 123.0,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 9.045,
-      "now": 9.14,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 225.1486,
-      "now": 225.07,
-      "days": 3
-    },
-    {
-      "ticker": "MP",
-      "keyword": "mp materials",
-      "at": 49.0772,
-      "now": 48.83,
-      "days": 3
-    },
-    {
-      "ticker": "USAR",
-      "keyword": "usa rare earth",
-      "at": 16.075,
-      "now": 15.18,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 125.43,
-      "now": 123.0,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 224.15,
-      "now": 225.07,
-      "days": 2
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 9.04,
-      "now": 9.14,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 124.32,
-      "now": 123.0,
-      "days": 1
+      "now": 116.03,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 224.75,
-      "now": 225.07,
-      "days": 1
+      "now": 228.86,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 123.0,
-      "now": 123.0,
-      "days": 1
+      "now": 116.03,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.07,
-      "now": 225.07,
-      "days": 1
+      "now": 228.86,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 123.0,
-      "now": 123.0,
+      "now": 116.03,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 116.03,
+      "now": 116.03,
       "days": 0
     }
   ]
