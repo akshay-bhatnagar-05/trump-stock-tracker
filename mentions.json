@@ -1,65 +1,73 @@
 {
-  "generatedAt": "2026-09-28T20:04:51.942840",
+  "generatedAt": "2026-09-29T18:33:59.383239",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Livemint",
+      "source": "CBC News",
       "time": "just now",
-      "headline": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.livemint.com/companies/anthropic-ceo-amodei-to-meet-trump-with-ai-safety-concern-rising-11790536308195.html"
-    },
-    {
-      "source": "The Times of India",
-      "time": "just now",
-      "headline": "There wasn\u2019t much to Xi: A red carpet, a fragile truce and the search for US-China stability",
+      "headline": "Hamilton steel plant to lay off hundreds of workers as U.S. tariffs prompt \u2018survival\u2019 move",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability/articleshow/134523880.cms"
+      "url": "https://www.cbc.ca/news/canada/hamilton/stelco-tariffs-trump-9.7361216"
+    },
+    {
+      "source": "Newsonjapan.com",
+      "time": "just now",
+      "headline": "Takaichi Pushes Intelligence Reform As Diet Battle Nears",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://newsonjapan.com/article/150892.php"
+    },
+    {
+      "source": "Gizmodo.com",
+      "time": "just now",
+      "headline": "The Least Worried Man in AI Has a Plan to Rein in Rogue Agents",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://gizmodo.com/the-least-worried-man-in-ai-has-a-plan-to-rein-in-rogue-agents-2000818211"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 124.32,
-      "now": 116.03,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 224.75,
-      "now": 228.86,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 123.0,
-      "now": 116.03,
-      "days": 2
+      "now": 116.326,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 225.07,
-      "now": 228.86,
-      "days": 2
+      "now": 227.77,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 123.0,
-      "now": 116.03,
-      "days": 1
+      "now": 116.326,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.03,
-      "now": 116.03,
+      "now": 116.326,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 116.326,
+      "now": 116.326,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 227.77,
+      "now": 227.77,
       "days": 0
     }
   ]
