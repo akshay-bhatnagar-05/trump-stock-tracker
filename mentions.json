@@ -1,30 +1,22 @@
 {
-  "generatedAt": "2026-09-29T18:33:59.383239",
+  "generatedAt": "2026-09-30T18:22:33.015399",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "CBC News",
+      "source": "Freerepublic.com",
       "time": "just now",
-      "headline": "Hamilton steel plant to lay off hundreds of workers as U.S. tariffs prompt \u2018survival\u2019 move",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.cbc.ca/news/canada/hamilton/stelco-tariffs-trump-9.7361216"
-    },
-    {
-      "source": "Newsonjapan.com",
-      "time": "just now",
-      "headline": "Takaichi Pushes Intelligence Reform As Diet Battle Nears",
+      "headline": "Sanders Proposes New AI Bureaucracy",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://newsonjapan.com/article/150892.php"
+      "url": "https://freerepublic.com/focus/f-bloggers/4397308/posts"
     },
     {
-      "source": "Gizmodo.com",
+      "source": "PRNewswire",
       "time": "just now",
-      "headline": "The Least Worried Man in AI Has a Plan to Rein in Rogue Agents",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://gizmodo.com/the-least-worried-man-in-ai-has-a-plan-to-rein-in-rogue-agents-2000818211"
+      "headline": "U.S. Quartz Manufacturers Take Legal Action to Defend President Trump's Quartz Tariffs & Stop the Cheating",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.prnewswire.com/news-releases/us-quartz-manufacturers-take-legal-action-to-defend-president-trumps-quartz-tariffs--stop-the-cheating-302893286.html"
     }
   ],
   "tracked": [
@@ -32,42 +24,35 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 123.0,
-      "now": 116.326,
+      "now": 119.29,
       "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 225.07,
-      "now": 227.77,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 123.0,
-      "now": 116.326,
-      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.03,
-      "now": 116.326,
-      "days": 0
+      "now": 119.29,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.326,
-      "now": 116.326,
+      "now": 119.29,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.77,
-      "now": 227.77,
+      "now": 230.51,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 119.29,
+      "now": 119.29,
       "days": 0
     }
   ]
