@@ -1,58 +1,73 @@
 {
-  "generatedAt": "2026-09-30T18:22:33.015399",
+  "generatedAt": "2026-10-01T18:47:29.415611",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Freerepublic.com",
+      "source": "Gothamist",
       "time": "just now",
-      "headline": "Sanders Proposes New AI Bureaucracy",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://freerepublic.com/focus/f-bloggers/4397308/posts"
-    },
-    {
-      "source": "PRNewswire",
-      "time": "just now",
-      "headline": "U.S. Quartz Manufacturers Take Legal Action to Defend President Trump's Quartz Tariffs & Stop the Cheating",
+      "headline": "MTA says Trump's tariffs added $1B to cost of NYC's new train cars, buses",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.prnewswire.com/news-releases/us-quartz-manufacturers-take-legal-action-to-defend-president-trumps-quartz-tariffs--stop-the-cheating-302893286.html"
+      "url": "https://gothamist.com/news/mta-says-trumps-tariffs-added-1b-to-cost-of-nycs-new-train-cars-buses"
+    },
+    {
+      "source": "Breitbart News",
+      "time": "just now",
+      "headline": "Peter Schweizer Deflates the AI 'Robot Apocalypse' Scare",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.breitbart.com/tech/2026/09/30/peter-schweizer-deflates-the-ai-robot-apocalypse-scare/"
+    },
+    {
+      "source": "Tom's Hardware UK",
+      "time": "just now",
+      "headline": "Top AI tech executives promise to \u2018self-police\u2019 AI development",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 123.0,
-      "now": 119.29,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 116.03,
-      "now": 119.29,
-      "days": 1
+      "now": 120.775,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.326,
-      "now": 119.29,
-      "days": 0
+      "now": 120.775,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.77,
-      "now": 230.51,
-      "days": 0
+      "now": 232.02,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.29,
-      "now": 119.29,
+      "now": 120.775,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 120.775,
+      "now": 120.775,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 232.02,
+      "now": 232.02,
       "days": 0
     }
   ]

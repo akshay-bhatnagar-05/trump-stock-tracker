@@ -3,26 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-09-27T17:39:07.149497",
-      "price_at_detection": 123.0,
-      "headline": "Donald Trump says he does not want to 'integrate' with China on Artificial Intelligence",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-says-he-does-not-want-to-integrate-with-china-on-artificial-intelligence/articleshow/134506839.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-27T17:39:07.149576",
-      "price_at_detection": null,
-      "headline": "\u2018Our customers are taking the full value of the tariff \u2013 as a business we just couldn\u2019t absorb it\u2019",
-      "url": "https://www.irishtimes.com/business/2026/09/26/our-customers-are-taking-the-full-value-of-the-tariff-as-a-business-we-just-couldnt-absorb-it/",
-      "source": "The Irish Times",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-09-28T20:04:51.783279",
       "price_at_detection": 116.03,
       "headline": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
@@ -88,6 +68,36 @@
       "headline": "U.S. Quartz Manufacturers Take Legal Action to Defend President Trump's Quartz Tariffs & Stop the Cheating",
       "url": "https://www.prnewswire.com/news-releases/us-quartz-manufacturers-take-legal-action-to-defend-president-trumps-quartz-tariffs--stop-the-cheating-302893286.html",
       "source": "PRNewswire",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-01T18:47:28.670112",
+      "price_at_detection": null,
+      "headline": "MTA says Trump's tariffs added $1B to cost of NYC's new train cars, buses",
+      "url": "https://gothamist.com/news/mta-says-trumps-tariffs-added-1b-to-cost-of-nycs-new-train-cars-buses",
+      "source": "Gothamist",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-01T18:47:29.171968",
+      "price_at_detection": 120.775,
+      "headline": "Peter Schweizer Deflates the AI 'Robot Apocalypse' Scare",
+      "url": "https://www.breitbart.com/tech/2026/09/30/peter-schweizer-deflates-the-ai-robot-apocalypse-scare/",
+      "source": "Breitbart News",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-01T18:47:29.312724",
+      "price_at_detection": 232.02,
+      "headline": "Top AI tech executives promise to \u2018self-police\u2019 AI development",
+      "url": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
+      "source": "Tom's Hardware UK",
       "direct": false
     }
   ]
