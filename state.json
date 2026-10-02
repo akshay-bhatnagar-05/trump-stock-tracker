@@ -99,6 +99,36 @@
       "url": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
       "source": "Tom's Hardware UK",
       "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-02T18:19:57.629435",
+      "price_at_detection": 234.767,
+      "headline": "Thieves stole an Nvidia-branded truck filled with just 20,000 pounds of sand\u2014and it points to Big Tech\u2019s $150 million AI hardware theft headache",
+      "url": "https://fortune.com/2026/10/01/nvidia-branded-truck-20000-pounds-sand-stolen-ai-cargo-theft-plusai/",
+      "source": "Fortune",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-02T18:19:57.856498",
+      "price_at_detection": 119.94,
+      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185917908",
+      "source": "Slashdot.org",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-02T18:19:57.856636",
+      "price_at_detection": null,
+      "headline": "Genesis of the transshipment scam",
+      "url": "https://www.thehindubusinessline.com/opinion/genesis-of-the-transshipment-scam/article71533170.ece",
+      "source": "BusinessLine",
+      "direct": false
     }
   ]
 }
