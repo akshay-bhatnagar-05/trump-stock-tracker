@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-28T20:04:51.783279",
-      "price_at_detection": 116.03,
-      "headline": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
-      "url": "https://www.livemint.com/companies/anthropic-ceo-amodei-to-meet-trump-with-ai-safety-concern-rising-11790536308195.html",
-      "source": "Livemint",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-28T20:04:51.783363",
-      "price_at_detection": null,
-      "headline": "There wasn\u2019t much to Xi: A red carpet, a fragile truce and the search for US-China stability",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability/articleshow/134523880.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-09-29T18:33:58.711639",
@@ -128,6 +108,36 @@
       "headline": "Genesis of the transshipment scam",
       "url": "https://www.thehindubusinessline.com/opinion/genesis-of-the-transshipment-scam/article71533170.ece",
       "source": "BusinessLine",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-03T17:10:08.303327",
+      "price_at_detection": 233.95,
+      "headline": "California man smuggled $300 million in Nvidia chips to China, prosecutors say",
+      "url": "https://www.businessinsider.com/us-man-charged-smuggling-300-million-nvidia-chips-china-2026-10#article",
+      "source": "Business Insider",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-03T17:10:08.422872",
+      "price_at_detection": 119.33,
+      "headline": "Trump to name intelligence chief Clayton as AI tsar: Reports",
+      "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar",
+      "source": "Al Jazeera English",
+      "direct": false
+    },
+    {
+      "keyword": "cameco",
+      "ticker": "CCJ",
+      "date_detected": "2026-10-03T17:10:08.563279",
+      "price_at_detection": 85.18,
+      "headline": "As Midterms Approach, Trump is Calling Up His Blackmail Cards",
+      "url": "https://www.globalresearch.ca/midterms-approach-trump-blackmail-cards/5942426",
+      "source": "Globalresearch.ca",
       "direct": false
     }
   ]

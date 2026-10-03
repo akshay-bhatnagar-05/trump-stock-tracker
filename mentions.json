@@ -1,87 +1,101 @@
 {
-  "generatedAt": "2026-10-02T18:19:58.262806",
+  "generatedAt": "2026-10-03T17:10:08.687645",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Fortune",
+      "source": "Business Insider",
       "time": "just now",
-      "headline": "Thieves stole an Nvidia-branded truck filled with just 20,000 pounds of sand\u2014and it points to Big Tech\u2019s $150 million AI hardware theft headache",
+      "headline": "California man smuggled $300 million in Nvidia chips to China, prosecutors say",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://fortune.com/2026/10/01/nvidia-branded-truck-20000-pounds-sand-stolen-ai-cargo-theft-plusai/"
+      "url": "https://www.businessinsider.com/us-man-charged-smuggling-300-million-nvidia-chips-china-2026-10#article"
     },
     {
-      "source": "Slashdot.org",
+      "source": "Al Jazeera English",
       "time": "just now",
-      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC",
+      "headline": "Trump to name intelligence chief Clayton as AI tsar: Reports",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185917908"
+      "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar"
     },
     {
-      "source": "BusinessLine",
+      "source": "Globalresearch.ca",
       "time": "just now",
-      "headline": "Genesis of the transshipment scam",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.thehindubusinessline.com/opinion/genesis-of-the-transshipment-scam/article71533170.ece"
+      "headline": "As Midterms Approach, Trump is Calling Up His Blackmail Cards",
+      "ticker": "CCJ",
+      "keyword": "cameco",
+      "url": "https://www.globalresearch.ca/midterms-approach-trump-blackmail-cards/5942426"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 116.03,
-      "now": 119.94,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 116.326,
-      "now": 119.94,
-      "days": 2
+      "now": 119.33,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 227.77,
-      "now": 234.767,
-      "days": 2
+      "now": 233.95,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.29,
-      "now": 119.94,
-      "days": 1
+      "now": 119.33,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 120.775,
-      "now": 119.94,
-      "days": 0
+      "now": 119.33,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 232.02,
-      "now": 234.767,
-      "days": 0
+      "now": 233.95,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 234.767,
-      "now": 234.767,
+      "now": 233.95,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.94,
-      "now": 119.94,
+      "now": 119.33,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 233.95,
+      "now": 233.95,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 119.33,
+      "now": 119.33,
+      "days": 0
+    },
+    {
+      "ticker": "CCJ",
+      "keyword": "cameco",
+      "at": 85.18,
+      "now": 85.18,
       "days": 0
     }
   ]
