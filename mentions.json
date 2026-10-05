@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-04T17:26:03.686252",
+  "generatedAt": "2026-10-05T21:08:57.289563",
   "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.trumpstruth.org/statuses/42158"
+    },
     {
       "source": "truth_social",
       "time": "just now",
@@ -8,95 +16,64 @@
       "ticker": "INTC",
       "keyword": "intel",
       "url": "https://www.trumpstruth.org/statuses/42126"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "HUGE NEWS FOR OHIO, where I am heading right now!\u00a0Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A.\u00a0BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS\u00a0FOR AMERICAN PATIENTS FAIRLY \u2014 OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.trumpstruth.org/statuses/42125"
     }
   ],
-  "indirectMentions": [
-    {
-      "source": "Kotaku",
-      "time": "just now",
-      "headline": "RTX 5090 Buyer Asked To Sign A Resale Loyalty Pledge: \u2018NO EXPORT \u2013 NO EXCEPTIONS\u2019",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://kotaku.com/rtx-5090-buyer-asked-to-sign-a-resale-loyalty-pledge-no-export-no-exceptions-2000739582"
-    }
-  ],
+  "indirectMentions": [],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 119.29,
-      "now": 119.33,
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 234.767,
+      "now": 238.9,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 120.775,
-      "now": 119.33,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 232.02,
-      "now": 233.95,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 234.767,
-      "now": 233.95,
-      "days": 1
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 119.94,
-      "now": 119.33,
-      "days": 1
+      "now": 116.19,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 233.95,
-      "now": 233.95,
-      "days": 1
+      "now": 238.9,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.33,
-      "now": 119.33,
-      "days": 1
+      "now": 116.19,
+      "days": 2
     },
     {
       "ticker": "CCJ",
       "keyword": "cameco",
       "at": 85.18,
-      "now": 85.18,
-      "days": 1
+      "now": 87.47,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.33,
-      "now": 119.33,
-      "days": 0
+      "now": 116.19,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 233.95,
-      "now": 233.95,
+      "now": 238.9,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 116.19,
+      "now": 116.19,
       "days": 0
     }
   ]

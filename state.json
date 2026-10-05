@@ -1,56 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-09-30T18:22:32.760342",
-      "price_at_detection": 119.29,
-      "headline": "Sanders Proposes New AI Bureaucracy",
-      "url": "https://freerepublic.com/focus/f-bloggers/4397308/posts",
-      "source": "Freerepublic.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-09-30T18:22:32.760380",
-      "price_at_detection": null,
-      "headline": "U.S. Quartz Manufacturers Take Legal Action to Defend President Trump's Quartz Tariffs & Stop the Cheating",
-      "url": "https://www.prnewswire.com/news-releases/us-quartz-manufacturers-take-legal-action-to-defend-president-trumps-quartz-tariffs--stop-the-cheating-302893286.html",
-      "source": "PRNewswire",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-01T18:47:28.670112",
-      "price_at_detection": null,
-      "headline": "MTA says Trump's tariffs added $1B to cost of NYC's new train cars, buses",
-      "url": "https://gothamist.com/news/mta-says-trumps-tariffs-added-1b-to-cost-of-nycs-new-train-cars-buses",
-      "source": "Gothamist",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-01T18:47:29.171968",
-      "price_at_detection": 120.775,
-      "headline": "Peter Schweizer Deflates the AI 'Robot Apocalypse' Scare",
-      "url": "https://www.breitbart.com/tech/2026/09/30/peter-schweizer-deflates-the-ai-robot-apocalypse-scare/",
-      "source": "Breitbart News",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-01T18:47:29.312724",
-      "price_at_detection": 232.02,
-      "headline": "Top AI tech executives promise to \u2018self-police\u2019 AI development",
-      "url": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
-      "source": "Tom's Hardware UK",
-      "direct": false
-    },
-    {
       "keyword": "nvidia",
       "ticker": "NVDA",
       "date_detected": "2026-10-02T18:19:57.629435",
@@ -139,6 +89,26 @@
       "url": "https://kotaku.com/rtx-5090-buyer-asked-to-sign-a-resale-loyalty-pledge-no-export-no-exceptions-2000739582",
       "source": "Kotaku",
       "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-05T21:08:55.825241",
+      "price_at_detection": null,
+      "headline": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
+      "url": "https://www.trumpstruth.org/statuses/42158",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-05T21:08:56.542106",
+      "price_at_detection": 116.19,
+      "headline": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF).\u00a0The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42126",
+      "source": "truth_social",
+      "direct": true
     }
   ]
 }
