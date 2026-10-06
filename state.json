@@ -3,36 +3,6 @@
     {
       "keyword": "nvidia",
       "ticker": "NVDA",
-      "date_detected": "2026-10-02T18:19:57.629435",
-      "price_at_detection": 234.767,
-      "headline": "Thieves stole an Nvidia-branded truck filled with just 20,000 pounds of sand\u2014and it points to Big Tech\u2019s $150 million AI hardware theft headache",
-      "url": "https://fortune.com/2026/10/01/nvidia-branded-truck-20000-pounds-sand-stolen-ai-cargo-theft-plusai/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-02T18:19:57.856498",
-      "price_at_detection": 119.94,
-      "headline": "Trump\u2019s AI lunch included every major tech company. Except Apple - CNBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185917908",
-      "source": "Slashdot.org",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-02T18:19:57.856636",
-      "price_at_detection": null,
-      "headline": "Genesis of the transshipment scam",
-      "url": "https://www.thehindubusinessline.com/opinion/genesis-of-the-transshipment-scam/article71533170.ece",
-      "source": "BusinessLine",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
       "date_detected": "2026-10-03T17:10:08.303327",
       "price_at_detection": 233.95,
       "headline": "California man smuggled $300 million in Nvidia chips to China, prosecutors say",
@@ -109,6 +79,36 @@
       "url": "https://www.trumpstruth.org/statuses/42126",
       "source": "truth_social",
       "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-06T18:52:25.260311",
+      "price_at_detection": null,
+      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42176",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-06T18:52:25.644700",
+      "price_at_detection": 114.6078,
+      "headline": "The National Security Pivot: Inside the New \u2018Super Intelligence\u2019 Governance Framework",
+      "url": "https://forkast.news/the-national-security-pivot-inside-the-new-super-intelligence-governance-framework/",
+      "source": "Forkast.news",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-10-06T18:52:25.797121",
+      "price_at_detection": 192.365,
+      "headline": "Beware the Rise of the \u2018Pentagon-Silicon Complex\u2019",
+      "url": "https://gizmodo.com/beware-the-rise-of-the-pentagon-silicon-complex-2000815450",
+      "source": "Gizmodo.com",
+      "direct": false
     }
   ]
 }
