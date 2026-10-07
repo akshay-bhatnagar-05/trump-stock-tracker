@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-03T17:10:08.303327",
-      "price_at_detection": 233.95,
-      "headline": "California man smuggled $300 million in Nvidia chips to China, prosecutors say",
-      "url": "https://www.businessinsider.com/us-man-charged-smuggling-300-million-nvidia-chips-china-2026-10#article",
-      "source": "Business Insider",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-03T17:10:08.422872",
-      "price_at_detection": 119.33,
-      "headline": "Trump to name intelligence chief Clayton as AI tsar: Reports",
-      "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar",
-      "source": "Al Jazeera English",
-      "direct": false
-    },
-    {
-      "keyword": "cameco",
-      "ticker": "CCJ",
-      "date_detected": "2026-10-03T17:10:08.563279",
-      "price_at_detection": 85.18,
-      "headline": "As Midterms Approach, Trump is Calling Up His Blackmail Cards",
-      "url": "https://www.globalresearch.ca/midterms-approach-trump-blackmail-cards/5942426",
-      "source": "Globalresearch.ca",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-10-04T17:26:03.313151",
@@ -108,6 +78,46 @@
       "headline": "Beware the Rise of the \u2018Pentagon-Silicon Complex\u2019",
       "url": "https://gizmodo.com/beware-the-rise-of-the-pentagon-silicon-complex-2000815450",
       "source": "Gizmodo.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-07T19:17:47.510222",
+      "price_at_detection": null,
+      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42176",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "critical minerals",
+      "ticker": null,
+      "date_detected": "2026-10-07T19:17:47.510610",
+      "price_at_detection": null,
+      "headline": "Experts question viability of billion-dollar deep-sea mining gold rush",
+      "url": "https://www.abc.net.au/news/2026-10-07/is-the-deep-sea-mining-gold-rush-viable/107130150",
+      "source": "ABC News (AU)",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-07T19:17:47.902505",
+      "price_at_detection": 112.53,
+      "headline": "Trump AI Task Force Faces Pressure to Move Beyond Voluntary Guardrails",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-ai-task-force-faces-pressure-move-beyond-voluntary-guardrails/",
+      "source": "pymnts.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-07T19:17:48.064076",
+      "price_at_detection": 236.995,
+      "headline": "Anthropic CEO Dario Amodei made $18M last year: IPO filing",
+      "url": "https://nypost.com/2026/10/06/business/anthropic-ipo-filing-reveals-pay-of-ceo-dario-amodei-daniela/",
+      "source": "New York Post",
       "direct": false
     }
   ]

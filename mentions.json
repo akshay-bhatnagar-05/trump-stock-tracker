@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T18:52:26.308014",
+  "generatedAt": "2026-10-07T19:17:48.286088",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,77 +12,78 @@
   ],
   "indirectMentions": [
     {
-      "source": "Forkast.news",
+      "source": "ABC News (AU)",
       "time": "just now",
-      "headline": "The National Security Pivot: Inside the New \u2018Super Intelligence\u2019 Governance Framework",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://forkast.news/the-national-security-pivot-inside-the-new-super-intelligence-governance-framework/"
+      "headline": "Experts question viability of billion-dollar deep-sea mining gold rush",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://www.abc.net.au/news/2026-10-07/is-the-deep-sea-mining-gold-rush-viable/107130150"
     },
     {
-      "source": "Gizmodo.com",
+      "source": "pymnts.com",
       "time": "just now",
-      "headline": "Beware the Rise of the \u2018Pentagon-Silicon Complex\u2019",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://gizmodo.com/beware-the-rise-of-the-pentagon-silicon-complex-2000815450"
+      "headline": "Trump AI Task Force Faces Pressure to Move Beyond Voluntary Guardrails",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-ai-task-force-faces-pressure-move-beyond-voluntary-guardrails/"
+    },
+    {
+      "source": "New York Post",
+      "time": "just now",
+      "headline": "Anthropic CEO Dario Amodei made $18M last year: IPO filing",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://nypost.com/2026/10/06/business/anthropic-ipo-filing-reveals-pay-of-ceo-dario-amodei-daniela/"
     }
   ],
   "tracked": [
     {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 233.95,
-      "now": 240.575,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 119.33,
-      "now": 114.6078,
+      "now": 112.53,
       "days": 3
-    },
-    {
-      "ticker": "CCJ",
-      "keyword": "cameco",
-      "at": 85.18,
-      "now": 93.34,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 119.33,
-      "now": 114.6078,
-      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 233.95,
-      "now": 240.575,
-      "days": 2
+      "now": 236.995,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.19,
-      "now": 114.6078,
-      "days": 0
+      "now": 112.53,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 114.6078,
-      "now": 114.6078,
-      "days": 0
+      "now": 112.53,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 192.365,
-      "now": 192.365,
+      "now": 193.27,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 112.53,
+      "now": 112.53,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 236.995,
+      "now": 236.995,
       "days": 0
     }
   ]
