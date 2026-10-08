@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-07T19:17:48.286088",
+  "generatedAt": "2026-10-08T19:13:56.456890",
   "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.trumpstruth.org/statuses/42201"
+    },
     {
       "source": "truth_social",
       "time": "just now",
@@ -12,78 +20,62 @@
   ],
   "indirectMentions": [
     {
-      "source": "ABC News (AU)",
+      "source": "Crypto Briefing",
       "time": "just now",
-      "headline": "Experts question viability of billion-dollar deep-sea mining gold rush",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://www.abc.net.au/news/2026-10-07/is-the-deep-sea-mining-gold-rush-viable/107130150"
-    },
-    {
-      "source": "pymnts.com",
-      "time": "just now",
-      "headline": "Trump AI Task Force Faces Pressure to Move Beyond Voluntary Guardrails",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-ai-task-force-faces-pressure-move-beyond-voluntary-guardrails/"
-    },
-    {
-      "source": "New York Post",
-      "time": "just now",
-      "headline": "Anthropic CEO Dario Amodei made $18M last year: IPO filing",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://nypost.com/2026/10/06/business/anthropic-ipo-filing-reveals-pay-of-ceo-dario-amodei-daniela/"
+      "headline": "US government moves $470M in seized Bitcoin and Tether to Coinbase Prime",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://cryptobriefing.com/us-government-470m-bitcoin-tether-coinbase-prime/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 119.33,
-      "now": 112.53,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 233.95,
-      "now": 236.995,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 116.19,
-      "now": 112.53,
-      "days": 1
+      "now": 106.07,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 114.6078,
-      "now": 112.53,
-      "days": 1
+      "now": 106.07,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 192.365,
-      "now": 193.27,
-      "days": 1
+      "now": 197.095,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 112.53,
-      "now": 112.53,
+      "now": 106.07,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 236.995,
-      "now": 236.995,
+      "now": 230.23,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 106.07,
+      "now": 106.07,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 174.22,
+      "now": 174.22,
       "days": 0
     }
   ]

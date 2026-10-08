@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-04T17:26:03.313151",
-      "price_at_detection": 119.33,
-      "headline": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF).\u00a0The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42126",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-04T17:26:03.313259",
-      "price_at_detection": null,
-      "headline": "HUGE NEWS FOR OHIO, where I am heading right now!\u00a0Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A.\u00a0BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS\u00a0FOR AMERICAN PATIENTS FAIRLY \u2014 OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42125",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-04T17:26:03.427921",
-      "price_at_detection": 233.95,
-      "headline": "RTX 5090 Buyer Asked To Sign A Resale Loyalty Pledge: \u2018NO EXPORT \u2013 NO EXCEPTIONS\u2019",
-      "url": "https://kotaku.com/rtx-5090-buyer-asked-to-sign-a-resale-loyalty-pledge-no-export-no-exceptions-2000739582",
-      "source": "Kotaku",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-10-05T21:08:55.825241",
@@ -118,6 +88,36 @@
       "headline": "Anthropic CEO Dario Amodei made $18M last year: IPO filing",
       "url": "https://nypost.com/2026/10/06/business/anthropic-ipo-filing-reveals-pay-of-ceo-dario-amodei-daniela/",
       "source": "New York Post",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-08T19:13:55.888879",
+      "price_at_detection": 106.07,
+      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42201",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-08T19:13:55.889134",
+      "price_at_detection": null,
+      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42176",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "coinbase",
+      "ticker": "COIN",
+      "date_detected": "2026-10-08T19:13:56.042574",
+      "price_at_detection": 174.22,
+      "headline": "US government moves $470M in seized Bitcoin and Tether to Coinbase Prime",
+      "url": "https://cryptobriefing.com/us-government-470m-bitcoin-tether-coinbase-prime/",
+      "source": "Crypto Briefing",
       "direct": false
     }
   ]
