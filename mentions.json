@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T19:13:56.456890",
+  "generatedAt": "2026-10-09T18:44:35.369238",
   "directMentions": [
     {
       "source": "truth_social",
@@ -20,12 +20,20 @@
   ],
   "indirectMentions": [
     {
-      "source": "Crypto Briefing",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "US government moves $470M in seized Bitcoin and Tether to Coinbase Prime",
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "url": "https://cryptobriefing.com/us-government-470m-bitcoin-tether-coinbase-prime/"
+      "headline": "US President Donald Trump buys $1 million-plus stakes in Meta, Microsoft, McDonald\u2019s; adds SpaceX debt",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-president-donald-trump-buys-1-million-plus-stakes-in-meta-microsoft-mcdonalds-adds-spacex-debt/articleshow/134798553.cms"
+    },
+    {
+      "source": "Mediaite",
+      "time": "just now",
+      "headline": "Vance Grilled About Trashing Microsoft Hours Before Trump Presents CEO With National Medal",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://www.mediaite.com/media/news/vance-grilled-about-trashing-microsoft-hours-before-trump-presents-ceo-with-national-medal/"
     }
   ],
   "tracked": [
@@ -33,49 +41,70 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 116.19,
-      "now": 106.07,
-      "days": 2
+      "now": 105.22,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 114.6078,
-      "now": 106.07,
+      "now": 105.22,
       "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 192.365,
-      "now": 197.095,
+      "now": 206.695,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 112.53,
-      "now": 106.07,
-      "days": 0
+      "now": 105.22,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 236.995,
-      "now": 230.23,
-      "days": 0
+      "now": 229.44,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 106.07,
-      "now": 106.07,
+      "now": 105.22,
       "days": 0
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 174.22,
-      "now": 174.22,
+      "now": 180.68,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 105.22,
+      "now": 105.22,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 229.44,
+      "now": 229.44,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 586.12,
+      "now": 586.12,
       "days": 0
     }
   ]

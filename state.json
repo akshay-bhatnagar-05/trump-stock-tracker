@@ -119,6 +119,46 @@
       "url": "https://cryptobriefing.com/us-government-470m-bitcoin-tether-coinbase-prime/",
       "source": "Crypto Briefing",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-09T18:44:34.595356",
+      "price_at_detection": 105.22,
+      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42201",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-09T18:44:34.595680",
+      "price_at_detection": null,
+      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42176",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-09T18:44:34.847265",
+      "price_at_detection": 229.44,
+      "headline": "US President Donald Trump buys $1 million-plus stakes in Meta, Microsoft, McDonald\u2019s; adds SpaceX debt",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-president-donald-trump-buys-1-million-plus-stakes-in-meta-microsoft-mcdonalds-adds-spacex-debt/articleshow/134798553.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-10-09T18:44:34.961326",
+      "price_at_detection": 586.12,
+      "headline": "Vance Grilled About Trashing Microsoft Hours Before Trump Presents CEO With National Medal",
+      "url": "https://www.mediaite.com/media/news/vance-grilled-about-trashing-microsoft-hours-before-trump-presents-ceo-with-national-medal/",
+      "source": "Mediaite",
+      "direct": false
     }
   ]
 }
