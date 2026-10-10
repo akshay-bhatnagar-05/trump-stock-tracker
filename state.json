@@ -3,26 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-10-05T21:08:55.825241",
-      "price_at_detection": null,
-      "headline": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
-      "url": "https://www.trumpstruth.org/statuses/42158",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-05T21:08:56.542106",
-      "price_at_detection": 116.19,
-      "headline": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF).\u00a0The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans. The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies, and will be led by Director of National Intelligence, Jay Clayton, Chairman of the Federal Trade Commission, Andrew Ferguson, Under Secretary of War for Research and Engineering, and Chief Technology Officer, Emil Michael, and Director of the Office of Personnel Management, Scott Kupor, and will report to the President of the United States (ME!), and the Chief of Staff, Susie Wiles. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42126",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-10-06T18:52:25.260311",
       "price_at_detection": null,
       "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
@@ -158,6 +138,36 @@
       "headline": "Vance Grilled About Trashing Microsoft Hours Before Trump Presents CEO With National Medal",
       "url": "https://www.mediaite.com/media/news/vance-grilled-about-trashing-microsoft-hours-before-trump-presents-ceo-with-national-medal/",
       "source": "Mediaite",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-10-10T17:45:36.512818",
+      "price_at_detection": 8.11,
+      "headline": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media &amp; Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security. Katie is a distinguished Graduate of Pepperdine University, and the Pepperdine Caruso School of Law, an attorney, and a frequent Commentator on outlets, including Fox News and Newsmax. She was previously involved in my Campaigns, assisting in key Swing States, where we won 7 out of 7. She has an unblemished record of support, and has been a loyal and brilliant supporter, right from the beginning. She is, likewise, a devoted fan and member of MAGA! I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration. Katie is replacing the fabulous Karoline Leavitt, who did a fantastic job as Press Secretary. Good luck Katie! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42217",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-10T17:45:36.700061",
+      "price_at_detection": 104.7,
+      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42201",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-10-10T17:45:36.898480",
+      "price_at_detection": 586.06,
+      "headline": "Dell CEO Gives Update On $6.25 Billion Giveaway After Wife\u2019s Appearance At White House Stunned Nation",
+      "url": "https://www.boredpanda.com/dell-ceo-6-25-billion-giveaway-after-wife-appearance-white-house/",
+      "source": "Boredpanda.com",
       "direct": false
     }
   ]

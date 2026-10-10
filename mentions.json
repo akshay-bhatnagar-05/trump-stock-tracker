@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-09T18:44:35.369238",
+  "generatedAt": "2026-10-10T17:45:37.423736",
   "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media &amp; Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security. Katie is a distinguished Graduate of Pepperdine University, and the Pepperdine Caruso School of Law, an attorney, and a frequent Commentator on outlets, including Fox News and Newsmax. She was previously involved in my Campaigns, assisting in key Swing States, where we won 7 out of 7. She has an unblemished record of support, and has been a loyal and brilliant supporter, right from the beginning. She is, likewise, a devoted fan and member of MAGA! I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration. Katie is replacing the fabulous Karoline Leavitt, who did a fantastic job as Press Secretary. Good luck Katie! President DONALD J. TRUMP",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://www.trumpstruth.org/statuses/42217"
+    },
     {
       "source": "truth_social",
       "time": "just now",
@@ -8,103 +16,101 @@
       "ticker": "INTC",
       "keyword": "intel",
       "url": "https://www.trumpstruth.org/statuses/42201"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.trumpstruth.org/statuses/42176"
     }
   ],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Boredpanda.com",
       "time": "just now",
-      "headline": "US President Donald Trump buys $1 million-plus stakes in Meta, Microsoft, McDonald\u2019s; adds SpaceX debt",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-president-donald-trump-buys-1-million-plus-stakes-in-meta-microsoft-mcdonalds-adds-spacex-debt/articleshow/134798553.cms"
-    },
-    {
-      "source": "Mediaite",
-      "time": "just now",
-      "headline": "Vance Grilled About Trashing Microsoft Hours Before Trump Presents CEO With National Medal",
+      "headline": "Dell CEO Gives Update On $6.25 Billion Giveaway After Wife\u2019s Appearance At White House Stunned Nation",
       "ticker": "DELL",
       "keyword": "dell",
-      "url": "https://www.mediaite.com/media/news/vance-grilled-about-trashing-microsoft-hours-before-trump-presents-ceo-with-national-medal/"
+      "url": "https://www.boredpanda.com/dell-ceo-6-25-billion-giveaway-after-wife-appearance-white-house/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 116.19,
-      "now": 105.22,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 114.6078,
-      "now": 105.22,
-      "days": 2
+      "now": 104.7,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 192.365,
-      "now": 206.695,
-      "days": 2
+      "now": 209.05,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 112.53,
-      "now": 105.22,
-      "days": 1
+      "now": 104.7,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 236.995,
-      "now": 229.44,
-      "days": 1
+      "now": 229.28,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 106.07,
-      "now": 105.22,
-      "days": 0
+      "now": 104.7,
+      "days": 1
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 174.22,
-      "now": 180.68,
-      "days": 0
+      "now": 179.39,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 105.22,
-      "now": 105.22,
+      "now": 104.7,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 229.44,
-      "now": 229.44,
+      "now": 229.28,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 586.12,
-      "now": 586.12,
+      "now": 586.06,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 8.11,
+      "now": 8.11,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 104.7,
+      "now": 104.7,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 586.06,
+      "now": 586.06,
       "days": 0
     }
   ]
