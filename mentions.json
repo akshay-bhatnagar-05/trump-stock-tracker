@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-10-10T17:45:37.423736",
+  "generatedAt": "2026-10-11T17:59:36.567175",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media &amp; Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security. Katie is a distinguished Graduate of Pepperdine University, and the Pepperdine Caruso School of Law, an attorney, and a frequent Commentator on outlets, including Fox News and Newsmax. She was previously involved in my Campaigns, assisting in key Swing States, where we won 7 out of 7. She has an unblemished record of support, and has been a loyal and brilliant supporter, right from the beginning. She is, likewise, a devoted fan and member of MAGA! I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration. Katie is replacing the fabulous Karoline Leavitt, who did a fantastic job as Press Secretary. Good luck Katie! President DONALD J. TRUMP",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://www.trumpstruth.org/statuses/42217"
+      "headline": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office of Legislative Affairs.\u00a0Katie is currently the Deputy Director of Legislative Affairs for the United States Senate, and has already delivered strong results, assisting in the confirmations of members of our Cabinet, including Secretary of Homeland Security, Markwayne Mullin, Director of National Intelligence, Jay Clayton, and Secretary of Labor, Keith Sonderling. After previously working on Capitol Hill, Katie understands how the Executive and Legislative Branches of Government can most effectively work together to achieve Great Success for the American People. Katie will take the place of James Braid, my longest tenured Legislative Affairs Director, who has done a fabulous job, and is now going into the private sector, where he will be very successful. I know Katie will be fantastic, and work tirelessly with Congress to pass Bills that help, MAKE AMERICA GREAT AGAIN, GREATER THAN EVER BEFORE.\u00a0Good luck Katie! President DONALD J. TRUMP",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.trumpstruth.org/statuses/42241"
     },
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/42201"
+      "headline": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media & Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security. Katie is a distinguished Graduate of Pepperdine University, and the Pepperdine Caruso School of Law, an attorney, and a frequent Commentator on outlets, including Fox News and Newsmax. She was previously involved in my Campaigns, assisting in key Swing States, where we won 7 out of 7. She has an unblemished record of support, and has been a loyal and brilliant supporter, right from the beginning. She is, likewise, a devoted fan and member of MAGA! I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration. Katie is replacing the fabulous Karoline Leavitt, who did a fantastic job as Press Secretary. Good luck Katie! President DONALD J. TRUMP",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://www.trumpstruth.org/statuses/42217"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Boredpanda.com",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "Dell CEO Gives Update On $6.25 Billion Giveaway After Wife\u2019s Appearance At White House Stunned Nation",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://www.boredpanda.com/dell-ceo-6-25-billion-giveaway-after-wife-appearance-white-house/"
+      "headline": "EU says trade deal could cut up to 50% of Chinese EV and plug-in hybrid imports and lower tariffs for some European exports to China",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://fortune.com/2026/10/10/china-shock-eu-trade-deal-chinese-ev-plug-in-hybrid-imports-tariffs/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 114.6078,
-      "now": 104.7,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 192.365,
-      "now": 209.05,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 112.53,
       "now": 104.7,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 236.995,
       "now": 229.28,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 106.07,
       "now": 104.7,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 174.22,
       "now": 179.39,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 105.22,
       "now": 104.7,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 229.44,
       "now": 229.28,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 586.12,
       "now": 586.06,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.11,
       "now": 8.11,
-      "days": 0
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 104.7,
+      "now": 104.7,
+      "days": 1
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 586.06,
+      "now": 586.06,
+      "days": 1
     },
     {
       "ticker": "INTC",
@@ -107,10 +107,10 @@
       "days": 0
     },
     {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 586.06,
-      "now": 586.06,
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 8.11,
+      "now": 8.11,
       "days": 0
     }
   ]
