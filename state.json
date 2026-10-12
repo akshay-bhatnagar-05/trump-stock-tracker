@@ -1,76 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-07T19:17:47.510222",
-      "price_at_detection": null,
-      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42176",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "critical minerals",
-      "ticker": null,
-      "date_detected": "2026-10-07T19:17:47.510610",
-      "price_at_detection": null,
-      "headline": "Experts question viability of billion-dollar deep-sea mining gold rush",
-      "url": "https://www.abc.net.au/news/2026-10-07/is-the-deep-sea-mining-gold-rush-viable/107130150",
-      "source": "ABC News (AU)",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-07T19:17:47.902505",
-      "price_at_detection": 112.53,
-      "headline": "Trump AI Task Force Faces Pressure to Move Beyond Voluntary Guardrails",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-ai-task-force-faces-pressure-move-beyond-voluntary-guardrails/",
-      "source": "pymnts.com",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-07T19:17:48.064076",
-      "price_at_detection": 236.995,
-      "headline": "Anthropic CEO Dario Amodei made $18M last year: IPO filing",
-      "url": "https://nypost.com/2026/10/06/business/anthropic-ipo-filing-reveals-pay-of-ceo-dario-amodei-daniela/",
-      "source": "New York Post",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-08T19:13:55.888879",
-      "price_at_detection": 106.07,
-      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42201",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-08T19:13:55.889134",
-      "price_at_detection": null,
-      "headline": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles \u2014 But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD\u2019s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY \u2014 OR PAY! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42176",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "coinbase",
-      "ticker": "COIN",
-      "date_detected": "2026-10-08T19:13:56.042574",
-      "price_at_detection": 174.22,
-      "headline": "US government moves $470M in seized Bitcoin and Tether to Coinbase Prime",
-      "url": "https://cryptobriefing.com/us-government-470m-bitcoin-tether-coinbase-prime/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-10-09T18:44:34.595356",
@@ -168,6 +98,26 @@
       "headline": "EU says trade deal could cut up to 50% of Chinese EV and plug-in hybrid imports and lower tariffs for some European exports to China",
       "url": "https://fortune.com/2026/10/10/china-shock-eu-trade-deal-chinese-ev-plug-in-hybrid-imports-tariffs/",
       "source": "Fortune",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-12T21:41:17.264960",
+      "price_at_detection": 101.35,
+      "headline": "EU to set 350,000 car limit to Chinese hybrid vehicle imports, Bloomberg says",
+      "url": "https://www.thefly.com/byddy",
+      "source": "Thefly.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-12T21:41:17.265108",
+      "price_at_detection": null,
+      "headline": "How to Beat a Choppy Market With 4 Steady Stocks",
+      "url": "https://biztoc.com/x/fb0195714b3ac0e7",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]
