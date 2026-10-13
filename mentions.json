@@ -1,86 +1,87 @@
 {
-  "generatedAt": "2026-10-12T21:41:17.699224",
+  "generatedAt": "2026-10-13T19:49:36.497069",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Thefly.com",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "EU to set 350,000 car limit to Chinese hybrid vehicle imports, Bloomberg says",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.thefly.com/byddy"
+      "headline": "Satya Nadella went from an H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://fortune.com/article/microsoft-satya-nadella-green-card-perm-suspension-vance-h1b/"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Nakedcapitalism.com",
       "time": "just now",
-      "headline": "How to Beat a Choppy Market With 4 Steady Stocks",
+      "headline": "Banks Struggle to Digest the Mounting Debt Driving the AI Boom",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.nakedcapitalism.com/2026/10/banks-struggle-to-digest-the-mounting-debt-driving-the-ai-boom.html"
+    },
+    {
+      "source": "CFO Dive",
+      "time": "just now",
+      "headline": "Tariffs pushed up consumer goods prices by 2.9 percentage points: NY Fed",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://biztoc.com/x/fb0195714b3ac0e7"
+      "url": "https://www.cfodive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832657/"
     }
   ],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 105.22,
-      "now": 101.35,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 229.44,
-      "now": 226.32,
-      "days": 3
-    },
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 586.12,
-      "now": 576.76,
-      "days": 3
-    },
-    {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.11,
-      "now": 7.97,
-      "days": 2
+      "now": 7.775,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 104.7,
-      "now": 101.35,
-      "days": 2
+      "now": 102.3699,
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 586.06,
-      "now": 576.76,
-      "days": 2
+      "now": 573.2,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 104.7,
-      "now": 101.35,
-      "days": 1
+      "now": 102.3699,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.11,
-      "now": 7.97,
-      "days": 1
+      "now": 7.775,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 101.35,
-      "now": 101.35,
+      "now": 102.3699,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 573.2,
+      "now": 573.2,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 102.3699,
+      "now": 102.3699,
       "days": 0
     }
   ]
