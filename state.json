@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-10-10T17:45:36.512818",
-      "price_at_detection": 8.11,
-      "headline": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media &amp; Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokesperson and Deputy Assistant Secretary for Public Affairs at the Department of Homeland Security. Katie is a distinguished Graduate of Pepperdine University, and the Pepperdine Caruso School of Law, an attorney, and a frequent Commentator on outlets, including Fox News and Newsmax. She was previously involved in my Campaigns, assisting in key Swing States, where we won 7 out of 7. She has an unblemished record of support, and has been a loyal and brilliant supporter, right from the beginning. She is, likewise, a devoted fan and member of MAGA! I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration. Katie is replacing the fabulous Karoline Leavitt, who did a fantastic job as Press Secretary. Good luck Katie! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42217",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-10T17:45:36.700061",
-      "price_at_detection": 104.7,
-      "headline": "The White House considers anyone that uses the term, \u201cArtificial Intelligence,\u201d as opposed to the highly accepted new and more accurate term, \u201cSuper Intelligence,\u201d THE ENEMY! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42201",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-10-10T17:45:36.898480",
-      "price_at_detection": 586.06,
-      "headline": "Dell CEO Gives Update On $6.25 Billion Giveaway After Wife\u2019s Appearance At White House Stunned Nation",
-      "url": "https://www.boredpanda.com/dell-ceo-6-25-billion-giveaway-after-wife-appearance-white-house/",
-      "source": "Boredpanda.com",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-10-11T17:59:35.319246",
@@ -108,6 +78,46 @@
       "headline": "Tariffs pushed up consumer goods prices by 2.9 percentage points: NY Fed",
       "url": "https://www.cfodive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832657/",
       "source": "CFO Dive",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-14T17:55:59.450873",
+      "price_at_detection": 98.33,
+      "headline": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New York.This DEAL will create 27,000 high paying Construction and Supply Chain Jobs and over 1,000 additional highly skilled Manufacturing Jobs in New York.Under my direction, JAPAN WILL PROVIDE THE CAPITAL for the 21 Billion Dollar Investment. This DEAL is a result of my HISTORIC TRADE DEALS to REVITALIZE the American Industrial Base, create HUNDREDS OF THOUSANDS OF GREAT AMERICAN JOBS, and strengthen our National and Economic Security.We are turning the Investment commitments from Japan, Korea and Taiwan into HUGE Construction Projects. These are TRANSFORMATIONAL AND GENERATIONAL DEALS FOR AMERICA \u2014 More Semiconductors, more Power, more Energy Security, and more Jobs for the U.S.A.As I showed with our massive WIN with INTEL, my Administration's Commerce Department is the first to ever earn money for America.\u00a0 I am announcing an additional agreement with GlobalFoundries where the U.S. Taxpayer will receive shares in GlobalFoundries. My Commerce Department will invest 955 Million Dollars in Silicon Photonics, Silicon Germanium, and Advanced Packaging. This brings our total Investments to 1.63 Billion Dollars, and now, the U.S. Government\u2019s stake is worth over 2 Billion Dollars. We are the first Administration ever to turn Grants into money for America. Your great Businessman President running the Greatest Economy in the World \u2014\u00a0AN ALL-AROUND HUGE WIN FOR AMERICA! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42356",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-14T17:55:59.451240",
+      "price_at_detection": null,
+      "headline": "From Healthcare and Fuel Costs to Tariffs, Trump GOP's Policies 'Crushing' Small Businesses",
+      "url": "https://www.commondreams.org/news/trump-tariff-impact-small-business",
+      "source": "Common Dreams",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-10-14T17:55:59.749907",
+      "price_at_detection": 504.38,
+      "headline": "Eric Trump condemns trolls for mocking appearance of billionaire Dell tycoon's wife during White House visit",
+      "url": "https://www.dailymail.com/news/article-16205729/Eric-Trump-Dell-tycoon-wife-White-House-visit.html",
+      "source": "Dailymail.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-14T17:56:00.073832",
+      "price_at_detection": 220.707,
+      "headline": "On theCUBE Pod: AI doubters get loud, and IBM seeks competitive advantage",
+      "url": "https://siliconangle.com/2026/10/13/ibm-ai-infrastructure-thecubepod/",
+      "source": "SiliconANGLE News",
       "direct": false
     }
   ]
