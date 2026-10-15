@@ -1,39 +1,47 @@
 {
-  "generatedAt": "2026-10-14T17:56:00.522326",
+  "generatedAt": "2026-10-15T17:43:01.174832",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New York.This DEAL will create 27,000 high paying Construction and Supply Chain Jobs and over 1,000 additional highly skilled Manufacturing Jobs in New York.Under my direction, JAPAN WILL PROVIDE THE CAPITAL for the 21 Billion Dollar Investment. This DEAL is a result of my HISTORIC TRADE DEALS to REVITALIZE the American Industrial Base, create HUNDREDS OF THOUSANDS OF GREAT AMERICAN JOBS, and strengthen our National and Economic Security.We are turning the Investment commitments from Japan, Korea and Taiwan into HUGE Construction Projects. These are TRANSFORMATIONAL AND GENERATIONAL DEALS FOR AMERICA \u2014 More Semiconductors, more Power, more Energy Security, and more Jobs for the U.S.A.As I showed with our massive WIN with INTEL, my Administration's Commerce Department is the first to ever earn money for America.\u00a0 I am announcing an additional agreement with GlobalFoundries where the U.S. Taxpayer will receive shares in GlobalFoundries. My Commerce Department will invest 955 Million Dollars in Silicon Photonics, Silicon Germanium, and Advanced Packaging. This brings our total Investments to 1.63 Billion Dollars, and now, the U.S. Government\u2019s stake is worth over 2 Billion Dollars. We are the first Administration ever to turn Grants into money for America. Your great Businessman President running the Greatest Economy in the World \u2014\u00a0AN ALL-AROUND HUGE WIN FOR AMERICA! President DONALD J. TRUMP",
+      "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/42356"
+      "url": "https://www.trumpstruth.org/statuses/42372"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Common Dreams",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "From Healthcare and Fuel Costs to Tariffs, Trump GOP's Policies 'Crushing' Small Businesses",
+      "headline": "India continues to advocate for stability in global energy market as US announces diesel deal with Russia",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.commondreams.org/news/trump-tariff-impact-small-business"
+      "url": "https://economictimes.indiatimes.com/news/india/india-continues-to-advocate-for-stability-in-global-energy-market-as-us-announces-diesel-deal-with-russia/articleshow/134947980.cms"
     },
     {
-      "source": "Dailymail.com",
+      "source": "ZyCrypto",
       "time": "just now",
-      "headline": "Eric Trump condemns trolls for mocking appearance of billionaire Dell tycoon's wife during White House visit",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://www.dailymail.com/news/article-16205729/Eric-Trump-Dell-tycoon-wife-White-House-visit.html"
+      "headline": "U.S. Institutions Dumping Bitcoin Faster Than Binance Traders",
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "url": "https://zycrypto.com/u-s-institutions-dumping-bitcoin-faster-than-binance-traders/"
     },
     {
-      "source": "SiliconANGLE News",
+      "source": "Techdirt",
       "time": "just now",
-      "headline": "On theCUBE Pod: AI doubters get loud, and IBM seeks competitive advantage",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://siliconangle.com/2026/10/13/ibm-ai-infrastructure-thecubepod/"
+      "headline": "Court Filings Show DHS Is Collecting Info On Protesters, Feeding It To Palantir",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "http://www.techdirt.com/2026/10/14/court-filings-show-dhs-is-collecting-info-on-protesters-feeding-it-to-palantir/"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2%",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/36982e3e23c6f0cb"
     }
   ],
   "tracked": [
@@ -41,56 +49,84 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 104.7,
-      "now": 98.33,
-      "days": 2
+      "now": 94.62,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 8.11,
-      "now": 7.305,
-      "days": 2
+      "now": 7.355,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 101.35,
-      "now": 98.33,
-      "days": 1
+      "now": 94.62,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 573.2,
-      "now": 504.38,
-      "days": 0
+      "now": 465.7099,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.3699,
-      "now": 98.33,
-      "days": 0
+      "now": 94.62,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.33,
-      "now": 98.33,
+      "now": 94.62,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 504.38,
-      "now": 504.38,
+      "now": 465.7099,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.707,
-      "now": 220.707,
+      "now": 218.32,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 94.62,
+      "now": 94.62,
+      "days": 0
+    },
+    {
+      "ticker": "COIN",
+      "keyword": "coinbase",
+      "at": 180.425,
+      "now": 180.425,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 200.05,
+      "now": 200.05,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 7.355,
+      "now": 7.355,
       "days": 0
     }
   ]

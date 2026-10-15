@@ -119,6 +119,56 @@
       "url": "https://siliconangle.com/2026/10/13/ibm-ai-infrastructure-thecubepod/",
       "source": "SiliconANGLE News",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-15T17:42:59.548036",
+      "price_at_detection": 94.62,
+      "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42372",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-15T17:42:59.548303",
+      "price_at_detection": null,
+      "headline": "India continues to advocate for stability in global energy market as US announces diesel deal with Russia",
+      "url": "https://economictimes.indiatimes.com/news/india/india-continues-to-advocate-for-stability-in-global-energy-market-as-us-announces-diesel-deal-with-russia/articleshow/134947980.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "coinbase",
+      "ticker": "COIN",
+      "date_detected": "2026-10-15T17:42:59.759956",
+      "price_at_detection": 180.425,
+      "headline": "U.S. Institutions Dumping Bitcoin Faster Than Binance Traders",
+      "url": "https://zycrypto.com/u-s-institutions-dumping-bitcoin-faster-than-binance-traders/",
+      "source": "ZyCrypto",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-10-15T17:42:59.980739",
+      "price_at_detection": 200.05,
+      "headline": "Court Filings Show DHS Is Collecting Info On Protesters, Feeding It To Palantir",
+      "url": "http://www.techdirt.com/2026/10/14/court-filings-show-dhs-is-collecting-info-on-protesters-feeding-it-to-palantir/",
+      "source": "Techdirt",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-10-15T17:43:00.201492",
+      "price_at_detection": 7.355,
+      "headline": "Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2%",
+      "url": "https://biztoc.com/x/36982e3e23c6f0cb",
+      "source": "Biztoc.com",
+      "direct": false
     }
   ]
 }
