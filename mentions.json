@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:43:01.174832",
+  "generatedAt": "2026-10-16T17:18:35.820060",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,121 +12,113 @@
   ],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Macdailynews.com",
       "time": "just now",
-      "headline": "India continues to advocate for stability in global energy market as US announces diesel deal with Russia",
+      "headline": "Apple donates $25 million for President Trump\u2019s White House State Ballroom",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://macdailynews.com/2026/10/15/apple-donates-25-million-for-president-trumps-white-house-state-ballroom/"
+    },
+    {
+      "source": "Business Standard",
+      "time": "just now",
+      "headline": "First tranche of India-US deal close to conclusion, says Piyush Goyal",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://economictimes.indiatimes.com/news/india/india-continues-to-advocate-for-stability-in-global-energy-market-as-us-announces-diesel-deal-with-russia/articleshow/134947980.cms"
+      "url": "https://www.business-standard.com/world-news/first-tranche-of-india-us-deal-close-to-conclusion-says-piyush-goyal-126101501286_1.html"
     },
     {
-      "source": "ZyCrypto",
+      "source": "The Diplomat",
       "time": "just now",
-      "headline": "U.S. Institutions Dumping Bitcoin Faster Than Binance Traders",
-      "ticker": "COIN",
-      "keyword": "coinbase",
-      "url": "https://zycrypto.com/u-s-institutions-dumping-bitcoin-faster-than-binance-traders/"
-    },
-    {
-      "source": "Techdirt",
-      "time": "just now",
-      "headline": "Court Filings Show DHS Is Collecting Info On Protesters, Feeding It To Palantir",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "http://www.techdirt.com/2026/10/14/court-filings-show-dhs-is-collecting-info-on-protesters-feeding-it-to-palantir/"
-    },
-    {
-      "source": "Biztoc.com",
-      "time": "just now",
-      "headline": "Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2%",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/36982e3e23c6f0cb"
+      "headline": "The Africa Pivot: India and Japan\u2019s Quest for Critical Mineral Security",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://thediplomat.com/2026/10/the-africa-pivot-india-and-japans-quest-for-critical-mineral-security/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 104.7,
-      "now": 94.62,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 8.11,
-      "now": 7.355,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 101.35,
-      "now": 94.62,
-      "days": 2
+      "now": 90.6,
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 573.2,
-      "now": 465.7099,
-      "days": 1
+      "now": 455.58,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.3699,
-      "now": 94.62,
-      "days": 1
+      "now": 90.6,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.33,
-      "now": 94.62,
-      "days": 0
+      "now": 90.6,
+      "days": 1
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 504.38,
-      "now": 465.7099,
-      "days": 0
+      "now": 455.58,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.707,
-      "now": 218.32,
-      "days": 0
+      "now": 215.34,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 94.62,
-      "now": 94.62,
+      "now": 90.6,
       "days": 0
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 180.425,
-      "now": 180.425,
+      "now": 175.525,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 200.05,
-      "now": 200.05,
+      "now": 185.61,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 7.355,
-      "now": 7.355,
+      "now": 6.98,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 90.6,
+      "now": 90.6,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 215.34,
+      "now": 215.34,
       "days": 0
     }
   ]
