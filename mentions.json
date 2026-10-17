@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:18:35.820060",
+  "generatedAt": "2026-10-17T16:17:41.730235",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,113 +12,104 @@
   ],
   "indirectMentions": [
     {
-      "source": "Macdailynews.com",
+      "source": "Insurance Journal",
       "time": "just now",
-      "headline": "Apple donates $25 million for President Trump\u2019s White House State Ballroom",
+      "headline": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://macdailynews.com/2026/10/15/apple-donates-25-million-for-president-trumps-white-house-state-ballroom/"
-    },
-    {
-      "source": "Business Standard",
-      "time": "just now",
-      "headline": "First tranche of India-US deal close to conclusion, says Piyush Goyal",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.business-standard.com/world-news/first-tranche-of-india-us-deal-close-to-conclusion-says-piyush-goyal-126101501286_1.html"
-    },
-    {
-      "source": "The Diplomat",
-      "time": "just now",
-      "headline": "The Africa Pivot: India and Japan\u2019s Quest for Critical Mineral Security",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://thediplomat.com/2026/10/the-africa-pivot-india-and-japans-quest-for-critical-mineral-security/"
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm"
     }
   ],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 101.35,
-      "now": 90.6,
-      "days": 3
-    },
-    {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 573.2,
-      "now": 455.58,
-      "days": 2
+      "now": 451.71,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 102.3699,
-      "now": 90.6,
-      "days": 2
+      "now": 89.85,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.33,
-      "now": 90.6,
-      "days": 1
+      "now": 89.85,
+      "days": 2
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 504.38,
-      "now": 455.58,
-      "days": 1
+      "now": 451.71,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.707,
-      "now": 215.34,
-      "days": 1
+      "now": 214.13,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 94.62,
-      "now": 90.6,
-      "days": 0
+      "now": 89.85,
+      "days": 1
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 180.425,
-      "now": 175.525,
-      "days": 0
+      "now": 173.16,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 200.05,
-      "now": 185.61,
-      "days": 0
+      "now": 186.03,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 7.355,
-      "now": 6.98,
-      "days": 0
+      "now": 6.99,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.6,
-      "now": 90.6,
+      "now": 89.85,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 215.34,
-      "now": 215.34,
+      "now": 214.13,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.85,
+      "now": 89.85,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 214.13,
+      "now": 214.13,
       "days": 0
     }
   ]

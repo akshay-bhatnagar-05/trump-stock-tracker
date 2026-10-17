@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-12T21:41:17.264960",
-      "price_at_detection": 101.35,
-      "headline": "EU to set 350,000 car limit to Chinese hybrid vehicle imports, Bloomberg says",
-      "url": "https://www.thefly.com/byddy",
-      "source": "Thefly.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-12T21:41:17.265108",
-      "price_at_detection": null,
-      "headline": "How to Beat a Choppy Market With 4 Steady Stocks",
-      "url": "https://biztoc.com/x/fb0195714b3ac0e7",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
       "keyword": "dell",
       "ticker": "DELL",
       "date_detected": "2026-10-13T19:49:36.097567",
@@ -178,6 +158,26 @@
       "headline": "The Africa Pivot: India and Japan\u2019s Quest for Critical Mineral Security",
       "url": "https://thediplomat.com/2026/10/the-africa-pivot-india-and-japans-quest-for-critical-mineral-security/",
       "source": "The Diplomat",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-17T16:17:40.948957",
+      "price_at_detection": 89.85,
+      "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42372",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-17T16:17:41.081089",
+      "price_at_detection": 214.13,
+      "headline": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm",
+      "source": "Insurance Journal",
       "direct": false
     }
   ]
