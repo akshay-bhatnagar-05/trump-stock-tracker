@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:17:41.730235",
+  "generatedAt": "2026-10-18T16:26:22.212401",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,91 +12,91 @@
   ],
   "indirectMentions": [
     {
-      "source": "Insurance Journal",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+      "headline": "Apple, Nvidia each gave $25M to Trump's White House ballroom \u2014 but the president's own name is nowhere on the donor list",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm"
+      "url": "https://biztoc.com/x/dfb14d33c3540a99"
     }
   ],
   "tracked": [
-    {
-      "ticker": "DELL",
-      "keyword": "dell",
-      "at": 573.2,
-      "now": 451.71,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 102.3699,
-      "now": 89.85,
-      "days": 3
-    },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 98.33,
       "now": 89.85,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 504.38,
       "now": 451.71,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 220.707,
       "now": 214.13,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 94.62,
       "now": 89.85,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "COIN",
       "keyword": "coinbase",
       "at": 180.425,
       "now": 173.16,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 200.05,
       "now": 186.03,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 7.355,
       "now": 6.99,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 90.6,
       "now": 89.85,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 215.34,
       "now": 214.13,
-      "days": 0
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 89.85,
+      "now": 89.85,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 214.13,
+      "now": 214.13,
+      "days": 1
     },
     {
       "ticker": "INTC",
