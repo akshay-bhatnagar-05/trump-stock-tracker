@@ -1,80 +1,58 @@
 {
-  "generatedAt": "2026-10-19T19:12:39.477951",
+  "generatedAt": "2026-10-20T17:53:26.269809",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Biztoc.com",
+      "source": "Ibtimes.com.au",
       "time": "just now",
-      "headline": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
+      "headline": "Intel Shares Jump 5% After JPMorgan Upgrade Cites Agentic AI Demand as Chip Stocks Bounce Back From Rout",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://biztoc.com/x/9525fc78d636f46f"
+      "url": "https://www.ibtimes.com.au/intel-shares-jump-jpmorgan-upgrade-ai-demand-1876992"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "Trump Media And Technology Group (DJT) Stock May Trade At A Premium To Book Value",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/ec1890b88ab62116"
-    },
-    {
-      "source": "Biztoc.com",
-      "time": "just now",
-      "headline": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture",
+      "headline": "\u2018I am so fed up\u2019: Farmers face financial squeeze from tariffs and diesel and blame GOP as Trump heads to Kansas to energize voters before midterms",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://biztoc.com/x/9444f1de338b52ca"
+      "url": "https://fortune.com/2026/10/19/trump-kansas-farmers-republicans-midterms-tariffs-diesel/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 90.6,
-      "now": 92.43,
+      "at": 89.85,
+      "now": 92.69,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "at": 215.34,
-      "now": 217.3,
+      "at": 214.13,
+      "now": 217.305,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.85,
-      "now": 92.43,
+      "now": 92.69,
       "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 214.13,
-      "now": 217.3,
+      "now": 217.305,
       "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.85,
-      "now": 92.43,
-      "days": 1
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 214.13,
-      "now": 217.3,
-      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.43,
-      "now": 92.43,
+      "now": 92.69,
       "days": 0
     },
     {
@@ -82,6 +60,13 @@
       "keyword": "trump media",
       "at": 6.47,
       "now": 6.47,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 92.69,
+      "now": 92.69,
       "days": 0
     }
   ]

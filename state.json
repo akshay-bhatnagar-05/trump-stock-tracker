@@ -3,46 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-10-16T17:18:34.613676",
-      "price_at_detection": 90.6,
-      "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42372",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-16T17:18:34.801012",
-      "price_at_detection": 215.34,
-      "headline": "Apple donates $25 million for President Trump\u2019s White House State Ballroom",
-      "url": "https://macdailynews.com/2026/10/15/apple-donates-25-million-for-president-trumps-white-house-state-ballroom/",
-      "source": "Macdailynews.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-16T17:18:34.801472",
-      "price_at_detection": null,
-      "headline": "First tranche of India-US deal close to conclusion, says Piyush Goyal",
-      "url": "https://www.business-standard.com/world-news/first-tranche-of-india-us-deal-close-to-conclusion-says-piyush-goyal-126101501286_1.html",
-      "source": "Business Standard",
-      "direct": false
-    },
-    {
-      "keyword": "critical minerals",
-      "ticker": null,
-      "date_detected": "2026-10-16T17:18:34.801525",
-      "price_at_detection": null,
-      "headline": "The Africa Pivot: India and Japan\u2019s Quest for Critical Mineral Security",
-      "url": "https://thediplomat.com/2026/10/the-africa-pivot-india-and-japans-quest-for-critical-mineral-security/",
-      "source": "The Diplomat",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-10-17T16:17:40.948957",
       "price_at_detection": 89.85,
       "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
@@ -108,6 +68,26 @@
       "headline": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture",
       "url": "https://biztoc.com/x/9444f1de338b52ca",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-20T17:53:25.422189",
+      "price_at_detection": 92.69,
+      "headline": "Intel Shares Jump 5% After JPMorgan Upgrade Cites Agentic AI Demand as Chip Stocks Bounce Back From Rout",
+      "url": "https://www.ibtimes.com.au/intel-shares-jump-jpmorgan-upgrade-ai-demand-1876992",
+      "source": "Ibtimes.com.au",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-20T17:53:25.422300",
+      "price_at_detection": null,
+      "headline": "\u2018I am so fed up\u2019: Farmers face financial squeeze from tariffs and diesel and blame GOP as Trump heads to Kansas to energize voters before midterms",
+      "url": "https://fortune.com/2026/10/19/trump-kansas-farmers-republicans-midterms-tariffs-diesel/",
+      "source": "Fortune",
       "direct": false
     }
   ]
