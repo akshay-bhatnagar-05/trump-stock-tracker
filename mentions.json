@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-20T17:53:26.269809",
+  "generatedAt": "2026-10-21T17:58:08.981570",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Ibtimes.com.au",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Intel Shares Jump 5% After JPMorgan Upgrade Cites Agentic AI Demand as Chip Stocks Bounce Back From Rout",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.ibtimes.com.au/intel-shares-jump-jpmorgan-upgrade-ai-demand-1876992"
-    },
-    {
-      "source": "Fortune",
-      "time": "just now",
-      "headline": "\u2018I am so fed up\u2019: Farmers face financial squeeze from tariffs and diesel and blame GOP as Trump heads to Kansas to energize voters before midterms",
+      "headline": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://fortune.com/2026/10/19/trump-kansas-farmers-republicans-midterms-tariffs-diesel/"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms"
+    },
+    {
+      "source": "ABC News (AU)",
+      "time": "just now",
+      "headline": "Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418"
     }
   ],
   "tracked": [
@@ -24,49 +24,42 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 89.85,
-      "now": 92.69,
+      "now": 92.685,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 214.13,
-      "now": 217.305,
+      "now": 221.66,
       "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 89.85,
-      "now": 92.69,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 214.13,
-      "now": 217.305,
-      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.43,
-      "now": 92.69,
-      "days": 0
+      "now": 92.685,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.47,
-      "now": 6.47,
-      "days": 0
+      "now": 6.69,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.69,
-      "now": 92.69,
+      "now": 92.685,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 92.685,
+      "now": 92.685,
       "days": 0
     }
   ]
