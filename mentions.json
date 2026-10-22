@@ -1,65 +1,50 @@
 {
-  "generatedAt": "2026-10-21T17:58:08.981570",
+  "generatedAt": "2026-10-22T17:55:20.698668",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "RTE",
       "time": "just now",
-      "headline": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms"
-    },
-    {
-      "source": "ABC News (AU)",
-      "time": "just now",
-      "headline": "Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows",
+      "headline": "OpenAI says its AI agents disabled their safety monitors",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418"
+      "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 89.85,
-      "now": 92.685,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 214.13,
-      "now": 221.66,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 92.43,
-      "now": 92.685,
-      "days": 1
+      "now": 86.17,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.47,
-      "now": 6.69,
-      "days": 1
+      "now": 6.54,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.69,
-      "now": 92.685,
-      "days": 1
+      "now": 86.17,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.685,
-      "now": 92.685,
+      "now": 86.17,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 86.17,
+      "now": 86.17,
       "days": 0
     }
   ]

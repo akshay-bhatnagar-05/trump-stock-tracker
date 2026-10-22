@@ -3,26 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-10-18T16:26:20.911840",
-      "price_at_detection": 89.85,
-      "headline": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama\u2019s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration\u2019s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42372",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-18T16:26:21.121183",
-      "price_at_detection": 214.13,
-      "headline": "Apple, Nvidia each gave $25M to Trump's White House ballroom \u2014 but the president's own name is nowhere on the donor list",
-      "url": "https://biztoc.com/x/dfb14d33c3540a99",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-10-19T19:12:38.312717",
       "price_at_detection": 92.43,
       "headline": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
@@ -88,6 +68,16 @@
       "headline": "Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows",
       "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418",
       "source": "ABC News (AU)",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-22T17:55:20.398465",
+      "price_at_detection": 86.17,
+      "headline": "OpenAI says its AI agents disabled their safety monitors",
+      "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/",
+      "source": "RTE",
       "direct": false
     }
   ]
