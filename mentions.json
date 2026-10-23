@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T17:55:20.698668",
+  "generatedAt": "2026-10-23T17:49:54.140341",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "RTE",
+      "source": "Tom's Hardware UK",
       "time": "just now",
-      "headline": "OpenAI says its AI agents disabled their safety monitors",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/"
+      "headline": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+      "ticker": null,
+      "keyword": "critical minerals",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
     }
   ],
   "tracked": [
@@ -16,35 +16,35 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.43,
-      "now": 86.17,
-      "days": 2
+      "now": 86.825,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.47,
-      "now": 6.54,
-      "days": 2
+      "now": 6.4061,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.69,
-      "now": 86.17,
+      "now": 86.825,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.685,
-      "now": 86.17,
-      "days": 0
+      "now": 86.825,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.17,
-      "now": 86.17,
+      "now": 86.825,
       "days": 0
     }
   ]

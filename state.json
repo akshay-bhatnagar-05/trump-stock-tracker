@@ -79,6 +79,16 @@
       "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/",
       "source": "RTE",
       "direct": false
+    },
+    {
+      "keyword": "critical minerals",
+      "ticker": null,
+      "date_detected": "2026-10-23T17:49:53.187233",
+      "price_at_detection": null,
+      "headline": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
+      "source": "Tom's Hardware UK",
+      "direct": false
     }
   ]
 }
