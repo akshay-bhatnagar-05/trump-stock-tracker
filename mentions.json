@@ -1,50 +1,73 @@
 {
-  "generatedAt": "2026-10-23T17:49:54.140341",
+  "generatedAt": "2026-10-24T16:31:14.771293",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Tom's Hardware UK",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
+      "headline": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/a967a871c352a8e2"
+    },
+    {
+      "source": "SiliconANGLE News",
+      "time": "just now",
+      "headline": "In AI, it\u2019s a tale of two diverging investor classes",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/"
+    },
+    {
+      "source": "Crypto Briefing",
+      "time": "just now",
+      "headline": "Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 92.43,
-      "now": 86.825,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 6.47,
-      "now": 6.4061,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 92.69,
-      "now": 86.825,
-      "days": 2
+      "now": 86.96,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 92.685,
-      "now": 86.825,
-      "days": 1
+      "now": 86.96,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.17,
-      "now": 86.825,
+      "now": 86.96,
+      "days": 1
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 6.4,
+      "now": 6.4,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 86.96,
+      "now": 86.96,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 210.96,
+      "now": 210.96,
       "days": 0
     }
   ]

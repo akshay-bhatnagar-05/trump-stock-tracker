@@ -3,36 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-10-19T19:12:38.312717",
-      "price_at_detection": 92.43,
-      "headline": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
-      "url": "https://biztoc.com/x/9525fc78d636f46f",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-10-19T19:12:38.602933",
-      "price_at_detection": 6.47,
-      "headline": "Trump Media And Technology Group (DJT) Stock May Trade At A Premium To Book Value",
-      "url": "https://biztoc.com/x/ec1890b88ab62116",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-19T19:12:38.602997",
-      "price_at_detection": null,
-      "headline": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture",
-      "url": "https://biztoc.com/x/9444f1de338b52ca",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-10-20T17:53:25.422189",
       "price_at_detection": 92.69,
       "headline": "Intel Shares Jump 5% After JPMorgan Upgrade Cites Agentic AI Demand as Chip Stocks Bounce Back From Rout",
@@ -88,6 +58,36 @@
       "headline": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
       "source": "Tom's Hardware UK",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-10-24T16:31:14.483009",
+      "price_at_detection": 6.4,
+      "headline": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher",
+      "url": "https://biztoc.com/x/a967a871c352a8e2",
+      "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-24T16:31:14.600374",
+      "price_at_detection": 86.96,
+      "headline": "In AI, it\u2019s a tale of two diverging investor classes",
+      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
+      "source": "SiliconANGLE News",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-24T16:31:14.702912",
+      "price_at_detection": 210.96,
+      "headline": "Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent",
+      "url": "https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/",
+      "source": "Crypto Briefing",
       "direct": false
     }
   ]
