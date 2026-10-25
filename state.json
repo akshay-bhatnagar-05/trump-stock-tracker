@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-20T17:53:25.422189",
-      "price_at_detection": 92.69,
-      "headline": "Intel Shares Jump 5% After JPMorgan Upgrade Cites Agentic AI Demand as Chip Stocks Bounce Back From Rout",
-      "url": "https://www.ibtimes.com.au/intel-shares-jump-jpmorgan-upgrade-ai-demand-1876992",
-      "source": "Ibtimes.com.au",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-20T17:53:25.422300",
-      "price_at_detection": null,
-      "headline": "\u2018I am so fed up\u2019: Farmers face financial squeeze from tariffs and diesel and blame GOP as Trump heads to Kansas to energize voters before midterms",
-      "url": "https://fortune.com/2026/10/19/trump-kansas-farmers-republicans-midterms-tariffs-diesel/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-10-21T17:58:08.368008",
@@ -88,6 +68,16 @@
       "headline": "Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent",
       "url": "https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/",
       "source": "Crypto Briefing",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-25T17:01:11.300238",
+      "price_at_detection": null,
+      "headline": "At Rs 46 per unit, Raj taps country\u2019s costliest power from Dholpur gas plant",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/at-rs-46-per-unit-raj-taps-countrys-costliest-power-from-dholpur-gas-plant/articleshow/135173876.cms",
+      "source": "The Times of India",
       "direct": false
     }
   ]

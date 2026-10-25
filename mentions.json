@@ -1,74 +1,51 @@
 {
-  "generatedAt": "2026-10-24T16:31:14.771293",
+  "generatedAt": "2026-10-25T17:01:11.852119",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Biztoc.com",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/a967a871c352a8e2"
-    },
-    {
-      "source": "SiliconANGLE News",
-      "time": "just now",
-      "headline": "In AI, it\u2019s a tale of two diverging investor classes",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/"
-    },
-    {
-      "source": "Crypto Briefing",
-      "time": "just now",
-      "headline": "Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/"
+      "headline": "At Rs 46 per unit, Raj taps country\u2019s costliest power from Dholpur gas plant",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/at-rs-46-per-unit-raj-taps-countrys-costliest-power-from-dholpur-gas-plant/articleshow/135173876.cms"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 92.69,
+      "at": 92.685,
       "now": 86.96,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 92.685,
-      "now": 86.96,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 86.17,
       "now": 86.96,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.4,
       "now": 6.4,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.96,
       "now": 86.96,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 210.96,
       "now": 210.96,
-      "days": 0
+      "days": 1
     }
   ]
 }
