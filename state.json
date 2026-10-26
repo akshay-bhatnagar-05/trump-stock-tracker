@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-21T17:58:08.368008",
-      "price_at_detection": null,
-      "headline": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-21T17:58:08.686739",
-      "price_at_detection": 92.685,
-      "headline": "Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows",
-      "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418",
-      "source": "ABC News (AU)",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-22T17:55:20.398465",
-      "price_at_detection": 86.17,
-      "headline": "OpenAI says its AI agents disabled their safety monitors",
-      "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/",
-      "source": "RTE",
-      "direct": false
-    },
-    {
       "keyword": "critical minerals",
       "ticker": null,
       "date_detected": "2026-10-23T17:49:53.187233",
@@ -78,6 +48,16 @@
       "headline": "At Rs 46 per unit, Raj taps country\u2019s costliest power from Dholpur gas plant",
       "url": "https://timesofindia.indiatimes.com/city/jaipur/at-rs-46-per-unit-raj-taps-countrys-costliest-power-from-dholpur-gas-plant/articleshow/135173876.cms",
       "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-26T19:08:47.878567",
+      "price_at_detection": null,
+      "headline": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports",
+      "source": "Al Jazeera English",
       "direct": false
     }
   ]

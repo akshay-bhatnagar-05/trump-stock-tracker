@@ -1,51 +1,37 @@
 {
-  "generatedAt": "2026-10-25T17:01:11.852119",
+  "generatedAt": "2026-10-26T19:08:48.346655",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Al Jazeera English",
       "time": "just now",
-      "headline": "At Rs 46 per unit, Raj taps country\u2019s costliest power from Dholpur gas plant",
+      "headline": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/at-rs-46-per-unit-raj-taps-countrys-costliest-power-from-dholpur-gas-plant/articleshow/135173876.cms"
+      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports"
     }
   ],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 92.685,
-      "now": 86.96,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 86.17,
-      "now": 86.96,
-      "days": 2
-    },
-    {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.4,
-      "now": 6.4,
-      "days": 1
+      "now": 6.165,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.96,
-      "now": 86.96,
-      "days": 1
+      "now": 91.4733,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 210.96,
-      "now": 210.96,
-      "days": 1
+      "now": 216.135,
+      "days": 2
     }
   ]
 }
