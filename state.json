@@ -1,16 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "critical minerals",
-      "ticker": null,
-      "date_detected": "2026-10-23T17:49:53.187233",
-      "price_at_detection": null,
-      "headline": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
-      "source": "Tom's Hardware UK",
-      "direct": false
-    },
-    {
       "keyword": "trump media",
       "ticker": "DJT",
       "date_detected": "2026-10-24T16:31:14.483009",
@@ -58,6 +48,36 @@
       "headline": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
       "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports",
       "source": "Al Jazeera English",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-27T18:38:42.678239",
+      "price_at_detection": 93.385,
+      "headline": "Congressman Abe Hamadeh is an America First Patriot who is doing a tremendous job representing Arizona\u2019s 8th Congressional District!\u00a0A Brave U.S. Army Veteran, and former Criminal Prosecutor, Abe is fighting tirelessly to Grow our Economy, Keep our Border SECURE, Stop Migrant Crime, Cut Taxes and Regulations, Strengthen our Military/Vets, Safeguard our Elections, and Protect our always under siege Second Amendment. Additionally, Abe is working tirelessly alongside me to lead the Super Intelligence revolution, with a record 300 BILLION DOLLARS newly invested under my Administration into the Great State of Arizona to build the Biggest Plant in the World for Chips and Semiconductors!\u00a0Abe\u2019s opponent, Bernadette Greene-Placentia, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women\u2019s Sports, and Transgender Mutilization of your Children. Bernadette Greene-Placentia is Reckless, Radical, and Dangerous!\u00a0Abe Hamadeh has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ABE \u2014 HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42766",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-27T18:38:42.678807",
+      "price_at_detection": null,
+      "headline": "India-US trade deal stalled over tariffs and politics \u2013 media",
+      "url": "https://rt-english.com/india/647750-india-us-trade-deal/",
+      "source": "Rt-english.com",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-10-27T18:38:42.906985",
+      "price_at_detection": 6.415,
+      "headline": "Trump Media Slides 4% Toward 52-Week Low While Market Rises; Rumble Sinks 5%",
+      "url": "https://biztoc.com/x/252883cdd09b4160",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]

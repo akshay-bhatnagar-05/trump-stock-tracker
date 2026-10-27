@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-10-26T19:08:48.346655",
-  "directMentions": [],
+  "generatedAt": "2026-10-27T18:38:43.319798",
+  "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "Congressman Abe Hamadeh is an America First Patriot who is doing a tremendous job representing Arizona\u2019s 8th Congressional District!\u00a0A Brave U.S. Army Veteran, and former Criminal Prosecutor, Abe is fighting tirelessly to Grow our Economy, Keep our Border SECURE, Stop Migrant Crime, Cut Taxes and Regulations, Strengthen our Military/Vets, Safeguard our Elections, and Protect our always under siege Second Amendment. Additionally, Abe is working tirelessly alongside me to lead the Super Intelligence revolution, with a record 300 BILLION DOLLARS newly invested under my Administration into the Great State of Arizona to build the Biggest Plant in the World for Chips and Semiconductors!\u00a0Abe\u2019s opponent, Bernadette Greene-Placentia, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women\u2019s Sports, and Transgender Mutilization of your Children. Bernadette Greene-Placentia is Reckless, Radical, and Dangerous!\u00a0Abe Hamadeh has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ABE \u2014 HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.trumpstruth.org/statuses/42766"
+    }
+  ],
   "indirectMentions": [
     {
-      "source": "Al Jazeera English",
+      "source": "Rt-english.com",
       "time": "just now",
-      "headline": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "headline": "India-US trade deal stalled over tariffs and politics \u2013 media",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports"
+      "url": "https://rt-english.com/india/647750-india-us-trade-deal/"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media Slides 4% Toward 52-Week Low While Market Rises; Rumble Sinks 5%",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/252883cdd09b4160"
     }
   ],
   "tracked": [
@@ -16,22 +33,36 @@
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.4,
-      "now": 6.165,
-      "days": 2
+      "now": 6.415,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 86.96,
-      "now": 91.4733,
-      "days": 2
+      "now": 93.385,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 210.96,
-      "now": 216.135,
-      "days": 2
+      "now": 217.5601,
+      "days": 3
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 93.385,
+      "now": 93.385,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 6.415,
+      "now": 6.415,
+      "days": 0
     }
   ]
 }
