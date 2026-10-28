@@ -1,67 +1,60 @@
 {
-  "generatedAt": "2026-10-27T18:38:43.319798",
+  "generatedAt": "2026-10-28T18:45:42.891583",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "Congressman Abe Hamadeh is an America First Patriot who is doing a tremendous job representing Arizona\u2019s 8th Congressional District!\u00a0A Brave U.S. Army Veteran, and former Criminal Prosecutor, Abe is fighting tirelessly to Grow our Economy, Keep our Border SECURE, Stop Migrant Crime, Cut Taxes and Regulations, Strengthen our Military/Vets, Safeguard our Elections, and Protect our always under siege Second Amendment. Additionally, Abe is working tirelessly alongside me to lead the Super Intelligence revolution, with a record 300 BILLION DOLLARS newly invested under my Administration into the Great State of Arizona to build the Biggest Plant in the World for Chips and Semiconductors!\u00a0Abe\u2019s opponent, Bernadette Greene-Placentia, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women\u2019s Sports, and Transgender Mutilization of your Children. Bernadette Greene-Placentia is Reckless, Radical, and Dangerous!\u00a0Abe Hamadeh has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ABE \u2014 HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/42766"
+      "url": "https://www.trumpstruth.org/statuses/42785"
     }
   ],
   "indirectMentions": [
     {
-      "source": "Rt-english.com",
+      "source": "CNBC",
       "time": "just now",
-      "headline": "India-US trade deal stalled over tariffs and politics \u2013 media",
+      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://rt-english.com/india/647750-india-us-trade-deal/"
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Truthout",
       "time": "just now",
-      "headline": "Trump Media Slides 4% Toward 52-Week Low While Market Rises; Rumble Sinks 5%",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/252883cdd09b4160"
+      "headline": "As the AI Bubble Threatens to Burst, We Must Prepare to Fight a Big Tech Bailout",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://truthout.org/articles/as-the-ai-bubble-threatens-to-burst-we-must-prepare-to-fight-a-big-tech-bailout/"
     }
   ],
   "tracked": [
     {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 6.4,
-      "now": 6.415,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 86.96,
-      "now": 93.385,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 210.96,
-      "now": 217.5601,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.385,
-      "now": 93.385,
-      "days": 0
+      "now": 94.925,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.415,
-      "now": 6.415,
+      "now": 6.0,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 94.925,
+      "now": 94.925,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 216.6301,
+      "now": 216.6301,
       "days": 0
     }
   ]

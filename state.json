@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-10-24T16:31:14.483009",
-      "price_at_detection": 6.4,
-      "headline": "Trump Media Drops 4% as Selling Pressure Persists; Rumble Edges Higher",
-      "url": "https://biztoc.com/x/a967a871c352a8e2",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-24T16:31:14.600374",
-      "price_at_detection": 86.96,
-      "headline": "In AI, it\u2019s a tale of two diverging investor classes",
-      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
-      "source": "SiliconANGLE News",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-24T16:31:14.702912",
-      "price_at_detection": 210.96,
-      "headline": "Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent",
-      "url": "https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-10-25T17:01:11.300238",
@@ -78,6 +48,36 @@
       "headline": "Trump Media Slides 4% Toward 52-Week Low While Market Rises; Rumble Sinks 5%",
       "url": "https://biztoc.com/x/252883cdd09b4160",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-28T18:45:42.430306",
+      "price_at_detection": 94.925,
+      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42785",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-28T18:45:42.431107",
+      "price_at_detection": null,
+      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "source": "CNBC",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-28T18:45:42.625728",
+      "price_at_detection": 216.6301,
+      "headline": "As the AI Bubble Threatens to Burst, We Must Prepare to Fight a Big Tech Bailout",
+      "url": "https://truthout.org/articles/as-the-ai-bubble-threatens-to-burst-we-must-prepare-to-fight-a-big-tech-bailout/",
+      "source": "Truthout",
       "direct": false
     }
   ]
