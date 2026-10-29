@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:45:42.891583",
+  "generatedAt": "2026-10-29T18:54:56.482498",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,20 +12,36 @@
   ],
   "indirectMentions": [
     {
-      "source": "CNBC",
+      "source": "Livemint",
       "time": "just now",
-      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
-    },
-    {
-      "source": "Truthout",
-      "time": "just now",
-      "headline": "As the AI Bubble Threatens to Burst, We Must Prepare to Fight a Big Tech Bailout",
+      "headline": "Exclusive-US DOJ is inquiring about Nvidias purchase of Hugging Face, sources say",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://truthout.org/articles/as-the-ai-bubble-threatens-to-burst-we-must-prepare-to-fight-a-big-tech-bailout/"
+      "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html"
+    },
+    {
+      "source": "Al Jazeera English",
+      "time": "just now",
+      "headline": "Canada-EU summit: What do both sides want, and what\u2019s at stake?",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake"
+    },
+    {
+      "source": "Dailymail.com",
+      "time": "just now",
+      "headline": "Microsoft CEO earned $90.6m salary last year... $6m less than the year before after the computing giant's stock tanked",
+      "ticker": "DELL",
+      "keyword": "dell",
+      "url": "https://www.dailymail.com/news/article-16246093/microsoft-ceo-satya-nadella-annual-salary-computing-giant.html"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/56f5ac54715b64f4"
     }
   ],
   "tracked": [
@@ -33,28 +49,56 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.385,
-      "now": 94.925,
-      "days": 1
+      "now": 91.23,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.415,
-      "now": 6.0,
-      "days": 1
+      "now": 5.715,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 94.925,
-      "now": 94.925,
-      "days": 0
+      "now": 91.23,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 216.6301,
-      "now": 216.6301,
+      "now": 212.9228,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 91.23,
+      "now": 91.23,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 212.9228,
+      "now": 212.9228,
+      "days": 0
+    },
+    {
+      "ticker": "DELL",
+      "keyword": "dell",
+      "at": 473.26,
+      "now": 473.26,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 5.715,
+      "now": 5.715,
       "days": 0
     }
   ]

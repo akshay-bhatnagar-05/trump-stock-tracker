@@ -3,16 +3,6 @@
     {
       "keyword": "tariff",
       "ticker": null,
-      "date_detected": "2026-10-25T17:01:11.300238",
-      "price_at_detection": null,
-      "headline": "At Rs 46 per unit, Raj taps country\u2019s costliest power from Dholpur gas plant",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/at-rs-46-per-unit-raj-taps-countrys-costliest-power-from-dholpur-gas-plant/articleshow/135173876.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
       "date_detected": "2026-10-26T19:08:47.878567",
       "price_at_detection": null,
       "headline": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
@@ -78,6 +68,56 @@
       "headline": "As the AI Bubble Threatens to Burst, We Must Prepare to Fight a Big Tech Bailout",
       "url": "https://truthout.org/articles/as-the-ai-bubble-threatens-to-burst-we-must-prepare-to-fight-a-big-tech-bailout/",
       "source": "Truthout",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-29T18:54:55.691410",
+      "price_at_detection": 91.23,
+      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/42785",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-29T18:54:55.860942",
+      "price_at_detection": 212.9228,
+      "headline": "Exclusive-US DOJ is inquiring about Nvidias purchase of Hugging Face, sources say",
+      "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html",
+      "source": "Livemint",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-29T18:54:55.861086",
+      "price_at_detection": null,
+      "headline": "Canada-EU summit: What do both sides want, and what\u2019s at stake?",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake",
+      "source": "Al Jazeera English",
+      "direct": false
+    },
+    {
+      "keyword": "dell",
+      "ticker": "DELL",
+      "date_detected": "2026-10-29T18:54:56.014967",
+      "price_at_detection": 473.26,
+      "headline": "Microsoft CEO earned $90.6m salary last year... $6m less than the year before after the computing giant's stock tanked",
+      "url": "https://www.dailymail.com/news/article-16246093/microsoft-ceo-satya-nadella-annual-salary-computing-giant.html",
+      "source": "Dailymail.com",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-10-29T18:54:56.205179",
+      "price_at_detection": 5.715,
+      "headline": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
+      "url": "https://biztoc.com/x/56f5ac54715b64f4",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]
