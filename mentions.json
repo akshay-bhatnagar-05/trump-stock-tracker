@@ -1,47 +1,30 @@
 {
-  "generatedAt": "2026-10-29T18:54:56.482498",
-  "directMentions": [
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/42785"
-    }
-  ],
+  "generatedAt": "2026-10-30T18:31:52.026083",
+  "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Livemint",
+      "source": "Slashdot.org",
       "time": "just now",
-      "headline": "Exclusive-US DOJ is inquiring about Nvidias purchase of Hugging Face, sources say",
+      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot"
+    },
+    {
+      "source": "Slashdot.org",
+      "time": "just now",
+      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html"
+      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot"
     },
     {
-      "source": "Al Jazeera English",
+      "source": "BusinessLine",
       "time": "just now",
-      "headline": "Canada-EU summit: What do both sides want, and what\u2019s at stake?",
+      "headline": "Jaishankar likely to meet Rubio on G20 sidelines, but trade deal remains elusive",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake"
-    },
-    {
-      "source": "Dailymail.com",
-      "time": "just now",
-      "headline": "Microsoft CEO earned $90.6m salary last year... $6m less than the year before after the computing giant's stock tanked",
-      "ticker": "DELL",
-      "keyword": "dell",
-      "url": "https://www.dailymail.com/news/article-16246093/microsoft-ceo-satya-nadella-annual-salary-computing-giant.html"
-    },
-    {
-      "source": "Biztoc.com",
-      "time": "just now",
-      "headline": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/56f5ac54715b64f4"
+      "url": "https://www.thehindubusinessline.com/economy/jaishankar-likely-to-meet-rubio-on-g20-sidelines-but-trade-deal-remains-elusive/article71641006.ece"
     }
   ],
   "tracked": [
@@ -49,56 +32,70 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 93.385,
-      "now": 91.23,
+      "now": 63.5199,
       "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 6.415,
-      "now": 5.715,
+      "now": 5.465,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 94.925,
-      "now": 91.23,
+      "now": 63.5199,
       "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 216.6301,
-      "now": 212.9228,
+      "now": 201.4585,
       "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 91.23,
-      "now": 91.23,
+      "now": 63.5199,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 212.9228,
-      "now": 212.9228,
+      "now": 201.4585,
       "days": 0
     },
     {
       "ticker": "DELL",
       "keyword": "dell",
       "at": 473.26,
-      "now": 473.26,
+      "now": 414.835,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.715,
-      "now": 5.715,
+      "now": 5.465,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 63.5199,
+      "now": 63.5199,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 201.4585,
+      "now": 201.4585,
       "days": 0
     }
   ]

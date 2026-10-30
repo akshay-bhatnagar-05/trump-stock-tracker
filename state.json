@@ -119,6 +119,36 @@
       "url": "https://biztoc.com/x/56f5ac54715b64f4",
       "source": "Biztoc.com",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-10-30T18:31:51.278798",
+      "price_at_detection": 63.5199,
+      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
+      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot",
+      "source": "Slashdot.org",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-10-30T18:31:51.453931",
+      "price_at_detection": 201.4585,
+      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
+      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot",
+      "source": "Slashdot.org",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-10-30T18:31:51.454264",
+      "price_at_detection": null,
+      "headline": "Jaishankar likely to meet Rubio on G20 sidelines, but trade deal remains elusive",
+      "url": "https://www.thehindubusinessline.com/economy/jaishankar-likely-to-meet-rubio-on-g20-sidelines-but-trade-deal-remains-elusive/article71641006.ece",
+      "source": "BusinessLine",
+      "direct": false
     }
   ]
 }
