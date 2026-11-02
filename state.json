@@ -3,86 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-10-28T18:45:42.430306",
-      "price_at_detection": 94.925,
-      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42785",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-28T18:45:42.431107",
-      "price_at_detection": null,
-      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "source": "CNBC",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-28T18:45:42.625728",
-      "price_at_detection": 216.6301,
-      "headline": "As the AI Bubble Threatens to Burst, We Must Prepare to Fight a Big Tech Bailout",
-      "url": "https://truthout.org/articles/as-the-ai-bubble-threatens-to-burst-we-must-prepare-to-fight-a-big-tech-bailout/",
-      "source": "Truthout",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-29T18:54:55.691410",
-      "price_at_detection": 91.23,
-      "headline": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially BANNING the term, \u201cAI/Artificial Intelligence,\u201d in all relevant documents, and everything else, due to its inaccuracy. Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/42785",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-29T18:54:55.860942",
-      "price_at_detection": 212.9228,
-      "headline": "Exclusive-US DOJ is inquiring about Nvidias purchase of Hugging Face, sources say",
-      "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html",
-      "source": "Livemint",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-29T18:54:55.861086",
-      "price_at_detection": null,
-      "headline": "Canada-EU summit: What do both sides want, and what\u2019s at stake?",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake",
-      "source": "Al Jazeera English",
-      "direct": false
-    },
-    {
-      "keyword": "dell",
-      "ticker": "DELL",
-      "date_detected": "2026-10-29T18:54:56.014967",
-      "price_at_detection": 473.26,
-      "headline": "Microsoft CEO earned $90.6m salary last year... $6m less than the year before after the computing giant's stock tanked",
-      "url": "https://www.dailymail.com/news/article-16246093/microsoft-ceo-satya-nadella-annual-salary-computing-giant.html",
-      "source": "Dailymail.com",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-10-29T18:54:56.205179",
-      "price_at_detection": 5.715,
-      "headline": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
-      "url": "https://biztoc.com/x/56f5ac54715b64f4",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-10-30T18:31:51.278798",
       "price_at_detection": 63.5199,
       "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
@@ -158,6 +78,16 @@
       "headline": "Palantir Cofounder Announces Cruel Plan to Breed Thousands of Lab Monkeys for Medical Experiments",
       "url": "https://futurism.com/science-energy/palantir-lonsdale-lab-monkeys-medical-research",
       "source": "Futurism",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-02T22:16:22.238648",
+      "price_at_detection": 202.06,
+      "headline": "Trump backs Nvidia CEO Jensen Huang after report of Chinese spy plot",
+      "url": "https://cryptobriefing.com/trump-backs-nvidia-ceo-huang-china-spy-report/",
+      "source": "Crypto Briefing",
       "direct": false
     }
   ]
