@@ -3,36 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-10-30T18:31:51.278798",
-      "price_at_detection": 63.5199,
-      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
-      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot",
-      "source": "Slashdot.org",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-30T18:31:51.453931",
-      "price_at_detection": 201.4585,
-      "headline": "Nvidia Chief Seen as Target of Chinese Spy Plot",
-      "url": "https://slashdot.org/submission/17351920/nvidia-chief-seen-as-target-of-chinese-spy-plot",
-      "source": "Slashdot.org",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-10-30T18:31:51.454264",
-      "price_at_detection": null,
-      "headline": "Jaishankar likely to meet Rubio on G20 sidelines, but trade deal remains elusive",
-      "url": "https://www.thehindubusinessline.com/economy/jaishankar-likely-to-meet-rubio-on-g20-sidelines-but-trade-deal-remains-elusive/article71641006.ece",
-      "source": "BusinessLine",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-10-31T17:37:29.654423",
       "price_at_detection": 65.76,
       "headline": "Florida Takes Unlikely Lead Role in State Push to Regulate AI",
@@ -88,6 +58,26 @@
       "headline": "Trump backs Nvidia CEO Jensen Huang after report of Chinese spy plot",
       "url": "https://cryptobriefing.com/trump-backs-nvidia-ceo-huang-china-spy-report/",
       "source": "Crypto Briefing",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-03T20:01:50.346532",
+      "price_at_detection": 60.0394,
+      "headline": "Intel Stock Is Cratering After Trump Poured Taxpayer Money Into the Chipmaker",
+      "url": "https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money",
+      "source": "Futurism",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-03T20:01:50.461169",
+      "price_at_detection": 5.915,
+      "headline": "Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3%",
+      "url": "https://biztoc.com/x/9bfd18002d274bb4",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]

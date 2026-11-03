@@ -1,64 +1,72 @@
 {
-  "generatedAt": "2026-11-02T22:16:22.759511",
+  "generatedAt": "2026-11-03T20:01:50.778165",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Crypto Briefing",
+      "source": "Futurism",
       "time": "just now",
-      "headline": "Trump backs Nvidia CEO Jensen Huang after report of Chinese spy plot",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://cryptobriefing.com/trump-backs-nvidia-ceo-huang-china-spy-report/"
+      "headline": "Intel Stock Is Cratering After Trump Poured Taxpayer Money Into the Chipmaker",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3%",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/9bfd18002d274bb4"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 63.5199,
-      "now": 59.97,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 201.4585,
-      "now": 202.06,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 65.76,
-      "now": 59.97,
-      "days": 2
+      "now": 60.0394,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.59,
-      "now": 5.66,
-      "days": 2
+      "now": 5.915,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 204.64,
-      "now": 202.06,
-      "days": 2
+      "now": 206.64,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 184.11,
-      "now": 178.34,
-      "days": 1
+      "now": 175.65,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 202.06,
-      "now": 202.06,
+      "now": 206.64,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 60.0394,
+      "now": 60.0394,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 5.915,
+      "now": 5.915,
       "days": 0
     }
   ]
