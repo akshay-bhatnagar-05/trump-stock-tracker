@@ -1,36 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-10-31T17:37:29.654423",
-      "price_at_detection": 65.76,
-      "headline": "Florida Takes Unlikely Lead Role in State Push to Regulate AI",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/florida-takes-unlikely-lead-role-in-state-push-to-regulate-ai/",
-      "source": "pymnts.com",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-10-31T17:37:29.777582",
-      "price_at_detection": 5.59,
-      "headline": "Trump Media Filings Reveal Payout From America\u2019s 250th Celebration",
-      "url": "https://newrepublic.com/post/217385/trump-media-filings-payment-america-250th-celebration",
-      "source": "The New Republic",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-10-31T17:37:29.908993",
-      "price_at_detection": 204.64,
-      "headline": "Nvidia denies report that its CEO was targeted in alleged Chinese spy plot",
-      "url": "https://abcnews.com/US/nvidia-denies-report-ceo-allegedly-targeted-chinese-spy/story?id=137704250",
-      "source": "Abcnews.com",
-      "direct": false
-    },
-    {
       "keyword": "critical minerals",
       "ticker": null,
       "date_detected": "2026-11-01T18:21:36.887350",
@@ -78,6 +48,26 @@
       "headline": "Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3%",
       "url": "https://biztoc.com/x/9bfd18002d274bb4",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-04T20:23:16.192900",
+      "price_at_detection": null,
+      "headline": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms",
+      "source": "Al Jazeera English",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-04T20:23:16.511452",
+      "price_at_detection": 57.86,
+      "headline": "VIPS MEMO: Iran Is Not Bluffing",
+      "url": "https://www.antiwar.com/blog/2026/11/03/vips-memo-iran-is-not-bluffing/",
+      "source": "Antiwar.com",
       "direct": false
     }
   ]
