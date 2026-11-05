@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "critical minerals",
-      "ticker": null,
-      "date_detected": "2026-11-01T18:21:36.887350",
-      "price_at_detection": null,
-      "headline": "Jaishankar calls for deeper Quad cooperation on energy, maritime security",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/jaishankar-calls-for-deeper-quad-cooperation-on-energy-maritime-security-126103101400_1.html",
-      "source": "Business Standard",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-11-01T18:21:37.368424",
-      "price_at_detection": 184.11,
-      "headline": "Palantir Cofounder Announces Cruel Plan to Breed Thousands of Lab Monkeys for Medical Experiments",
-      "url": "https://futurism.com/science-energy/palantir-lonsdale-lab-monkeys-medical-research",
-      "source": "Futurism",
-      "direct": false
-    },
-    {
       "keyword": "nvidia",
       "ticker": "NVDA",
       "date_detected": "2026-11-02T22:16:22.238648",
@@ -68,6 +48,46 @@
       "headline": "VIPS MEMO: Iran Is Not Bluffing",
       "url": "https://www.antiwar.com/blog/2026/11/03/vips-memo-iran-is-not-bluffing/",
       "source": "Antiwar.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-05T20:34:20.303100",
+      "price_at_detection": null,
+      "headline": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
+      "url": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html",
+      "source": "Livemint",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-11-05T20:34:20.591675",
+      "price_at_detection": 155.4554,
+      "headline": "Palantir CEO says it's pioneering an antiwar movement \u2013 while happily accepting defense dollars",
+      "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
+      "source": "Theregister.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-05T20:34:20.712333",
+      "price_at_detection": 53.86,
+      "headline": "Democratic Sweep Could Slow AI Build Out",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/democratic-sweep-could-slow-ai-build-out/",
+      "source": "pymnts.com",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-05T20:34:20.796899",
+      "price_at_detection": 4.0793,
+      "headline": "Trump Media stock plunges 12% after Democrats sweep Congress",
+      "url": "https://biztoc.com/x/ef266e35ba9745fa",
+      "source": "Biztoc.com",
       "direct": false
     }
   ]

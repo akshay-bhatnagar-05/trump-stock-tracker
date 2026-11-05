@@ -1,58 +1,88 @@
 {
-  "generatedAt": "2026-11-04T20:23:16.808714",
+  "generatedAt": "2026-11-05T20:34:20.981373",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Al Jazeera English",
+      "source": "Livemint",
       "time": "just now",
-      "headline": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "headline": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms"
+      "url": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html"
     },
     {
-      "source": "Antiwar.com",
+      "source": "Theregister.com",
       "time": "just now",
-      "headline": "VIPS MEMO: Iran Is Not Bluffing",
+      "headline": "Palantir CEO says it's pioneering an antiwar movement \u2013 while happily accepting defense dollars",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605"
+    },
+    {
+      "source": "pymnts.com",
+      "time": "just now",
+      "headline": "Democratic Sweep Could Slow AI Build Out",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.antiwar.com/blog/2026/11/03/vips-memo-iran-is-not-bluffing/"
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/democratic-sweep-could-slow-ai-build-out/"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "Trump Media stock plunges 12% after Democrats sweep Congress",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/ef266e35ba9745fa"
     }
   ],
   "tracked": [
     {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 184.11,
-      "now": 172.415,
-      "days": 3
-    },
-    {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 202.06,
-      "now": 202.2,
-      "days": 1
+      "now": 183.21,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 60.0394,
-      "now": 57.86,
-      "days": 1
+      "now": 53.86,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.915,
-      "now": 4.475,
-      "days": 1
+      "now": 4.0793,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.86,
-      "now": 57.86,
+      "now": 53.86,
+      "days": 1
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 155.4554,
+      "now": 155.4554,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 53.86,
+      "now": 53.86,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 4.0793,
+      "now": 4.0793,
       "days": 0
     }
   ]
