@@ -89,6 +89,36 @@
       "url": "https://biztoc.com/x/ef266e35ba9745fa",
       "source": "Biztoc.com",
       "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-06T19:55:13.244136",
+      "price_at_detection": 56.52,
+      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
+      "url": "https://www.trumpstruth.org/statuses/43495",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-06T19:55:13.424889",
+      "price_at_detection": 187.59,
+      "headline": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dragging down Invesco QQQ Trust",
+      "url": "https://economictimes.indiatimes.com/news/international/us/qqq-stock-today-falls-over-5-why-nvidia-nvda-qualcomm-qcom-intel-intc-and-marvell-mrvl-are-dragging-down-invesco-qqq-trust/articleshow/135582240.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-06T19:55:13.425110",
+      "price_at_detection": null,
+      "headline": "Hydro Flask owner rejects \u2018opportunistic\u2019 takeover proposal",
+      "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
+      "source": "Retail Dive",
+      "direct": false
     }
   ]
 }

@@ -1,38 +1,31 @@
 {
-  "generatedAt": "2026-11-05T20:34:20.981373",
-  "directMentions": [],
-  "indirectMentions": [
+  "generatedAt": "2026-11-06T19:55:13.973159",
+  "directMentions": [
     {
-      "source": "Livemint",
+      "source": "truth_social",
       "time": "just now",
-      "headline": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html"
-    },
-    {
-      "source": "Theregister.com",
-      "time": "just now",
-      "headline": "Palantir CEO says it's pioneering an antiwar movement \u2013 while happily accepting defense dollars",
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605"
-    },
-    {
-      "source": "pymnts.com",
-      "time": "just now",
-      "headline": "Democratic Sweep Could Slow AI Build Out",
+      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/democratic-sweep-could-slow-ai-build-out/"
+      "url": "https://www.trumpstruth.org/statuses/43495"
+    }
+  ],
+  "indirectMentions": [
+    {
+      "source": "The Times of India",
+      "time": "just now",
+      "headline": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dragging down Invesco QQQ Trust",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://economictimes.indiatimes.com/news/international/us/qqq-stock-today-falls-over-5-why-nvidia-nvda-qualcomm-qcom-intel-intc-and-marvell-mrvl-are-dragging-down-invesco-qqq-trust/articleshow/135582240.cms"
     },
     {
-      "source": "Biztoc.com",
+      "source": "Retail Dive",
       "time": "just now",
-      "headline": "Trump Media stock plunges 12% after Democrats sweep Congress",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/ef266e35ba9745fa"
+      "headline": "Hydro Flask owner rejects \u2018opportunistic\u2019 takeover proposal",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/"
     }
   ],
   "tracked": [
@@ -40,49 +33,63 @@
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 202.06,
-      "now": 183.21,
-      "days": 2
+      "now": 187.59,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 60.0394,
-      "now": 53.86,
+      "now": 56.52,
       "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.915,
-      "now": 4.0793,
+      "now": 3.97,
       "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.86,
-      "now": 53.86,
+      "now": 56.52,
       "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 155.4554,
-      "now": 155.4554,
+      "now": 161.07,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 53.86,
-      "now": 53.86,
+      "now": 56.52,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.0793,
-      "now": 4.0793,
+      "now": 3.97,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 56.52,
+      "now": 56.52,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 187.59,
+      "now": 187.59,
       "days": 0
     }
   ]
