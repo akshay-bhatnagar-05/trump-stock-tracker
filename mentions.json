@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:55:13.973159",
+  "generatedAt": "2026-11-07T17:59:30.443063",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,84 +12,98 @@
   ],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "NBC News",
       "time": "just now",
-      "headline": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dragging down Invesco QQQ Trust",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://economictimes.indiatimes.com/news/international/us/qqq-stock-today-falls-over-5-why-nvidia-nvda-qualcomm-qcom-intel-intc-and-marvell-mrvl-are-dragging-down-invesco-qqq-trust/articleshow/135582240.cms"
+      "headline": "Trump Media investors lost $2.2 billion",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://www.nbcnews.com/business/media/trump-media-investors-lost-22-billion-rcna607849"
     },
     {
-      "source": "Retail Dive",
+      "source": "CNA",
       "time": "just now",
-      "headline": "Hydro Flask owner rejects \u2018opportunistic\u2019 takeover proposal",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/"
+      "headline": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.channelnewsasia.com/business/trump-administration-scraps-meeting-panel-includes-metas-zuckerberg-nvidias-huang-6531661"
     }
   ],
   "tracked": [
     {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 202.06,
-      "now": 187.59,
-      "days": 3
-    },
-    {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 60.0394,
-      "now": 56.52,
-      "days": 2
+      "now": 56.28,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.915,
-      "now": 3.97,
-      "days": 2
+      "now": 3.99,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.86,
-      "now": 56.52,
-      "days": 1
+      "now": 56.28,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 155.4554,
-      "now": 161.07,
-      "days": 0
+      "now": 160.38,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 53.86,
-      "now": 56.52,
-      "days": 0
+      "now": 56.28,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.0793,
-      "now": 3.97,
-      "days": 0
+      "now": 3.99,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.52,
-      "now": 56.52,
+      "now": 56.28,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 187.59,
-      "now": 187.59,
+      "now": 186.64,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 56.28,
+      "now": 56.28,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 3.99,
+      "now": 3.99,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 186.64,
+      "now": 186.64,
       "days": 0
     }
   ]

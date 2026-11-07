@@ -1,16 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-02T22:16:22.238648",
-      "price_at_detection": 202.06,
-      "headline": "Trump backs Nvidia CEO Jensen Huang after report of Chinese spy plot",
-      "url": "https://cryptobriefing.com/trump-backs-nvidia-ceo-huang-china-spy-report/",
-      "source": "Crypto Briefing",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-11-03T20:01:50.346532",
@@ -118,6 +108,36 @@
       "headline": "Hydro Flask owner rejects \u2018opportunistic\u2019 takeover proposal",
       "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
       "source": "Retail Dive",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-07T17:59:29.926087",
+      "price_at_detection": 56.28,
+      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
+      "url": "https://www.trumpstruth.org/statuses/43495",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-07T17:59:30.044047",
+      "price_at_detection": 3.99,
+      "headline": "Trump Media investors lost $2.2 billion",
+      "url": "https://www.nbcnews.com/business/media/trump-media-investors-lost-22-billion-rcna607849",
+      "source": "NBC News",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-07T17:59:30.182416",
+      "price_at_detection": 186.64,
+      "headline": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
+      "url": "https://www.channelnewsasia.com/business/trump-administration-scraps-meeting-panel-includes-metas-zuckerberg-nvidias-huang-6531661",
+      "source": "CNA",
       "direct": false
     }
   ]
