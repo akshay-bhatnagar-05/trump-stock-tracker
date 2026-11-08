@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:59:30.443063",
+  "generatedAt": "2026-11-08T18:18:02.481508",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,91 +12,91 @@
   ],
   "indirectMentions": [
     {
-      "source": "NBC News",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Trump Media investors lost $2.2 billion",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://www.nbcnews.com/business/media/trump-media-investors-lost-22-billion-rcna607849"
-    },
-    {
-      "source": "CNA",
-      "time": "just now",
-      "headline": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
+      "headline": "Singapore confirms a probe into Megaspeed but denies investigating Alice Huang over spy claims; how is Nvidia CEO Jensen Huang linked to the controversy?",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.channelnewsasia.com/business/trump-administration-scraps-meeting-panel-includes-metas-zuckerberg-nvidias-huang-6531661"
+      "url": "https://economictimes.indiatimes.com/news/international/us/singapore-confirms-a-probe-into-megaspeed-but-denies-investigating-alice-huang-over-spy-claims-how-is-nvidia-ceo-jensen-huang-linked-to-the-controversy/articleshow/135640591.cms"
+    },
+    {
+      "source": "Abcnews.com",
+      "time": "just now",
+      "headline": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 60.0394,
-      "now": 56.28,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 5.915,
-      "now": 3.99,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 57.86,
       "now": 56.28,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 155.4554,
       "now": 160.38,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 53.86,
       "now": 56.28,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.0793,
       "now": 3.99,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.52,
       "now": 56.28,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 187.59,
       "now": 186.64,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.28,
       "now": 56.28,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 3.99,
       "now": 3.99,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 186.64,
+      "now": 186.64,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 56.28,
+      "now": 56.28,
       "days": 0
     },
     {

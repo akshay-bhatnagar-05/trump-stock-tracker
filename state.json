@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-03T20:01:50.346532",
-      "price_at_detection": 60.0394,
-      "headline": "Intel Stock Is Cratering After Trump Poured Taxpayer Money Into the Chipmaker",
-      "url": "https://futurism.com/artificial-intelligence/intel-stock-cratering-trump-money",
-      "source": "Futurism",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-11-03T20:01:50.461169",
-      "price_at_detection": 5.915,
-      "headline": "Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3%",
-      "url": "https://biztoc.com/x/9bfd18002d274bb4",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
       "keyword": "tariff",
       "ticker": null,
       "date_detected": "2026-11-04T20:23:16.192900",
@@ -138,6 +118,36 @@
       "headline": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
       "url": "https://www.channelnewsasia.com/business/trump-administration-scraps-meeting-panel-includes-metas-zuckerberg-nvidias-huang-6531661",
       "source": "CNA",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-08T18:18:01.681934",
+      "price_at_detection": 56.28,
+      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
+      "url": "https://www.trumpstruth.org/statuses/43495",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-08T18:18:01.881318",
+      "price_at_detection": 186.64,
+      "headline": "Singapore confirms a probe into Megaspeed but denies investigating Alice Huang over spy claims; how is Nvidia CEO Jensen Huang linked to the controversy?",
+      "url": "https://economictimes.indiatimes.com/news/international/us/singapore-confirms-a-probe-into-megaspeed-but-denies-investigating-alice-huang-over-spy-claims-how-is-nvidia-ceo-jensen-huang-linked-to-the-controversy/articleshow/135640591.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-08T18:18:01.881341",
+      "price_at_detection": null,
+      "headline": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+      "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+      "source": "Abcnews.com",
       "direct": false
     }
   ]
