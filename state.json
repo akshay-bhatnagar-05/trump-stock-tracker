@@ -1,66 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-04T20:23:16.192900",
-      "price_at_detection": null,
-      "headline": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms",
-      "source": "Al Jazeera English",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-04T20:23:16.511452",
-      "price_at_detection": 57.86,
-      "headline": "VIPS MEMO: Iran Is Not Bluffing",
-      "url": "https://www.antiwar.com/blog/2026/11/03/vips-memo-iran-is-not-bluffing/",
-      "source": "Antiwar.com",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-05T20:34:20.303100",
-      "price_at_detection": null,
-      "headline": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
-      "url": "https://www.livemint.com/companies/fitlab-blames-bankruptcy-on-loss-of-nike-partnership-trump-tariffs-11793823195163.html",
-      "source": "Livemint",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-11-05T20:34:20.591675",
-      "price_at_detection": 155.4554,
-      "headline": "Palantir CEO says it's pioneering an antiwar movement \u2013 while happily accepting defense dollars",
-      "url": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
-      "source": "Theregister.com",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-05T20:34:20.712333",
-      "price_at_detection": 53.86,
-      "headline": "Democratic Sweep Could Slow AI Build Out",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/democratic-sweep-could-slow-ai-build-out/",
-      "source": "pymnts.com",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-11-05T20:34:20.796899",
-      "price_at_detection": 4.0793,
-      "headline": "Trump Media stock plunges 12% after Democrats sweep Congress",
-      "url": "https://biztoc.com/x/ef266e35ba9745fa",
-      "source": "Biztoc.com",
-      "direct": false
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-11-06T19:55:13.244136",
@@ -148,6 +88,26 @@
       "headline": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
       "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
       "source": "Abcnews.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-09T22:56:49.829440",
+      "price_at_detection": 59.37,
+      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
+      "url": "https://www.trumpstruth.org/statuses/43495",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-09T22:56:49.944080",
+      "price_at_detection": 178.67,
+      "headline": "Nvidia Board launches probe into alleged spy plot after CEO admits affair",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-board-launches-probe-into-alleged-spy-plot-after-ceo-admits-affair/article71681234.ece",
+      "source": "BusinessLine",
       "direct": false
     }
   ]

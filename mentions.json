@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:18:02.481508",
+  "generatedAt": "2026-11-09T22:56:50.167313",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,98 +12,76 @@
   ],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "BusinessLine",
       "time": "just now",
-      "headline": "Singapore confirms a probe into Megaspeed but denies investigating Alice Huang over spy claims; how is Nvidia CEO Jensen Huang linked to the controversy?",
+      "headline": "Nvidia Board launches probe into alleged spy plot after CEO admits affair",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://economictimes.indiatimes.com/news/international/us/singapore-confirms-a-probe-into-megaspeed-but-denies-investigating-alice-huang-over-spy-claims-how-is-nvidia-ceo-jensen-huang-linked-to-the-controversy/articleshow/135640591.cms"
-    },
-    {
-      "source": "Abcnews.com",
-      "time": "just now",
-      "headline": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660"
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-board-launches-probe-into-alleged-spy-plot-after-ceo-admits-affair/article71681234.ece"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 57.86,
-      "now": 56.28,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 155.4554,
-      "now": 160.38,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 53.86,
-      "now": 56.28,
-      "days": 2
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 4.0793,
-      "now": 3.99,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 56.52,
-      "now": 56.28,
-      "days": 1
+      "now": 59.37,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 187.59,
-      "now": 186.64,
-      "days": 1
+      "now": 178.67,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.28,
-      "now": 56.28,
-      "days": 1
+      "now": 59.37,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 3.99,
-      "now": 3.99,
-      "days": 1
+      "now": 4.06,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 186.64,
-      "now": 186.64,
-      "days": 1
+      "now": 178.67,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.28,
-      "now": 56.28,
-      "days": 0
+      "now": 59.37,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 186.64,
-      "now": 186.64,
+      "now": 178.67,
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 59.37,
+      "now": 59.37,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 178.67,
+      "now": 178.67,
       "days": 0
     }
   ]
