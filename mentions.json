@@ -1,87 +1,110 @@
 {
-  "generatedAt": "2026-11-09T22:56:50.167313",
+  "generatedAt": "2026-11-10T20:24:20.322169",
   "directMentions": [
     {
       "source": "truth_social",
       "time": "just now",
-      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
+      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/43495"
+      "url": "https://www.trumpstruth.org/statuses/43545"
     }
   ],
   "indirectMentions": [
     {
-      "source": "BusinessLine",
+      "source": "Fortune",
       "time": "just now",
-      "headline": "Nvidia Board launches probe into alleged spy plot after CEO admits affair",
+      "headline": "Before news broke of his affair with a suspected Chinese spy, Nvidia\u2019s Huang told Fortune his company \u201ccould be of great service\u201d to China",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-board-launches-probe-into-alleged-spy-plot-after-ceo-admits-affair/article71681234.ece"
+      "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/"
+    },
+    {
+      "source": "The Daily Caller",
+      "time": "just now",
+      "headline": "Trump Admin Hits Indian Solar Panels With Tariffs Topping 100 Percent",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://dailycaller.com/2026/11/09/trump-tariffs-solar-panels-india-indonesia-laos-commerce-department"
+    },
+    {
+      "source": "The Daily Caller",
+      "time": "just now",
+      "headline": "Palantir, Accused Of Aiding Mass Surveillance, Hires Democrat Who Fought Patriot Act",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://dailycaller.com/2026/11/09/palantir-jon-tester-mass-surveillance-patriot-act"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 56.52,
-      "now": 59.37,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 187.59,
-      "now": 178.67,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 56.28,
-      "now": 59.37,
-      "days": 2
+      "now": 57.99,
+      "days": 3
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 3.99,
-      "now": 4.06,
-      "days": 2
+      "now": 4.215,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 186.64,
-      "now": 178.67,
-      "days": 2
+      "now": 168.355,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.28,
-      "now": 59.37,
-      "days": 1
+      "now": 57.99,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 186.64,
-      "now": 178.67,
-      "days": 1
+      "now": 168.355,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.37,
-      "now": 59.37,
+      "now": 57.99,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 178.67,
-      "now": 178.67,
+      "now": 168.355,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 57.99,
+      "now": 57.99,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 168.355,
+      "now": 168.355,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 167.0616,
+      "now": 167.0616,
       "days": 0
     }
   ]
