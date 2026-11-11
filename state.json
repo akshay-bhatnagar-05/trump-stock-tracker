@@ -3,36 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-11-07T17:59:29.926087",
-      "price_at_detection": 56.28,
-      "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
-      "url": "https://www.trumpstruth.org/statuses/43495",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-11-07T17:59:30.044047",
-      "price_at_detection": 3.99,
-      "headline": "Trump Media investors lost $2.2 billion",
-      "url": "https://www.nbcnews.com/business/media/trump-media-investors-lost-22-billion-rcna607849",
-      "source": "NBC News",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-07T17:59:30.182416",
-      "price_at_detection": 186.64,
-      "headline": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
-      "url": "https://www.channelnewsasia.com/business/trump-administration-scraps-meeting-panel-includes-metas-zuckerberg-nvidias-huang-6531661",
-      "source": "CNA",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-11-08T18:18:01.681934",
       "price_at_detection": 56.28,
       "headline": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say \u201cNO\u201d to the riches they bring! President DJT",
@@ -118,6 +88,56 @@
       "headline": "Palantir, Accused Of Aiding Mass Surveillance, Hires Democrat Who Fought Patriot Act",
       "url": "https://dailycaller.com/2026/11/09/palantir-jon-tester-mass-surveillance-patriot-act",
       "source": "The Daily Caller",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-11T20:07:04.292766",
+      "price_at_detection": 62.6099,
+      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43545",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-11T20:07:04.442491",
+      "price_at_detection": 175.0401,
+      "headline": "What Jensen Huang\u2019s Affair Means for Nvidia",
+      "url": "https://www.newyorker.com/news/the-lede/what-jensen-huangs-affair-means-for-nvidia",
+      "source": "The New Yorker",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-11T20:07:04.561929",
+      "price_at_detection": 5.3299,
+      "headline": "Trump Media Filings Show How Much He Makes From Selling His Posts",
+      "url": "https://newrepublic.com/post/217842/donald-trump-media-filings-how-much-makes-selling-posts",
+      "source": "The New Republic",
+      "direct": false
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-11-11T20:07:04.675947",
+      "price_at_detection": 172.99,
+      "headline": "Trump taps Palantir security chief to run battered US cyber defense agency",
+      "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+      "source": "Theregister.com",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-11T20:07:04.675982",
+      "price_at_detection": null,
+      "headline": "Nikon CEO: concentrating on next-gen image-processing engine, video+RED synergy, got almost all US tariffs back",
+      "url": "https://nikonrumors.com/2026/11/10/nikon-ceo-concentrating-on-next-gen-image-processing-engine-videored-synergy-got-almost-all-us-tariffs-back.aspx/",
+      "source": "Nikonrumors.com",
       "direct": false
     }
   ]

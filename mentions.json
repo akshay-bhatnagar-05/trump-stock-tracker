@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:24:20.322169",
+  "generatedAt": "2026-11-11T20:07:04.813897",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,28 +12,36 @@
   ],
   "indirectMentions": [
     {
-      "source": "Fortune",
+      "source": "The New Yorker",
       "time": "just now",
-      "headline": "Before news broke of his affair with a suspected Chinese spy, Nvidia\u2019s Huang told Fortune his company \u201ccould be of great service\u201d to China",
+      "headline": "What Jensen Huang\u2019s Affair Means for Nvidia",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/"
+      "url": "https://www.newyorker.com/news/the-lede/what-jensen-huangs-affair-means-for-nvidia"
     },
     {
-      "source": "The Daily Caller",
+      "source": "The New Republic",
       "time": "just now",
-      "headline": "Trump Admin Hits Indian Solar Panels With Tariffs Topping 100 Percent",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://dailycaller.com/2026/11/09/trump-tariffs-solar-panels-india-indonesia-laos-commerce-department"
+      "headline": "Trump Media Filings Show How Much He Makes From Selling His Posts",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://newrepublic.com/post/217842/donald-trump-media-filings-how-much-makes-selling-posts"
     },
     {
-      "source": "The Daily Caller",
+      "source": "Theregister.com",
       "time": "just now",
-      "headline": "Palantir, Accused Of Aiding Mass Surveillance, Hires Democrat Who Fought Patriot Act",
+      "headline": "Trump taps Palantir security chief to run battered US cyber defense agency",
       "ticker": "PLTR",
       "keyword": "palantir",
-      "url": "https://dailycaller.com/2026/11/09/palantir-jon-tester-mass-surveillance-patriot-act"
+      "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763"
+    },
+    {
+      "source": "Nikonrumors.com",
+      "time": "just now",
+      "headline": "Nikon CEO: concentrating on next-gen image-processing engine, video+RED synergy, got almost all US tariffs back",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://nikonrumors.com/2026/11/10/nikon-ceo-concentrating-on-next-gen-image-processing-engine-videored-synergy-got-almost-all-us-tariffs-back.aspx/"
     }
   ],
   "tracked": [
@@ -41,70 +49,77 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 56.28,
-      "now": 57.99,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 3.99,
-      "now": 4.215,
+      "now": 62.6099,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 186.64,
-      "now": 168.355,
+      "now": 175.0401,
       "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 56.28,
-      "now": 57.99,
-      "days": 2
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 186.64,
-      "now": 168.355,
-      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.37,
-      "now": 57.99,
-      "days": 0
+      "now": 62.6099,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 178.67,
-      "now": 168.355,
-      "days": 0
+      "now": 175.0401,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.99,
-      "now": 57.99,
+      "now": 62.6099,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 168.355,
-      "now": 168.355,
+      "now": 175.0401,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.0616,
-      "now": 167.0616,
+      "now": 172.99,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 62.6099,
+      "now": 62.6099,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 175.0401,
+      "now": 175.0401,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 5.3299,
+      "now": 5.3299,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 172.99,
+      "now": 172.99,
       "days": 0
     }
   ]
