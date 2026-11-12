@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-11T20:07:04.813897",
+  "generatedAt": "2026-11-12T20:44:05.663907",
   "directMentions": [
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "url": "https://www.trumpstruth.org/statuses/43560"
+    },
+    {
+      "source": "truth_social",
+      "time": "just now",
+      "headline": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don\u2019t want - \u201cSend them to America,\u201d they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "ticker": null,
+      "keyword": "tariff",
+      "url": "https://www.trumpstruth.org/statuses/43556"
+    },
     {
       "source": "truth_social",
       "time": "just now",
@@ -12,114 +28,127 @@
   ],
   "indirectMentions": [
     {
-      "source": "The New Yorker",
+      "source": "Livemint",
       "time": "just now",
-      "headline": "What Jensen Huang\u2019s Affair Means for Nvidia",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://www.newyorker.com/news/the-lede/what-jensen-huangs-affair-means-for-nvidia"
+      "headline": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
+      "ticker": "LAC",
+      "keyword": "lithium americas",
+      "url": "https://www.livemint.com/companies/usbacked-lithium-americas-hit-by-rising-costs-on-trump-tariffs-11794422211711.html"
     },
     {
-      "source": "The New Republic",
+      "source": "The Times of India",
       "time": "just now",
-      "headline": "Trump Media Filings Show How Much He Makes From Selling His Posts",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://newrepublic.com/post/217842/donald-trump-media-filings-how-much-makes-selling-posts"
-    },
-    {
-      "source": "Theregister.com",
-      "time": "just now",
-      "headline": "Trump taps Palantir security chief to run battered US cyber defense agency",
+      "headline": "Palantir\u2019s software powers Trump\u2019s immigration operations, now CEO Alex Karp says crackdown went too far",
       "ticker": "PLTR",
       "keyword": "palantir",
-      "url": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763"
+      "url": "https://economictimes.indiatimes.com/news/international/us/palantir-pltr-software-powers-trumps-immigration-operations-now-ceo-alex-karp-says-crackdown-went-too-far/articleshow/135744468.cms"
     },
     {
-      "source": "Nikonrumors.com",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Nikon CEO: concentrating on next-gen image-processing engine, video+RED synergy, got almost all US tariffs back",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://nikonrumors.com/2026/11/10/nikon-ceo-concentrating-on-next-gen-image-processing-engine-videored-synergy-got-almost-all-us-tariffs-back.aspx/"
+      "headline": "Rumble Rises 6% After Third-Quarter Revenue Beat; Trump Media Jumps 9%, Meta Stays Flat",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/f222f4cf15c20950"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 56.28,
-      "now": 62.6099,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 186.64,
-      "now": 175.0401,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 59.37,
-      "now": 62.6099,
-      "days": 1
+      "now": 61.48,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 178.67,
-      "now": 175.0401,
-      "days": 1
+      "now": 164.4501,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.99,
-      "now": 62.6099,
-      "days": 0
+      "now": 61.48,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 168.355,
-      "now": 175.0401,
-      "days": 0
+      "now": 164.4501,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.0616,
-      "now": 172.99,
-      "days": 0
+      "now": 171.37,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 62.6099,
-      "now": 62.6099,
-      "days": 0
+      "now": 61.48,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 175.0401,
-      "now": 175.0401,
-      "days": 0
+      "now": 164.4501,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.3299,
-      "now": 5.3299,
-      "days": 0
+      "now": 4.99,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.99,
-      "now": 172.99,
+      "now": 171.37,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 164.4501,
+      "now": 164.4501,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 61.48,
+      "now": 61.48,
+      "days": 0
+    },
+    {
+      "ticker": "LAC",
+      "keyword": "lithium americas",
+      "at": 1.63,
+      "now": 1.63,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 171.37,
+      "now": 171.37,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 4.99,
+      "now": 4.99,
       "days": 0
     }
   ]
