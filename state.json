@@ -169,6 +169,46 @@
       "url": "https://biztoc.com/x/f222f4cf15c20950",
       "source": "Biztoc.com",
       "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-13T20:26:21.901106",
+      "price_at_detection": 162.48,
+      "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43560",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-13T20:26:21.901183",
+      "price_at_detection": null,
+      "headline": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don\u2019t want - \u201cSend them to America,\u201d they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43556",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-13T20:26:22.079616",
+      "price_at_detection": 59.47,
+      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43545",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "palantir",
+      "ticker": "PLTR",
+      "date_detected": "2026-11-13T20:26:22.197013",
+      "price_at_detection": 168.59,
+      "headline": "Alex Karp Says Palantir Is \u201cProgressive\u201d Now, Months After Fascist Manifesto",
+      "url": "https://truthout.org/articles/alex-karp-says-palantir-is-progressive-now-months-after-fascist-manifesto/",
+      "source": "Truthout",
+      "direct": false
     }
   ]
 }

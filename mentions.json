@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:44:05.663907",
+  "generatedAt": "2026-11-13T20:26:22.785716",
   "directMentions": [
     {
       "source": "truth_social",
@@ -28,28 +28,12 @@
   ],
   "indirectMentions": [
     {
-      "source": "Livemint",
+      "source": "Truthout",
       "time": "just now",
-      "headline": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
-      "ticker": "LAC",
-      "keyword": "lithium americas",
-      "url": "https://www.livemint.com/companies/usbacked-lithium-americas-hit-by-rising-costs-on-trump-tariffs-11794422211711.html"
-    },
-    {
-      "source": "The Times of India",
-      "time": "just now",
-      "headline": "Palantir\u2019s software powers Trump\u2019s immigration operations, now CEO Alex Karp says crackdown went too far",
+      "headline": "Alex Karp Says Palantir Is \u201cProgressive\u201d Now, Months After Fascist Manifesto",
       "ticker": "PLTR",
       "keyword": "palantir",
-      "url": "https://economictimes.indiatimes.com/news/international/us/palantir-pltr-software-powers-trumps-immigration-operations-now-ceo-alex-karp-says-crackdown-went-too-far/articleshow/135744468.cms"
-    },
-    {
-      "source": "Biztoc.com",
-      "time": "just now",
-      "headline": "Rumble Rises 6% After Third-Quarter Revenue Beat; Trump Media Jumps 9%, Meta Stays Flat",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://biztoc.com/x/f222f4cf15c20950"
+      "url": "https://truthout.org/articles/alex-karp-says-palantir-is-progressive-now-months-after-fascist-manifesto/"
     }
   ],
   "tracked": [
@@ -57,98 +41,119 @@
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.37,
-      "now": 61.48,
-      "days": 2
+      "now": 59.47,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 178.67,
-      "now": 164.4501,
-      "days": 2
+      "now": 162.48,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 57.99,
-      "now": 61.48,
-      "days": 2
+      "now": 59.47,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 168.355,
-      "now": 164.4501,
-      "days": 2
+      "now": 162.48,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.0616,
-      "now": 171.37,
-      "days": 2
+      "now": 168.59,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 62.6099,
-      "now": 61.48,
-      "days": 1
+      "now": 59.47,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 175.0401,
-      "now": 164.4501,
-      "days": 1
+      "now": 162.48,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.3299,
-      "now": 4.99,
-      "days": 1
+      "now": 4.715,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.99,
-      "now": 171.37,
-      "days": 1
+      "now": 168.59,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 164.4501,
-      "now": 164.4501,
+      "now": 162.48,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 61.48,
-      "now": 61.48,
+      "now": 59.47,
       "days": 0
     },
     {
       "ticker": "LAC",
       "keyword": "lithium americas",
       "at": 1.63,
-      "now": 1.63,
+      "now": 1.505,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 171.37,
-      "now": 171.37,
+      "now": 168.59,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.99,
-      "now": 4.99,
+      "now": 4.715,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 162.48,
+      "now": 162.48,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 59.47,
+      "now": 59.47,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 168.59,
+      "now": 168.59,
       "days": 0
     }
   ]
