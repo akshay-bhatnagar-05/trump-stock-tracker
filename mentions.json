@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T20:26:22.785716",
+  "generatedAt": "2026-11-14T18:42:02.079342",
   "directMentions": [
     {
       "source": "truth_social",
@@ -28,132 +28,139 @@
   ],
   "indirectMentions": [
     {
-      "source": "Truthout",
+      "source": "Futurism",
       "time": "just now",
-      "headline": "Alex Karp Says Palantir Is \u201cProgressive\u201d Now, Months After Fascist Manifesto",
+      "headline": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
       "ticker": "PLTR",
       "keyword": "palantir",
-      "url": "https://truthout.org/articles/alex-karp-says-palantir-is-progressive-now-months-after-fascist-manifesto/"
+      "url": "https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance"
     }
   ],
   "tracked": [
     {
       "ticker": "INTC",
       "keyword": "intel",
-      "at": 59.37,
-      "now": 59.47,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 178.67,
-      "now": 162.48,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
       "at": 57.99,
-      "now": 59.47,
+      "now": 59.66,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 168.355,
-      "now": 162.48,
+      "now": 162.85,
       "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.0616,
-      "now": 168.59,
+      "now": 167.99,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 62.6099,
-      "now": 59.47,
+      "now": 59.66,
       "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 175.0401,
-      "now": 162.48,
+      "now": 162.85,
       "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 5.3299,
-      "now": 4.715,
+      "now": 4.64,
       "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 172.99,
-      "now": 168.59,
+      "now": 167.99,
       "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 164.4501,
-      "now": 162.48,
-      "days": 0
+      "now": 162.85,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 61.48,
-      "now": 59.47,
-      "days": 0
+      "now": 59.66,
+      "days": 1
     },
     {
       "ticker": "LAC",
       "keyword": "lithium americas",
       "at": 1.63,
-      "now": 1.505,
-      "days": 0
+      "now": 1.49,
+      "days": 1
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 171.37,
-      "now": 168.59,
-      "days": 0
+      "now": 167.99,
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.99,
-      "now": 4.715,
-      "days": 0
+      "now": 4.64,
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 162.48,
-      "now": 162.48,
+      "now": 162.85,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.47,
-      "now": 59.47,
+      "now": 59.66,
       "days": 0
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 168.59,
-      "now": 168.59,
+      "now": 167.99,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 162.85,
+      "now": 162.85,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 59.66,
+      "now": 59.66,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 167.99,
+      "now": 167.99,
       "days": 0
     }
   ]
