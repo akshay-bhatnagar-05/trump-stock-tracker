@@ -3,46 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-11-10T20:24:19.855190",
-      "price_at_detection": 57.99,
-      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43545",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-10T20:24:19.977902",
-      "price_at_detection": 168.355,
-      "headline": "Before news broke of his affair with a suspected Chinese spy, Nvidia\u2019s Huang told Fortune his company \u201ccould be of great service\u201d to China",
-      "url": "https://fortune.com/2026/11/09/jensen-huang-nvidia-china-affair-alice-huang-suspected-chinese-spy/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-10T20:24:19.977965",
-      "price_at_detection": null,
-      "headline": "Trump Admin Hits Indian Solar Panels With Tariffs Topping 100 Percent",
-      "url": "https://dailycaller.com/2026/11/09/trump-tariffs-solar-panels-india-indonesia-laos-commerce-department",
-      "source": "The Daily Caller",
-      "direct": false
-    },
-    {
-      "keyword": "palantir",
-      "ticker": "PLTR",
-      "date_detected": "2026-11-10T20:24:20.094533",
-      "price_at_detection": 167.0616,
-      "headline": "Palantir, Accused Of Aiding Mass Surveillance, Hires Democrat Who Fought Patriot Act",
-      "url": "https://dailycaller.com/2026/11/09/palantir-jon-tester-mass-surveillance-patriot-act",
-      "source": "The Daily Caller",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-11-11T20:07:04.292766",
       "price_at_detection": 62.6099,
       "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
@@ -229,6 +189,36 @@
       "url": "https://futurism.com/future-society/palantir-ceo-warns-mass-surveillance",
       "source": "Futurism",
       "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-15T19:19:04.964409",
+      "price_at_detection": 162.85,
+      "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43560",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-15T19:19:04.964480",
+      "price_at_detection": null,
+      "headline": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don\u2019t want - \u201cSend them to America,\u201d they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43556",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-15T19:19:05.135130",
+      "price_at_detection": 59.66,
+      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43545",
+      "source": "truth_social",
+      "direct": true
     }
   ]
 }
