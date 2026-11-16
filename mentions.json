@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:19:05.795167",
+  "generatedAt": "2026-11-16T22:50:07.993085",
   "directMentions": [
     {
       "source": "truth_social",
@@ -16,135 +16,71 @@
       "ticker": null,
       "keyword": "tariff",
       "url": "https://www.trumpstruth.org/statuses/43556"
-    },
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.trumpstruth.org/statuses/43545"
     }
   ],
   "indirectMentions": [],
   "tracked": [
     {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 62.6099,
-      "now": 59.66,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 175.0401,
-      "now": 162.85,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 5.3299,
-      "now": 4.64,
-      "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 172.99,
-      "now": 167.99,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 164.4501,
-      "now": 162.85,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 61.48,
-      "now": 59.66,
-      "days": 2
-    },
-    {
-      "ticker": "LAC",
-      "keyword": "lithium americas",
-      "at": 1.63,
-      "now": 1.49,
-      "days": 2
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 171.37,
-      "now": 167.99,
-      "days": 2
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 4.99,
-      "now": 4.64,
-      "days": 2
-    },
-    {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 162.48,
-      "now": 162.85,
-      "days": 1
+      "now": 156.14,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.47,
-      "now": 59.66,
-      "days": 1
+      "now": 55.47,
+      "days": 3
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 168.59,
-      "now": 167.99,
-      "days": 1
+      "now": 160.39,
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 162.85,
-      "now": 162.85,
-      "days": 1
+      "now": 156.14,
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.66,
-      "now": 59.66,
-      "days": 1
+      "now": 55.47,
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 167.99,
-      "now": 167.99,
-      "days": 1
+      "now": 160.39,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 162.85,
-      "now": 162.85,
-      "days": 0
+      "now": 156.14,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.66,
-      "now": 59.66,
+      "now": 55.47,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 156.14,
+      "now": 156.14,
       "days": 0
     }
   ]
