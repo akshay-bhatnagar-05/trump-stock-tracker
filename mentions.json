@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-17T21:39:33.199225",
+  "generatedAt": "2026-11-18T21:18:02.955532",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The New Republic",
+      "source": "The American Prospect",
       "time": "just now",
-      "headline": "California Sues AI Giant Over Rogue Bot Activity",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://newrepublic.com/post/218064/california-ag-rob-bonta-lawsuit-openai-rogue-bot-activity"
-    },
-    {
-      "source": "The Times of India",
-      "time": "just now",
-      "headline": "Dow sinks 700 pts, Nasdaq over 2% as Huang exit fuels tech rout ahead of Nvidia Q3 earnings",
+      "headline": "Impeach Howard Lutnick",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sinks-700-pts-nasdaq-over-2-as-huang-exit-fuels-tech-rout-ahead-of-nvidia-q3-earnings/articleshow/135902033.cms"
+      "url": "https://prospect.org/2026/11/17/impeach-howard-lutnick/"
     },
     {
-      "source": "Fortune",
+      "source": "Al Jazeera English",
       "time": "just now",
-      "headline": "\u2018We\u2019re having to overcome brand America\u2019: Kraft Heinz CEO says made-in-U.S.A. designation is more \u2018complicated\u2019 in appealing to Canadian customers",
+      "headline": "China, Canada expand tariff relief after Carney-Xi meeting",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://fortune.com/2026/11/16/kraft-heinz-ceo-brand-america-canadian-consumers-tariff-boycott/"
+      "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting"
     },
     {
-      "source": "HuffPost",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "Trump Media Faces Possible $1 Billion Debt Repayment As Stock Nears Record Lows",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://www.huffpost.com/entry/trump-media-billion-debt-repayment-truth-social_n_6afb6817e4b0b6f4a959a528"
+      "headline": "USA Rare Earth Drops 7% as Rare-Earth Selloff Extends Ahead of Trump-Xi Meeting; Critical Metals Slides 5%, MP Materials Falls 3%",
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "url": "https://biztoc.com/x/3e84f37a8bcda350"
+    },
+    {
+      "source": "Biztoc.com",
+      "time": "just now",
+      "headline": "USA Rare Earth Drops 7% as Rare-Earth Selloff Extends Ahead of Trump-Xi Meeting; Critical Metals Slides 5%, MP Materials Falls 3%",
+      "ticker": "USAR",
+      "keyword": "usa rare earth",
+      "url": "https://biztoc.com/x/3e84f37a8bcda350"
     }
   ],
   "tracked": [
@@ -40,63 +40,63 @@
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 162.85,
-      "now": 155.46,
+      "now": 150.96,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.66,
-      "now": 55.17,
+      "now": 54.67,
       "days": 3
-    },
-    {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 167.99,
-      "now": 156.56,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 162.85,
-      "now": 155.46,
-      "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 59.66,
-      "now": 55.17,
-      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 156.14,
-      "now": 155.46,
-      "days": 0
+      "now": 150.96,
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 55.17,
-      "now": 55.17,
+      "now": 54.67,
       "days": 0
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 155.46,
-      "now": 155.46,
+      "now": 150.96,
       "days": 0
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.055,
-      "now": 4.055,
+      "now": 4.05,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 150.96,
+      "now": 150.96,
+      "days": 0
+    },
+    {
+      "ticker": "MP",
+      "keyword": "mp materials",
+      "at": 35.95,
+      "now": 35.95,
+      "days": 0
+    },
+    {
+      "ticker": "USAR",
+      "keyword": "usa rare earth",
+      "at": 6.56,
+      "now": 6.56,
       "days": 0
     }
   ]
