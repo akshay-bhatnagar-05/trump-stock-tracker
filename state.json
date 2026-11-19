@@ -3,36 +3,6 @@
     {
       "keyword": "nvidia",
       "ticker": "NVDA",
-      "date_detected": "2026-11-15T19:19:04.964409",
-      "price_at_detection": 162.85,
-      "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43560",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-15T19:19:04.964480",
-      "price_at_detection": null,
-      "headline": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don\u2019t want - \u201cSend them to America,\u201d they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43556",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-15T19:19:05.135130",
-      "price_at_detection": 59.66,
-      "headline": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohio. A proud graduate of the University of Chicago Law School and Hillsdale College, Elliot clerked for some amazing Judges, including Justice Samuel Alito, Judge Neomi Rao of the D.C. Circuit, and Judge Edith Jones of the Fifth Circuit. Texas will appreciate having such a talented and intelligent Judge on their Federal Bench. Congratulations Elliot!\u00a0President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43545",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
       "date_detected": "2026-11-16T22:50:07.657939",
       "price_at_detection": 156.14,
       "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
@@ -128,6 +98,36 @@
       "headline": "USA Rare Earth Drops 7% as Rare-Earth Selloff Extends Ahead of Trump-Xi Meeting; Critical Metals Slides 5%, MP Materials Falls 3%",
       "url": "https://biztoc.com/x/3e84f37a8bcda350",
       "source": "Biztoc.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-19T21:20:18.543340",
+      "price_at_detection": 145.98,
+      "headline": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees; tells staff: Make sure that you feel good about this company and you do not worry about...",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms",
+      "source": "The Times of India",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-19T21:20:18.543421",
+      "price_at_detection": null,
+      "headline": "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
+      "url": "https://nypost.com/2026/11/18/business/fed-officials-expect-december-rate-hike-after-last-meeting-marked-by-dissension-minutes/",
+      "source": "New York Post",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-19T21:20:18.666767",
+      "price_at_detection": 55.72,
+      "headline": "U.S. and Venezuela agree to share military intelligence after Maduro's capture",
+      "url": "https://www.yahoo.com/news/world/articles/hegseth-venezuela-meet-interim-authorities-162255387.html",
+      "source": "Yahoo Entertainment",
       "direct": false
     }
   ]
