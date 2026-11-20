@@ -1,30 +1,46 @@
 {
-  "generatedAt": "2026-11-19T21:20:19.025762",
+  "generatedAt": "2026-11-20T20:59:45.463787",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "The Times of India",
+      "source": "Dailymail.com",
       "time": "just now",
-      "headline": "In her first all-hands meeting, Nvidia interim CEO Colette Kress promises salary hikes to 49,000 employees; tells staff: Make sure that you feel good about this company and you do not worry about...",
+      "headline": "Joy Reid demands ousted Nvidia boss, Elon Musk, and US-born Palantir CEO all be deported for 'corruption' after affair scandal",
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "url": "https://www.dailymail.com/media/article-16306627/joy-reid-deport-nvidia-boss-jensen-huang-ceo-affair.html"
+    },
+    {
+      "source": "Dailymail.com",
+      "time": "just now",
+      "headline": "Joy Reid demands ousted Nvidia boss, Elon Musk, and US-born Palantir CEO all be deported for 'corruption' after affair scandal",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-her-first-all-hands-meeting-nvidia-interim-ceo-colette-kress-promises-salary-hikes-to-49000-employees-tells-staff-make-sure-that-you-feel-good-about-this-company-and-you-do-not-worry-about-/articleshow/135971274.cms"
+      "url": "https://www.dailymail.com/media/article-16306627/joy-reid-deport-nvidia-boss-jensen-huang-ceo-affair.html"
     },
     {
-      "source": "New York Post",
+      "source": "CBC News",
       "time": "just now",
-      "headline": "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes",
+      "headline": "Canada seeking interim trade arrangement with U.S. by end of year: sources",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://nypost.com/2026/11/18/business/fed-officials-expect-december-rate-hike-after-last-meeting-marked-by-dissension-minutes/"
+      "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540"
     },
     {
-      "source": "Yahoo Entertainment",
+      "source": "Biztoc.com",
       "time": "just now",
-      "headline": "U.S. and Venezuela agree to share military intelligence after Maduro's capture",
+      "headline": "Trump Media Gains 3% Despite Market Wobble and Looming $883.5 Million Note Deadline; Rumble Falls 3%",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://biztoc.com/x/9098557630869c86"
+    },
+    {
+      "source": "The Conversation Africa",
+      "time": "just now",
+      "headline": "The US-China AI race is real \u2013 but Trump\u2019s recent moves on \u2018super intelligence\u2019 are unlikely to give America any advantage",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.yahoo.com/news/world/articles/hegseth-venezuela-meet-interim-authorities-162255387.html"
+      "url": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219"
     }
   ],
   "tracked": [
@@ -32,63 +48,91 @@
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 156.14,
-      "now": 145.98,
-      "days": 2
+      "now": 125.39,
+      "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 55.17,
-      "now": 55.72,
-      "days": 1
+      "now": 51.165,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 155.46,
-      "now": 145.98,
-      "days": 1
+      "now": 125.39,
+      "days": 2
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 4.055,
-      "now": 4.09,
-      "days": 1
+      "now": 3.72,
+      "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 150.96,
-      "now": 145.98,
+      "now": 125.39,
       "days": 1
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 35.95,
-      "now": 36.66,
+      "now": 33.82,
       "days": 1
     },
     {
       "ticker": "USAR",
       "keyword": "usa rare earth",
       "at": 6.56,
-      "now": 6.87,
+      "now": 6.225,
       "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 145.98,
-      "now": 145.98,
+      "now": 125.39,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 55.72,
-      "now": 55.72,
+      "now": 51.165,
+      "days": 0
+    },
+    {
+      "ticker": "PLTR",
+      "keyword": "palantir",
+      "at": 143.06,
+      "now": 143.06,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 125.39,
+      "now": 125.39,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 3.72,
+      "now": 3.72,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 51.165,
+      "now": 51.165,
       "days": 0
     }
   ]
