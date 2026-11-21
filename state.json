@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-16T22:50:07.657939",
-      "price_at_detection": 156.14,
-      "headline": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43560",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-16T22:50:07.658014",
-      "price_at_detection": null,
-      "headline": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don\u2019t want - \u201cSend them to America,\u201d they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "url": "https://www.trumpstruth.org/statuses/43556",
-      "source": "truth_social",
-      "direct": true
-    },
-    {
       "keyword": "intel",
       "ticker": "INTC",
       "date_detected": "2026-11-17T21:39:32.255187",
@@ -178,6 +158,36 @@
       "headline": "The US-China AI race is real \u2013 but Trump\u2019s recent moves on \u2018super intelligence\u2019 are unlikely to give America any advantage",
       "url": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219",
       "source": "The Conversation Africa",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-21T20:00:29.692196",
+      "price_at_detection": 51.28,
+      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-21T20:00:29.829280",
+      "price_at_detection": 125.53,
+      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-21T20:00:29.829309",
+      "price_at_detection": null,
+      "headline": "Ford reopens Canada auto plant, defying Trump tariffs",
+      "url": "https://www.digitaljournal.com/article/ford-reopens-canada-auto-plant-defying-trump-tariffs/",
+      "source": "Digital Journal",
       "direct": false
     }
   ]
