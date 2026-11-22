@@ -1,46 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-17T21:39:32.255187",
-      "price_at_detection": 55.17,
-      "headline": "California Sues AI Giant Over Rogue Bot Activity",
-      "url": "https://newrepublic.com/post/218064/california-ag-rob-bonta-lawsuit-openai-rogue-bot-activity",
-      "source": "The New Republic",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-17T21:39:32.485544",
-      "price_at_detection": 155.46,
-      "headline": "Dow sinks 700 pts, Nasdaq over 2% as Huang exit fuels tech rout ahead of Nvidia Q3 earnings",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sinks-700-pts-nasdaq-over-2-as-huang-exit-fuels-tech-rout-ahead-of-nvidia-q3-earnings/articleshow/135902033.cms",
-      "source": "The Times of India",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-17T21:39:32.485575",
-      "price_at_detection": null,
-      "headline": "\u2018We\u2019re having to overcome brand America\u2019: Kraft Heinz CEO says made-in-U.S.A. designation is more \u2018complicated\u2019 in appealing to Canadian customers",
-      "url": "https://fortune.com/2026/11/16/kraft-heinz-ceo-brand-america-canadian-consumers-tariff-boycott/",
-      "source": "Fortune",
-      "direct": false
-    },
-    {
-      "keyword": "trump media",
-      "ticker": "DJT",
-      "date_detected": "2026-11-17T21:39:32.700901",
-      "price_at_detection": 4.055,
-      "headline": "Trump Media Faces Possible $1 Billion Debt Repayment As Stock Nears Record Lows",
-      "url": "https://www.huffpost.com/entry/trump-media-billion-debt-repayment-truth-social_n_6afb6817e4b0b6f4a959a528",
-      "source": "HuffPost",
-      "direct": false
-    },
-    {
       "keyword": "nvidia",
       "ticker": "NVDA",
       "date_detected": "2026-11-18T21:18:02.252348",
@@ -188,6 +148,26 @@
       "headline": "Ford reopens Canada auto plant, defying Trump tariffs",
       "url": "https://www.digitaljournal.com/article/ford-reopens-canada-auto-plant-defying-trump-tariffs/",
       "source": "Digital Journal",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-22T20:16:42.165683",
+      "price_at_detection": 51.28,
+      "headline": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
+      "url": "https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302",
+      "source": "CBC News",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-22T20:16:42.258329",
+      "price_at_detection": 125.53,
+      "headline": "Trump Did Not Ask Chinese A Single Question About Jensen Huang",
+      "url": "https://crooksandliars.com/2026/11/trump-did-not-ask-chinese-single-question",
+      "source": "Crooksandliars.com",
       "direct": false
     }
   ]

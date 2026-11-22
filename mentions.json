@@ -1,116 +1,101 @@
 {
-  "generatedAt": "2026-11-21T20:00:30.451348",
+  "generatedAt": "2026-11-22T20:16:42.723648",
   "directMentions": [],
   "indirectMentions": [
     {
-      "source": "Wired",
+      "source": "CBC News",
       "time": "just now",
-      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+      "headline": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
       "ticker": "INTC",
       "keyword": "intel",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+      "url": "https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302"
     },
     {
-      "source": "Wired",
+      "source": "Crooksandliars.com",
       "time": "just now",
-      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+      "headline": "Trump Did Not Ask Chinese A Single Question About Jensen Huang",
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
-    },
-    {
-      "source": "Digital Journal",
-      "time": "just now",
-      "headline": "Ford reopens Canada auto plant, defying Trump tariffs",
-      "ticker": null,
-      "keyword": "tariff",
-      "url": "https://www.digitaljournal.com/article/ford-reopens-canada-auto-plant-defying-trump-tariffs/"
+      "url": "https://crooksandliars.com/2026/11/trump-did-not-ask-chinese-single-question"
     }
   ],
   "tracked": [
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 55.17,
-      "now": 51.28,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 155.46,
-      "now": 125.53,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 4.055,
-      "now": 3.73,
-      "days": 3
-    },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 150.96,
       "now": 125.53,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "MP",
       "keyword": "mp materials",
       "at": 35.95,
       "now": 33.95,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "USAR",
       "keyword": "usa rare earth",
       "at": 6.56,
       "now": 6.27,
-      "days": 2
+      "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 145.98,
       "now": 125.53,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 55.72,
       "now": 51.28,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "PLTR",
       "keyword": "palantir",
       "at": 143.06,
       "now": 143.49,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 125.39,
       "now": 125.53,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "DJT",
       "keyword": "trump media",
       "at": 3.72,
       "now": 3.73,
-      "days": 0
+      "days": 1
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 51.165,
       "now": 51.28,
-      "days": 0
+      "days": 1
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 51.28,
+      "now": 51.28,
+      "days": 1
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 125.53,
+      "now": 125.53,
+      "days": 1
     },
     {
       "ticker": "INTC",
