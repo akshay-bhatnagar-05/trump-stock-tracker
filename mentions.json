@@ -1,94 +1,48 @@
 {
-  "generatedAt": "2026-11-24T00:42:44.985180",
-  "directMentions": [
-    {
-      "source": "truth_social",
-      "time": "just now",
-      "headline": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "url": "https://www.trumpstruth.org/statuses/43715"
-    }
-  ],
-  "indirectMentions": [
-    {
-      "source": "Newsonjapan.com",
-      "time": "just now",
-      "headline": "Is the AI Stock Market Boom Coming to an End?",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://newsonjapan.com/article/151486.php"
-    }
-  ],
+  "generatedAt": "2026-11-24T22:58:19.729453",
+  "directMentions": [],
+  "indirectMentions": [],
   "tracked": [
     {
-      "ticker": "PLTR",
-      "keyword": "palantir",
-      "at": 143.06,
-      "now": 159.36,
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 51.28,
+      "now": 54.8,
       "days": 3
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
-      "at": 125.39,
-      "now": 165.05,
-      "days": 3
-    },
-    {
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "at": 3.72,
-      "now": 3.885,
-      "days": 3
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 51.165,
-      "now": 59.66,
+      "at": 125.53,
+      "now": 155.38,
       "days": 3
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 51.28,
-      "now": 59.66,
+      "now": 54.8,
       "days": 2
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 125.53,
-      "now": 165.05,
+      "now": 155.38,
       "days": 2
-    },
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 51.28,
-      "now": 59.66,
-      "days": 1
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 125.53,
-      "now": 165.05,
-      "days": 1
     },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 165.05,
-      "now": 165.05,
+      "now": 155.38,
       "days": 0
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.66,
-      "now": 59.66,
+      "now": 54.8,
       "days": 0
     }
   ]
