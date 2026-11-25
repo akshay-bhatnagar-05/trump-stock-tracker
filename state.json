@@ -3,36 +3,6 @@
     {
       "keyword": "intel",
       "ticker": "INTC",
-      "date_detected": "2026-11-21T20:00:29.692196",
-      "price_at_detection": 51.28,
-      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "source": "Wired",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-21T20:00:29.829280",
-      "price_at_detection": 125.53,
-      "headline": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "source": "Wired",
-      "direct": false
-    },
-    {
-      "keyword": "tariff",
-      "ticker": null,
-      "date_detected": "2026-11-21T20:00:29.829309",
-      "price_at_detection": null,
-      "headline": "Ford reopens Canada auto plant, defying Trump tariffs",
-      "url": "https://www.digitaljournal.com/article/ford-reopens-canada-auto-plant-defying-trump-tariffs/",
-      "source": "Digital Journal",
-      "direct": false
-    },
-    {
-      "keyword": "intel",
-      "ticker": "INTC",
       "date_detected": "2026-11-22T20:16:42.165683",
       "price_at_detection": 51.28,
       "headline": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
@@ -68,6 +38,56 @@
       "headline": "Is the AI Stock Market Boom Coming to an End?",
       "url": "https://newsonjapan.com/article/151486.php",
       "source": "Newsonjapan.com",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-25T22:21:33.723363",
+      "price_at_detection": 149.3,
+      "headline": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43715",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "critical minerals",
+      "ticker": null,
+      "date_detected": "2026-11-25T22:21:33.723571",
+      "price_at_detection": null,
+      "headline": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
+      "url": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
+      "source": "OilPrice.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-25T22:21:33.842071",
+      "price_at_detection": 54.47,
+      "headline": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
+      "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596",
+      "source": "CBC News",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-25T22:21:33.922147",
+      "price_at_detection": 3.65,
+      "headline": "Court goes after secret White House talks as Trump faces 'insider trading' claims",
+      "url": "https://www.rawstory.com/white-house-communications-trump/",
+      "source": "Raw Story",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-25T22:21:33.922162",
+      "price_at_detection": null,
+      "headline": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "source": "NPR",
       "direct": false
     }
   ]
