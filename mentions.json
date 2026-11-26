@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:21:34.052421",
+  "generatedAt": "2026-11-26T22:13:34.752395",
   "directMentions": [
     {
       "source": "truth_social",
@@ -12,66 +12,44 @@
   ],
   "indirectMentions": [
     {
-      "source": "OilPrice.com",
+      "source": "Wnd.com",
       "time": "just now",
-      "headline": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
-      "ticker": null,
-      "keyword": "critical minerals",
-      "url": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html"
-    },
-    {
-      "source": "CBC News",
-      "time": "just now",
-      "headline": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
-      "ticker": "INTC",
-      "keyword": "intel",
-      "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596"
-    },
-    {
-      "source": "Raw Story",
-      "time": "just now",
-      "headline": "Court goes after secret White House talks as Trump faces 'insider trading' claims",
-      "ticker": "DJT",
-      "keyword": "trump media",
-      "url": "https://www.rawstory.com/white-house-communications-trump/"
-    },
-    {
-      "source": "NPR",
-      "time": "just now",
-      "headline": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "headline": "WATCH: Trump confirms new tariff schedule authorized by 1974 law",
       "ticker": null,
       "keyword": "tariff",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
+      "url": "https://www.wnd.com/2026/11/watch-trump-confirms-new-tariff-schedule-authorized-1974/"
+    },
+    {
+      "source": "Radaronline.com",
+      "time": "just now",
+      "headline": "EXCLUSIVE: Trump Aide Natalie Harp Named in New Discovery Order Over Prez\u2019s Truth Social Deal",
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "url": "https://radaronline.com/p/trump-aide-natalie-harp-named-in-new-discovery-order-truth-social-deal/"
+    },
+    {
+      "source": "CNN",
+      "time": "just now",
+      "headline": "Vance says he was told Huang was not under investigation | CNN Politics",
+      "ticker": "INTC",
+      "keyword": "intel",
+      "url": "https://www.cnn.com/2026/11/25/politics/vance-jensen-huang-investigation"
     }
   ],
   "tracked": [
-    {
-      "ticker": "INTC",
-      "keyword": "intel",
-      "at": 51.28,
-      "now": 54.47,
-      "days": 3
-    },
-    {
-      "ticker": "NVDA",
-      "keyword": "nvidia",
-      "at": 125.53,
-      "now": 149.3,
-      "days": 3
-    },
     {
       "ticker": "NVDA",
       "keyword": "nvidia",
       "at": 165.05,
       "now": 149.3,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "INTC",
       "keyword": "intel",
       "at": 59.66,
       "now": 54.47,
-      "days": 1
+      "days": 2
     },
     {
       "ticker": "NVDA",
@@ -92,6 +70,27 @@
       "keyword": "trump media",
       "at": 3.65,
       "now": 3.65,
+      "days": 0
+    },
+    {
+      "ticker": "NVDA",
+      "keyword": "nvidia",
+      "at": 149.3,
+      "now": 149.3,
+      "days": 0
+    },
+    {
+      "ticker": "DJT",
+      "keyword": "trump media",
+      "at": 3.65,
+      "now": 3.65,
+      "days": 0
+    },
+    {
+      "ticker": "INTC",
+      "keyword": "intel",
+      "at": 54.47,
+      "now": 54.47,
       "days": 0
     }
   ]

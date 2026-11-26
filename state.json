@@ -1,26 +1,6 @@
 {
   "mentions": [
     {
-      "keyword": "intel",
-      "ticker": "INTC",
-      "date_detected": "2026-11-22T20:16:42.165683",
-      "price_at_detection": 51.28,
-      "headline": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
-      "url": "https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302",
-      "source": "CBC News",
-      "direct": false
-    },
-    {
-      "keyword": "nvidia",
-      "ticker": "NVDA",
-      "date_detected": "2026-11-22T20:16:42.258329",
-      "price_at_detection": 125.53,
-      "headline": "Trump Did Not Ask Chinese A Single Question About Jensen Huang",
-      "url": "https://crooksandliars.com/2026/11/trump-did-not-ask-chinese-single-question",
-      "source": "Crooksandliars.com",
-      "direct": false
-    },
-    {
       "keyword": "nvidia",
       "ticker": "NVDA",
       "date_detected": "2026-11-24T00:42:44.111399",
@@ -88,6 +68,46 @@
       "headline": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
       "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
       "source": "NPR",
+      "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-26T22:13:34.307019",
+      "price_at_detection": 149.3,
+      "headline": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43715",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-26T22:13:34.307160",
+      "price_at_detection": null,
+      "headline": "WATCH: Trump confirms new tariff schedule authorized by 1974 law",
+      "url": "https://www.wnd.com/2026/11/watch-trump-confirms-new-tariff-schedule-authorized-1974/",
+      "source": "Wnd.com",
+      "direct": false
+    },
+    {
+      "keyword": "trump media",
+      "ticker": "DJT",
+      "date_detected": "2026-11-26T22:13:34.436278",
+      "price_at_detection": 3.65,
+      "headline": "EXCLUSIVE: Trump Aide Natalie Harp Named in New Discovery Order Over Prez\u2019s Truth Social Deal",
+      "url": "https://radaronline.com/p/trump-aide-natalie-harp-named-in-new-discovery-order-truth-social-deal/",
+      "source": "Radaronline.com",
+      "direct": false
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-26T22:13:34.596062",
+      "price_at_detection": 54.47,
+      "headline": "Vance says he was told Huang was not under investigation | CNN Politics",
+      "url": "https://www.cnn.com/2026/11/25/politics/vance-jensen-huang-investigation",
+      "source": "CNN",
       "direct": false
     }
   ]
