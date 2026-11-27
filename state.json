@@ -109,6 +109,36 @@
       "url": "https://www.cnn.com/2026/11/25/politics/vance-jensen-huang-investigation",
       "source": "CNN",
       "direct": false
+    },
+    {
+      "keyword": "nvidia",
+      "ticker": "NVDA",
+      "date_detected": "2026-11-27T21:53:34.776571",
+      "price_at_detection": 150.49,
+      "headline": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+      "url": "https://www.trumpstruth.org/statuses/43715",
+      "source": "truth_social",
+      "direct": true
+    },
+    {
+      "keyword": "intel",
+      "ticker": "INTC",
+      "date_detected": "2026-11-27T21:53:35.150935",
+      "price_at_detection": 57.4,
+      "headline": "Intel Agencies Pushed USAID To Partner With Censorship NGO That Targeted Daily Caller, Other Conservative And Independent Outlets",
+      "url": "https://dailycaller.com/2026/11/26/usaid-censorship-ngo-targeted-conservative-outlets/",
+      "source": "The Daily Caller",
+      "direct": false
+    },
+    {
+      "keyword": "tariff",
+      "ticker": null,
+      "date_detected": "2026-11-27T21:53:35.151199",
+      "price_at_detection": null,
+      "headline": "Trump's fresh tariff threats: Seafood exports in a squeeze, rice unscathed",
+      "url": "https://www.business-standard.com/economy/news/trump-s-fresh-tariff-threats-seafood-exports-in-a-squeeze-rice-unscathed-126112601365_1.html",
+      "source": "Business Standard",
+      "direct": false
     }
   ]
 }
